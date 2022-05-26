@@ -14,8 +14,8 @@ console.log('pathPrefix is set to ...', pathPrefix);
 // see "eleventyConfig.addGlobalData("site", globalData);"" below
 // related: https://github.com/11ty/eleventy/issues/1641
 const globalSiteData = {
-  title: "11ty-plain-bootstrap5",
-  description: "Template for static site generator Eleventy with Boostrap 5 and SCSS/JS compilation via laravel-mix.",
+  title: "ESTATE WATCH",
+  description: "A resource for residents on estates under threat of demolition.",
   locale: 'en',
   baseUrl: baseUrl,
   pathPrefix: pathPrefix,
@@ -70,7 +70,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("dist/"); // path is relative from root
 
   // Copy (static) files to output (_site)
-  eleventyConfig.addPassthroughCopy("src/assets");
+  eleventyConfig.addPassthroughCopy("src/images");
+  eleventyConfig.addPassthroughCopy("src/pages/researchmaps");
+  eleventyConfig.addPassthroughCopy("src/pages/papers");
 
   // Copy transformed images
   // TODO: this is executed too soon? imgs not there?
@@ -82,7 +84,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setUseGitIgnore(false);
 
   // Watch for changes (and reload browser)
-  eleventyConfig.addWatchTarget("./src/assets"); // normal (static) assets
+  eleventyConfig.addWatchTarget("./src/images"); // normal (static) assets
   eleventyConfig.addWatchTarget("./dist") // laravel-mix output changes
 
   // RandomId function for IDs used by labelled-by
