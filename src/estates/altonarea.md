@@ -15,23 +15,22 @@ images:
   - src/images/altonlibrary.jpg
   - src/images/alton2.jpg
   - src/images/alton.jpg
-planning: null
+planning: Pending
 category: underthreat
 stage: Preparation
 ---
-![]()
 
 288 homes are earmarked for demolition on Wandsworth's Alton estate in Roehampton.
 
-Wandsworth [claims](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf) that demolition is necessary because the design of the buildings is poor and encourages anti-social behaviour.
+Wandsworth Council [claims](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf) that demolition is necessary because the design of the buildings is poor and encourages anti-social behaviour:
 
-<img src="/images/altospd.png" class="img-thumbnail rounded img-fluid">
+{% picture "src/images/altospd.png", "alt text" %}
 
 In 2017, Wandsworth signed a joint venture agreement with developer Redrow for the redevelopment of the estate.
 
 Despite the existing estate comprising an almost even split of social rented and private homes (leaseholders and freeholders), it is [claimed](https://planning2.wandsworth.gov.uk/iam/IAMCache/5300271/5300271.pdf) that *"the limited diversity in housing tenures and high proportion of social housing has inhibited the creation of a genuinely mixed and balanced community"*.
 
-<img src="/images/socialmix.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/socialmix.png", "Extract from planning application" %}
 
 Redrow submitted a planning application in late 2019, but in August 2020 it announced that it was pulling out of the scheme. Wandsworth Council went ahead and approved the application despite this in October 2020, giving consent for demolition and construction of 1,108 new homes of which 261 affordable (201 social rent). 
 

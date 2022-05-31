@@ -32,7 +32,7 @@ async function imageShortcode(src, alt, sizes = "100vw") {
 
   // TODO: pathPrefix must be '/path/', check existence of trailing slash?!
   let metadata = await Image(src, {
-    widths: [200,400,600],
+    widths: [200,400,600,800],
     formats: ['webp', 'jpeg'],
     urlPath: `${pathPrefix}img`,
     // outputDir: "./img/" is default
@@ -53,6 +53,7 @@ async function imageShortcode(src, alt, sizes = "100vw") {
         height="${highsrc.height}"
         alt="${alt}"
         loading="lazy"
+	class="rounded img-thumbnail mx-auto d-block"
         decoding="async">
     </picture>`;
 }
