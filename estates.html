@@ -1,0 +1,20 @@
+---
+---
+var freeBus = {
+  "type": "FeatureCollection",
+{% assign estates_underthreat = site.estates | where: "category", "underthreat" %}
+  "features": [{% for estate in estates_underthreat %}
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "{{ estate.name }}",
+	"stage": "{{ estate.stage }}",
+	"ballot": "{{ estate.ballot }}",
+  "planning": "{{ estate.planning }}",
+        "image": "{{ estate.images[0] }}",
+        "url": "{{estate.url}}"
+      },
+      "geometry": {{ estate.location }}
+      }{% if forloop.rindex > 1 %},{% endif %}{% endfor %}
+  ]
+};
