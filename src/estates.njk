@@ -1,0 +1,19 @@
+---
+permalink: '/estates.geojson'
+---
+var freeBus = {
+    "type": "FeatureCollection",
+    "features": [{% for estate in collections.estate %}
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "{{ estate.data.name }}",
+          "borough": "{{ estate.data.borough }}",
+          "image": "{{ estate.data.images[0] }}",
+          "planning": "{{ estate.data.planning }}",
+          "url": "{{estate.url}}"
+        },
+        "geometry": {{ estate.data.location | safe }}
+        }{% if not loop.last %},{% endif %}{% endfor %}
+    ]
+  };

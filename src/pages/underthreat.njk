@@ -1,0 +1,66 @@
+---
+layout: list
+eleventyNavigation:
+  key: Underthreat
+  order: 1
+---
+
+
+
+
+	<section class="jumbotron text-center">
+	     <div class="container">
+	     <h1>Estates under threat</h1>
+			         <p class="lead text-muted" align="left">
+				 Over 100 of London's council and housing association estates are under threat of demolition. See the list below and click on the name of the estate for more details.</p>
+
+</div>
+</section>
+
+
+
+<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+
+	
+	<div id="iframeHolder">
+		<iframe id="iframe" class="embed-responsive-item" src="/leafletmap.html" width="100%" height="400px"></iframe>
+	</div>
+</div>
+
+<div class="demo-html">
+<table id="example" class="table table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Borough</th>
+                <th>Total Homes</th>
+                <th>Landlord</th>
+                <th>Developer</th>
+                <th>ITLA</th>
+				<th>Ballot Status</th>
+				<th>Planning Status</th>
+            </tr>
+        </thead>
+        <tbody>
+             
+              {%- for estate in collections.estate -%}
+            <tr>
+		    <td> <a href="{{ estate.url }}">{{ estate.data.name }}</a> </td>
+          <td> {{ estate.data.borough | capitalize | replace("Barkinganddagenham", "Barking & Dagenham") | replace("Cityoflondon", "City of London") | replace("Kensingtonandchelsea", "Kensington & Chelsea") | replace("Towerhamlets", "Tower Hamlets") | replace("Walthamforest", "Waltham Forest") }} </td>
+          <td> {{ estate.data.total }} </td>
+	      <td> {{ estate.data.landlord }} </td>
+	      <td> {{ estate.data.developer }} </td>
+	      <td> {{ estate.data.itla }} </td>
+		  <td> {{ estate.data.ballot }} </td>
+		  <td> {{ estate.data.planning }} </td>
+	    </tr>
+	    
+          {%- endfor -%}
+	</tbody>
+</table>
+</div>
+
+
+
+

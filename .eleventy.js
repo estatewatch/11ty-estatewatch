@@ -32,7 +32,7 @@ async function imageShortcode(src, alt, sizes = "100vw") {
 
   // TODO: pathPrefix must be '/path/', check existence of trailing slash?!
   let metadata = await Image(src, {
-    widths: [600, 1200],
+    widths: [200,400,600],
     formats: ['webp', 'jpeg'],
     urlPath: `${pathPrefix}img`,
     // outputDir: "./img/" is default
@@ -73,6 +73,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/pages/researchmaps");
   eleventyConfig.addPassthroughCopy("src/pages/papers");
+  eleventyConfig.addPassthroughCopy("src/leaflet");
+  eleventyConfig.addPassthroughCopy("src/leafletmap.html");
+  eleventyConfig.addPassthroughCopy("src/estates.html");
 
   // Copy transformed images
   // TODO: this is executed too soon? imgs not there?
@@ -95,7 +98,7 @@ module.exports = function (eleventyConfig) {
   });
 
   // eleventy-img config
-  eleventyConfig.addNunjucksAsyncShortcode("image", imageShortcode);
+  eleventyConfig.addNunjucksAsyncShortcode("picture", imageShortcode);
 
   // Base Config
   return {
