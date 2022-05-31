@@ -1,4 +1,11 @@
 /* via https://getbootstrap.com/docs/5.0/examples/jumbotron/ */
+#carouselHero .carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 300px;
+  overflow: hidden;
+}
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
