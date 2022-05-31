@@ -381,7 +381,7 @@ var freeBus = {
           "title": "Alton estate",
           "borough": "wandsworth",
           "image": "src/images/altonthumblarge.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/altonarea/"
         },
         "geometry": {"type":"Point","coordinates":[-0.243483,51.450221]}
