@@ -4,15 +4,15 @@ stage: Demolished
 name: Heathside and Lethbridge estate 
 borough: lewisham
 images:
-  - /images/lbridge1.png
-  - /images/lbridge2.png
-  - /images/lbridge3.png
-  - /images/lbridge4.png
-  - /images/lbridge5.png
-  - /images/lbridge6.png
-  - /images/lbridge7.png
-  - /images/lbridge8.png
-  - /images/lbridge9.png
+  - src/images/lbridge1.png
+  - src/images/lbridge2.png
+  - src/images/lbridge3.png
+  - src/images/lbridge4.png
+  - src/images/lbridge5.png
+  - src/images/lbridge6.png
+  - src/images/lbridge7.jpg
+  - src/images/lbridge8.jpg
+  - src/images/lbridge9.jpg
 location: '{"type":"Point","coordinates":[-0.013962,51.471971]}'
 landlord: Lewisham Council
 developer:

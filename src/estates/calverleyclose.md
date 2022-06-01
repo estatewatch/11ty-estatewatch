@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Calverley Close estate 
 borough: bromley 
 thumb: /images/calthumb.jpg
@@ -16,8 +14,8 @@ landlord: Riverside Housing Association
 developer:
 itla: Source Partnership
 total: 150
-ballot: Required
-planning:
+ballot: Approved
+planning: Pending
 ---
 Circa 150 homes are earmarked for potential demolition on Bromley's Calverley Close estate in Beckenham.
 
@@ -29,10 +27,12 @@ In May 2019 Riverside instructed Tpas, an independent body which advises social 
 
 Tpas visited residents at Calverley Close to ask for their thoughts and opinions about the redevelopment proposals and produced a [report](/images/tpasreport.pdf) with some interesting findings:
 
-<img src="/images/riversidecalverley.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/riversidecalverley.png", "alt text" %}
 
 
-The Mayor agreed funding in principle for the redevelopment in November 2018 (subject to ballot).
+The Mayor agreed funding in principle for the redevelopment in November 2018.
+
+A ballot was held in July 2021, with a majority of residents voting in favour of redevelopment.
 
 
 More information is available on Riverside's website here: [https://www.riverside.org.uk/redevelopment-projects/calverley-close-revitalising-your-neighbourhood/](https://www.riverside.org.uk/redevelopment-projects/calverley-close-revitalising-your-neighbourhood/)

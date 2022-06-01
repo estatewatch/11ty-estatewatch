@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal 
 name: Avondale Drive estate
 borough: hillingdon
 thumb: /images/avondalethumb.jpg
@@ -14,7 +12,7 @@ developer:
 itla: 
 total:
 ballot: Required
-planning:
+planning: Pending
 ---
 144 homes are under threat on Hillingdon's Avondale Drive estate in Hayes (117 Council and 27 leasehold).
 
@@ -26,7 +24,7 @@ Four years later, in 2020, Hillingdon commissioned Savills to undertake an [opti
 
 The Savills report recommended demolition and rebuild on the basis that the estate has high investment needs, requiring an estimated expenditure of £59,726 (per unit) in maintenance costs over the next 30 years compared to a London average of £30,160. 
 
-<img src="/images/avondalenpv.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/avondalenpv.png", "alt text" %}
 
 But the £57,631 figure includes 'additional expenditure' of £11,603 per unit for other works like installing sprinkler systems.
 

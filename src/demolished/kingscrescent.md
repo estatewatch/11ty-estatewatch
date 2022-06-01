@@ -3,7 +3,7 @@ stage: Implementation
 name: Kings Crescent estate 
 borough: Hackney 
 images:
-  - /images/kingscrescent.jpg
+  - src/images/kingscrescent.jpg
 location: '{"type":"Point","coordinates":[-0.092488,51.562183]}'
 landlord: Hackney Council
 developer:

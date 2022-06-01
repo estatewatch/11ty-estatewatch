@@ -2,7 +2,7 @@
 name: Carpenters estate
 borough: newham
 location: '{"type":"Point","coordinates":[-0.004882,51.537846]}'
-ballot: Required
+ballot: Approved
 landlord: Newham Council
 developer: null
 itla: TPAS/Source Partnership
@@ -27,9 +27,7 @@ images:
   - src/images/cp15.jpg
   - src/images/cp16.jpg
   - src/images/cp17.jpg
-planning: null
-category: underthreat
-stage: Proposal
+planning: Pending
 ---
 710 homes are under threat of demolition on Newham's Carpenters estate in Stratford.
 
@@ -37,7 +35,7 @@ Plans for the estate's regeneration have been under consideration since 2000, wi
 
 To save the estate from demolition, <a href="https://savecarpenters.wordpress.com/about/">Carpenters Against Regeneration Plans (CARP)</a> was formed by residents of the estate in 2011.  <a href="/images/ccplan.pdf">Carpenters Community Plan</a> was published in 2013 and the <a href="https://greatercarpenterscouk.files.wordpress.com/2019/06/np-june-2019-submission-version.pdf">Greater Carpenters Neighbourhood Plan</a> in 2019, both of which propose a bottom-up community based approach to planning the future of the estate.
 
-<img src="/images/carp.png" class="img-fluid rounded img-thumbnail" width="60%">
+{% picture "src/images/carp.png", "alt text" %}
 
 Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held some time in 2021.
 

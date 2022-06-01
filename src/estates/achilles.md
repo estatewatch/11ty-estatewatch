@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Preparation
 name: Achilles Street area 
 borough: lewisham
 thumb: /images/ach1thumb.jpg
@@ -31,11 +29,11 @@ Campaingers have also [revealed](https://achillesstreetstopandlisten.wordpress.c
 
 59 of the 89 eligible residents voted in favour of redevelopment. Temporary tenants were included as eligible to vote and were [offered](https://achillesstreetstopandlisten.files.wordpress.com/2019/09/appendix-a-achilles-street-landlord-offer.pdf) secure tenancies if they voted in favour of the scheme. The homes and shops affected are shown in the plan below:
 
-<img src="/images/achillesplan.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/achillesplan.png", "alt text" %}
 
 The Council's ['Landlord Offer'](You will receive compensation for having to move and be given help with the cost of moving.) describes the proposed tenure mix of the 450 new homes to built on the site as follows:
 
-<img src="/images/aslo.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/aslo.png", "alt text" %}
 
 __Links:__
 

@@ -16,8 +16,6 @@ images:
   - src/images/colville8.png
   - src/images/colvilleplans.jpg
 planning: Approved
-category: underthreat
-stage: Implementation
 ---
 Circa 200 homes remain earmarked for demolition on Hackney's Colville estate.
 
@@ -33,4 +31,4 @@ In August 2019, it was [reported](https://www.hackneygazette.co.uk/news/bridport
 
 Hackney Council subsequently decided on remediation works which are estimated to cost £6m. In January 2022, it was [reported](https://www.insidehousing.co.uk/news/news/london-council-warns-all-options-remain-open-to-recoup-costs-on-defect-ridden-block-as-repairs-start-73949) that the Council is considering legal action to recover the cost of these works.
 
-<img src="/images/bridport.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/bridport.png", "alt text" %}

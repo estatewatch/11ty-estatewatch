@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Cressingham Gardens estate 
 borough: lambeth
 thumb: /images/cressinghamthumb.jpg
@@ -15,21 +13,21 @@ developer:
 itla: Public Voice/PPCR
 total: 306
 ballot: Required
-planning:
+planning: Pending
 ---
 306 homes are earmarked for demolition on Lambeth's Cressingham Gardens estate at Brockwell Park.
 
 In 2016, Lambeth Council [took the decision](https://moderngov.lambeth.gov.uk/documents/s80093/Cabinet%20Report%20-%20March%202016%20v8.pdf) to demolish the estate based on fact that refurbishment estimates were £14,000 higher per dwelling than the rest of its estates and this represents 'poor value for money':
 
-<img src="/images/cressinghamrefurb.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/cressinghamrefurb.png", "alt text" %}
 
 Lambeth also claims that the redevelopment of the estate will result in the provision of more 'affordable' housing to address the housing crisis. It plans to reprovide the existing council homes and provide an extra 27 at council rent plus a further 48 at 'no higher than LHA rates':
 
-<img src="/images/cressinghamlha.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/cressinghamlha.png", "alt text" %}
 
 [LHA rates for Lambeth](https://lha-direct.voa.gov.uk/SearchResults.aspx?LocalAuthorityId=22&LHACategory=999&Month=6&Year=2020&SearchPageParameters=true) are currently as follows:
 
-<img src="/images/cressinghamlharates.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/cressinghamlharates.png", "alt text" %}
 
 The estate is one of [four estates](/underthreat/lambeth/) earmarked for demolition in Lambeth's estate renewal programme.
 
@@ -37,7 +35,7 @@ The estate was initially awarded grant funding by the Mayor and exempted from hi
 
 There is an active [campaign group](https://savecressingham.wordpress.com) created by residents on the estate. In 2016 they launched ['Cressingham People's Plan - http://cressinghampeoplesplan.org.uk/](http://cressinghampeoplesplan.org.uk/) which offers a viable alternative to demolition.
 
-<img src="/images/peoplesplan.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/peoplesplan.png", "alt text" %}
 
 In July 2019, they [had their application approved](http://www.brixtonbuzz.com/2019/07/cressingham-gardens-residents-win-right-to-transfer/) for the Right To Transfer (RTT) ownership of the estate into a community-owned company outside of council control.
 
@@ -47,7 +45,7 @@ In November 2020, Lambeth (or rather its [SPV - 'Homes for Lambeth'](https://www
 
 The [planning statement](https://planning.lambeth.gov.uk/online-applications/files/83BAE4274987382EE947282499316D28/pdf/20_02406_RG3-REVISED_PLANNING_STATEMENT-2579279.pdf) (prepared by Savills) explains that 20 new homes will be built of which 14 will be 'Council level' rent and the remaining 6 shared ownership.
 
-<img src="/images/trise.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/trise.png", "alt text" %}
 
 Supporting documents for the planning application and details of how to submit objections are available on Lambeth's planning portal [here - ref:(20/02406/RG3)](https://planning.lambeth.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QDRW4MBOGMR00).
 

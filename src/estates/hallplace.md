@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal 
 name: Hall Place estate
 borough: westminster
 thumb: /images/hp7thumb.jpg
@@ -40,13 +38,13 @@ developer:
 itla:
 total: 500
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 500 homes are under threat of demolition at the Hall Place estate in Maida Vale.
 
 The estate is situated off the Edgware road near the Regent's Canal. It sits [within](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) an area that has been designated a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
 
-<img src="/images/renewalarea.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/renewalarea.png", "alt text" %}
 
 It is also within the boundary of the __Edgeware Road Housing Zone__, one of [30 special housing zones](https://www.london.gov.uk/what-we-do/housing-and-land/increasing-housing-supply/housing-zones#acc-i-42741) designated by the Mayor to deliver accelerated housing development. The Edgeware Road zone is expected to deliver 1700 new homes.
 

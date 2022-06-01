@@ -3,21 +3,21 @@ stage: Implementation
 name: Pepys estate 
 borough: Lewisham
 images:
-  - image_path: /images/Lor_pepys1.jpg
-  - image_path: /images/Lor_pepys2.jpg
-  - image_path: /images/Lor_pepys3.jpg
-  - image_path: /images/Lor_pepys4.jpg
-  - image_path: /images/Lor_pepys5.jpg
-  - image_path: /images/Lor_pepys6.jpg
-  - image_path: /images/Lor_pepys7.jpg
-  - image_path: /images/Lor_pepys8.jpg
-  - image_path: /images/Lor_pepys9.jpg
-  - image_path: /images/Lor_pepys10.jpg
-  - image_path: /images/Lor_pepys11.jpg
-  - image_path: /images/Lor_pepys12.jpg
-  - image_path: /images/Lor_pepys13.jpg
-  - image_path: /images/Lor_pepys14.jpg
-  - image_path: /images/Lor_pepys15.jpg
+  - src/images/Lor_pepys1.jpg
+  - src/images/Lor_pepys2.jpg
+  - src/images/Lor_pepys3.jpg
+  - src/images/Lor_pepys4.jpg
+  - src/images/Lor_pepys5.jpg
+  - src/images/Lor_pepys6.jpg
+  - src/images/Lor_pepys7.jpg
+  - src/images/Lor_pepys8.jpg
+  - src/images/Lor_pepys9.jpg
+  - src/images/Lor_pepys10.jpg
+  - src/images/Lor_pepys11.jpg
+  - src/images/Lor_pepys12.jpg
+  - src/images/Lor_pepys13.jpg
+  - src/images/Lor_pepys14.jpg
+  - src/images/Lor_pepys15.jpg
 location: '{"type":"Point","coordinates":[-0.0334,51.48873]}'
 landlord: Lewisham Council
 developer:

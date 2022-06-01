@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Oldchurch Gardens estate 
 borough: havering
 thumb: /images/oc1thumb.jpg
@@ -14,8 +12,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 84
-ballot:
-planning:
+ballot: Exempt
+planning: Pending
 ---
 84 homes are under threat of demolition on Havering's Oldchurch Gardens estate in Romford.
 

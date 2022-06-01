@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: Aylesbury estate 
 borough: southwark
 thumb: /images/aylesburyiconthumb.jpg
@@ -40,11 +38,11 @@ The scheme is being [funded](https://www.london.gov.uk/sites/default/files/2021.
 
 Despite Southwark Council's aim to replace all of the existing social rented housing, Notting Hill Genesis' [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) describes the replacement 'social housing' as a mix of 'target and affordable rent' and acknowledges that in any event there will be an overall net loss of 931 social rented homes.
 
-<img src="https://35percent.org/img/gnhah.png" class="img-fluid rounded img-thumbnail">
+{% picture "https://35percent.org/img/gnhah.png", "alt text" %}
 
 In February 2015 a group of protesters [occupied](https://www.theguardian.com/society/2015/feb/18/six-arrested-as-police-help-in-evictions-from-london-estate) the first development site in protest at the loss of council homes and residents [disenfranchised](/images/SNWolverton.pdf) by the scheme. 
 
-<img src="https://35percent.org/img/alag.png" class="img-fluid rounded img-thumbnail">
+{% picture "https://35percent.org/img/alag.png", "alt text" %}
 
 In September 2016, after a [protracted public inquiry](http://35percent.org/2016-09-18-aylesbury-compulsory-purchase-order-rejected/) the Secretary of State [rejected](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) Southwark Council's application to remove remaining leaseholders with a compulsory purchase order on the grounds that rehousing offers to leaseholders wouldn't enable them to stay in the area. This subsequently led to a [policy change](/images/SN19April2018.pdf) which improved the rehousing offer.
 
@@ -52,7 +50,7 @@ In July 2020, Southwark resolved to step in and [stump up £193m](http://35perce
 
 In May 2021, Southwark's [Cabinet member for Climate Emergency and Sustainable Development](https://www.southwark.gov.uk/council-and-democracy/councillors-and-mps/leader-of-the-council-and-cabinet-members?chapter=6) [announced](https://twitter.com/helendennis80/status/1395336950962327552) that 80 homes on remaining phases of the [Aylesbury estate](https://www.estatewatch.london/estates/southwark/aylesbury/) have been [refurbished to be let out as temporary accommodation](https://www.southwark.gov.uk/news/2021/may/southwark-council-to-provide-temporary-housing-for-80-homeless-people-on-aylesbury-estate-while-581-council-homes-are-being-built) to families on the Council's housing waiting list.
 
-<img src="/images/hdtweet.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/hdtweet.png", "alt text" %}
 
 The homes have been refurbished to [Southwark Good Homes Standard](https://www.southwark.gov.uk/news/2021/mar/new-southwark-council-good-homes-standard-for-temporary-accommodation) and will be available to let from July until the phase of the estate is 'decanted'. The Aylesbury estate is London's largest estate redevelopment and is set to take 15 years to complete. Approximately 700 of the estate's 2,759 homes have been demolished to date and phase 1 of 4 is currently under construction.
 

@@ -3,7 +3,7 @@ stage: Implementation
 name: Sweets Way estate 
 borough: Barnet 
 images:
-  - /images/sweetsway.jpg
+  - src/images/sweetsway.jpg
 location: '{"type":"Point","coordinates":[-0.172491,51.628122]}'
 landlord: Notting Hill Genesis
 developer:

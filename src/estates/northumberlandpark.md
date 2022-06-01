@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Northumberland Park estates
 borough: haringey
 thumb: /images/northumberland2thumb.jpg
@@ -14,13 +12,13 @@ developer:
 itla: PPCR
 total: 1027
 ballot: Required
-planning:
+planning: Pending
 ---
 1027 Council homes on Haringey's Northumberland Park estates have been earmarked for redevelopment in Tottenham.
 
 They have been identified for redevelopment in Haringey's [Tottenham Area Action Plan](https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_tottenham_aap_dtp_online.pdf) (site NT4). 
 
-<img src="/images/northumberland.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/northumberland.png", "alt text" %}
 
 Haringey Council's [dedicated website](https://tottenham.london/NP) provides further details of the scheme.
 

@@ -3,7 +3,7 @@ stage: Implementation
 name: Tollgate Gardens estate 
 borough: Westminster
 images:
-  - /images/tollgate.png
+  - src/images/tollgate.png
 location: '{"type":"Point","coordinates":[-0.191409,51.535285]}'
 landlord: Westminster Council
 developer:

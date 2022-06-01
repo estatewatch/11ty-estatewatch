@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Brookwood Road estate
 borough: hounslow
 thumb: /images/brookwoodroadthumb.jpg
@@ -33,7 +31,7 @@ developer:
 itla:
 total: 200
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 200 homes have been earmarked for potential demoliton on Hounslow's Brookwood Road estate.
 

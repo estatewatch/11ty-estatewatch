@@ -3,7 +3,7 @@ stage: Implementation
 name: Stonebridge estate 
 borough: Brent 
 images:
-  - /images/stonebridge.jpg
+  - src/images/stonebridge.jpg
 location: '{"type":"Point","coordinates":[-0.262596,51.541977]}'
 landlord: Brent Council
 developer:

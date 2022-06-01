@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Ham Close estate 
 borough: richmond
 thumb: /images/hamclosethumb.jpg
@@ -29,7 +27,7 @@ In 2016, RHP [decided](https://754dc77b-a377-429d-9516-ae12db0b724d.filesusr.com
 
 RHP's [offer](https://754dc77b-a377-429d-9516-ae12db0b724d.filesusr.com/ugd/64a226_f9cd40099c6f42b28c4fa219aa05723f.pdf) to residents says that tenants will be offered the same rent structure as they currently enjoy but acknowledges that rents will be an increase because of increased property values.
 
-<img src="/images/hamcloseoffer.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/hamcloseoffer.png", "alt text" %}
 
 Approximately 450 new homes are proposed but the scheme hasn't entered the detailed design consultation stage and there is no planning application or scoping appraisal yet submitted.
 

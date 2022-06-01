@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Avenue Road estate
 borough: walthamforest
 location: '{"type":"Point","coordinates":[-0.002466,51.554350]}'
@@ -25,7 +23,7 @@ planning: Pending
 
 The estate was one of 11 estates [identified](https://democracy.walthamforest.gov.uk/documents/s10654/4.2.%20LSP%20report%20-%20Estates%20Review.pdf) for possible redevelopment in a 2010 Estates Capacity Study.
 
-<img src="/images/11estates.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/11estates.png", "alt text" %}
 
 The Council appointed a residents' advisor to the scheme in 2019 (Newman Francis). Newman Francis has also been [involved in Lambeth's estate regeneration schemes](http://newmanfrancis.org/projects/westbury-lambeth/).
 

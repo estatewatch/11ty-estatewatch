@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: Agar Grove estate 
 borough: camden
 thumb: /images/agrove2thumb.jpg
@@ -40,11 +38,12 @@ The estate is situated near Camden Town to the north of Kings Cross and comprise
 The scheme is being [funded](/approved/funding) by the Mayor and has been [exempted](/approved/ballotexemptions) by the Mayor from his requirement to ballot residents on the demolition of their homes. 
 
 Planning consent for redevelopment was granted in Dec 2014 which spans six phases of development. The first phase in currently underway and Camden has already started marketing the new private homes on this phase [https://thecamdencollection.co.uk/](https://thecamdencollection.co.uk/): 
-<img src="/images/visiv.png" class="img-fluid rounded img-thumbnail">
+
+{% picture "src/images/visiv.png", "alt text" %}
 
 In 2019, Camden Council issued a Compulsory Purchase Order in order to remove the remaining leaseholders in the next phase. The Council's [statement of reasons](https://www.camden.gov.uk/documents/20142/35497697/Agar+Grove+estate+CPO+-+Statement+of+Reasons+May+2019.pdf/5dc5fe4d-8a00-07db-2e4e-d4984251e7d7) for redeveloping the estate gives the following explanation of why demolition is necessary:
 
-<img src="/images/cposor.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/cposor.png", "alt text" %}
 
 It also explains that only 216 replacement social rented homes will replace the 249 being demolished (para 3.10). Paragraph 3.15 of the CPO statement reveals that Camden's shared equity offer to leaseholders requires them to take out a mortgage if they want to take up the offer of a new home (on top of any existing mortgage).
 
@@ -54,7 +53,7 @@ Camden's [leaseholder rehousing policy](https://www.camden.gov.uk/documents/2014
 
 This is a breach of the Government's [Compulsory Purchase Code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/571453/booklet4.pdf) which says that:
 
-<img src="/images/cpocodeextract.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/cpocodeextract.png", "alt text" %}
 
 It is also a breach of the legal “principle of equivalence” which says that persons affected by compulsory purchase should be no worse off in financial terms after the acquisition. 
 

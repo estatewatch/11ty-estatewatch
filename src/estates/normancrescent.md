@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Norman Crescent estate 
 borough: hounslow
 thumb: /images/nc1thumb.jpg
@@ -35,7 +33,7 @@ landlord: Hounslow Council
 itla:
 total: 300
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 300 homes are earmarked for potential demolition on Hounslow's Norman Crescent estate.
 

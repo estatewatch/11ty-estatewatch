@@ -3,7 +3,7 @@ stage: Implementation
 name: Wood Dene estate 
 borough: southwark
 images:
-  - /images/wood_dene.jpg
+  - src/images/wood_dene.jpg
 location: '{"type":"Point","coordinates":[-0.063363,51.474467]}'
 landlord: Southwark Council
 developer:

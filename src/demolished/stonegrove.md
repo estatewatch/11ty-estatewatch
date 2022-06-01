@@ -3,7 +3,7 @@ stage: Implementation
 name: Stonegrove and Spur Road estate 
 borough: Brent 
 images:
-  - /images/stonegrove.png
+  - src/images/stonegrove.png
 location: '{"type":"Point","coordinates":[-0.288804,51.621214]}'
 landlord: Brent Council
 developer:

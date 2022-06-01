@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: Abbey Road estate 
 borough: camden
 thumb: /images/abbeyestatethumb.jpg
@@ -21,12 +19,12 @@ Circa 100 council homes are under threat of demolition in phase 3 of Camden's [A
 
 Phase 3 also involves the demolition of the Abbey Community Centre, Belsize Priory Health Centre, the parade of shops and the Lillie Langtry pub.
 
-<img src="/images/abbeyroadmasterplan.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/abbeyroadmasterplan.png", "alt text" %}
 
 Outline planning permission was granted for the scheme in 2013.
 
 Phase 1 of the scheme is already completed and homes are currently being marketed by Camden's in-house marketing group: [https://thecamdencollection.co.uk/private-sale/abbey-road-cross](https://thecamdencollection.co.uk/private-sale/abbey-road-cross) 
 
-<img src="/images/ccollection.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/ccollection.png", "alt text" %}
 
 The Mayor [approved funding](/approved/funding/) for phase 3 of the scheme in November 2018 and [exempted](/approved/ballotexemptions) it from his requirement to ballot residents on the demolition of their homes.

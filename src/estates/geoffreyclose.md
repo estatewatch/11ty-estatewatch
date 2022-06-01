@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Preparation 
 name: Geoffrey Close (Lambeth) estate 
 borough: lambeth
 thumb: /images/clethumb.jpg
@@ -31,7 +29,7 @@ In November 2020, Riverside applied for planning permission to demolish the esta
 
 In December, the Mayor published his [stage 1 planning report](https://gla.force.com/pr/s/planning-application/a0i4J000002TXIGQA4/20206691?tabset-c2f3b=2) in response to the planning application. 
 
-<img src="https://estatewatch.london/images/cle8.jpg" width="50%" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/cle8.jpg", "alt text" %}
 
 The report is critical of Riverside's proposal to gate the entire development (para 39) and failure to re-provide the ball court (para 43). It also criticises the uplift of just one social rented home, despite a near fourfold increase in the total number of homes - _"It is disappointing that, given the significant uplift in housing across the site, the uplift in affordable housing is just one unit."_ (para 49)
 
@@ -41,7 +39,7 @@ Interestingly, the report does raise the issue that residents were balloted on a
 
 The tenure mix in Riverside's [Landlord Offer](http://estatewatch.london/images/geoffreycloseoffer.pdf) to residents at the time of the ballot was as follows:
 
-<img src="/images/roffer.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/roffer.png", "alt text" %}
 
 But the tenure mix proposed in its planning application includes an extra 43 homes in total, while reducing the number of social rented habitable rooms by 44 to 431 and increasing the number of market sale habitable rooms by 72 to 781.
 

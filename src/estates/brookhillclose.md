@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Preparation 
 name: Brookhill Close estate 
 borough: greenwich
 thumb: /images/bhill4thumb.jpg

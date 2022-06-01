@@ -10,9 +10,7 @@ total: 129
 thumb: /images/clarehousethumb.jpg
 images:
   - src/images/clarehouse.jpg
-planning: null
-category: underthreat
-stage: Implementation
+planning: Pending
 ---
 Clare House is a 22-storey tower block with 129 flats in Tower Hamlets. It was built in 1968 using the Long Panel System (LPS) construction method.
 

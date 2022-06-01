@@ -3,7 +3,7 @@ stage: Implementation
 name: Loughborough Park estate 
 borough: Lambeth
 images:
-  - /images/loughborough.png
+  - src/images/loughborough.png
 location: '{"type":"Point","coordinates":[-0.105629,51.458923]}'
 landlord: Peabody
 developer:

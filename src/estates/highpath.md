@@ -1,6 +1,4 @@
 ---
-category: underthreat
-erg: noncompliant
 name: High Path estate
 stage: Implementation
 borough: merton
@@ -29,21 +27,21 @@ Phase 1 of the scheme is currently underway and phase 2 was granted detailed pla
 
 The scheme is being progressed by Clarion Housing Association (formerly Circle/Affinity Sutton), which took over the Council's housing estate under a 2010 stock transfer agreement. The agreement required Clarion to bring the homes up to Decent Homes Standard by the end of 2015, but Clarion subsequently [persuaded](https://www.merton.gov.uk/assets/Documents/04_merton_report_of_consultation_stage_2_estates_local_plan.pdf) the Council to agree to waiver this requirement for two estates which it claimed would benefit from full redevelopment - High Path estate and the [Eastfields estate](/estates/merton/eastfields) and the partial redevelopment of the smaller Ravensbury estates. 
 
-<img src="/images/mertonestates.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/mertonestates.png", "alt text" %}
 
 The three Merton schemes have been [awarded](https://planning.merton.gov.uk/MVM.DMS/Planning%20Application/1000098000/1000098159/17P1721_Clarions%20Financial%20Viability%20Appraisal%20Summary%20Report.pdf) £43m funding by the Mayor from his current affordable housing programme (of which £21m for the High Path estate) and have been [granted an exemption](https://www.london.gov.uk/sites/default/files/12.04.19_for_website_-_list_of_exemptions.pdf) from his requirement to ballot residents.
 
-<img src="/images/mertongrant.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/mertongrant.png", "alt text" %}
 
 Residents were given the chance to express their views as part of Merton's [consultation](https://www.merton.gov.uk/assets/Documents/04_merton_report_of_consultation_stage_2_estates_local_plan.pdf) on the scheme. Of the 92 residents who responded, only 41 respondents favoured “entire redevelopment”, 24 preferred “partial redevelopment”, and another 24 chose refurbishment.
 
-<img src="/images/highpathconsultation.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/highpathconsultation.png", "alt text" %}
 
 The [options appraisal](/images/highpathsavills.pdf) was carried out by Savills and made several interesting conclusions, firstly that residents were satisfied with their current homes: _"There is a strong community spirit and many of the residents of the High Path Estate enjoy living on the Estate (evidenced by low turnover of tenants, as well as feedback received from residents.)"_ - (para 2.1).
 
 Secondly, that whilst the cost of redevelopment was higher than that of refurbishment, the difference wasn't disclosed because of 'commercial confidentiality':
 
-<img src="/images/hpsavills.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/hpsavills.png", "alt text" %}
 
 Savills was later also instructed to produce a [financial viability appraisal](https://planning.merton.gov.uk/MVM.DMS/Planning%20Application/1000098000/1000098159/17P1721_Clarions%20Financial%20Viability%20Appraisal%20Summary%20Report.pdf) justifying Clarion's claim that it couldn't provide a policy-compliant level of affordable housing for the scheme.
 

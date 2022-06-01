@@ -13,9 +13,7 @@ images:
   - src/images/af2.png
   - src/images/af3.png
   - src/images/afbrochure.png
-planning: null
-category: underthreat
-stage: Implementation
+planning: Approved
 ---
 225 homes remain under threat of demolition at Poplar HARCA's redevelopment of the Aberfeldy estate in Tower Hamlets.
 
@@ -23,13 +21,13 @@ The estate was transferred from Tower Hamlets to Poplar HARCA in 2007 under a st
 
 The estate borders the River Lea to the East, Balfron Tower to the West and the Robin Hood Gardens estate to the South. Poplar HARCA have already come under [criticism](https://www.theguardian.com/cities/2019/sep/19/balfron-20-how-goldfingers-utopian-tower-became-luxury-flats) for its privatisation of Balfron Tower.
 
-<img src="/images/afbrochure.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/afbrochure.png", "alt text" %}
 
 The scheme is part of Poplar HARCA's [‘Poplar Reshaping’ masterplan](https://www.architectsjournal.co.uk/download?ac=1222139) which envisaged the redevelopment of ten estates: Aberfeldy, Brownfield, Bow Bridge, Coventry Cross, Burdett, Devons, Lansbury, Leopold, Lincoln and Teviot.
 
 13 residential blocks, 24 shops, a mosque and a community hall are set for demolition in remaining phases 3-6 of what has now been [re-branded](https://ecoworldlondon.com/media/1288/aberfeldy-village-host-brochure.pdf) 'Aberfeldy Village' or 'Aberfeldy West'.
 
-<img src="/images/aberfeldyvillage.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/aberfeldyvillage.png", "alt text" %}
 
 The scheme is being progressed in six phases in a joint venture with Malaysian investor, Ecoworld and will create 1176 new homes in total.
 
@@ -41,7 +39,7 @@ Compulsory purchase orders were [issued in 2016](https://www.towerhamlets.gov.uk
 
 The [compulsory purchase order documents](https://www.towerhamlets.gov.uk/Documents/Planning-and-building-control/Aberfeldy_SoR_140616.pdf) confirm that 619 new homes will replace the 225 being demolished and that 100 will be affordable rent, the remainder being provided as predominantly mainly private housing.
 
-<img src="/images/aberfeldycpo.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/aberfeldycpo.png", "alt text" %}
 
 In August 2021, [pre-application advice](https://democracy.towerhamlets.gov.uk/documents/s189892/Aberfeldy%20Village%20SDC%20Pre-app%20Report%20Final.pdf) was sought on a revised masterplan for the remainder of the estate. This proposes to  provide 1608 new homes of which 1181 units would be for private sale, 81 units of intermediate tenure and 346 units as affordable rent (i.e. up to 80% market rent).
 

@@ -3,7 +3,7 @@ stage: Implementation
 name: Leopold estate 
 borough: Tower Hamlets 
 images:
-  - /images/leopold.jpg
+  - src/images/leopold.jpg
 location: '{"type":"Point","coordinates":[-0.029091,51.518176]}'
 landlord: Tower Hamlets
 developer:

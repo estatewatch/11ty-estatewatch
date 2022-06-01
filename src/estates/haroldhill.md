@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Farnham and Hilldene estate 
 borough: havering
 thumb: /images/farnham1thumb.jpg
@@ -16,7 +14,7 @@ developer: Wates
 itla: TPAS
 total: 200
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 200 homes are under threat of demolition at Havering's Farnham and Hilldene estate in Harold Hill. 
 

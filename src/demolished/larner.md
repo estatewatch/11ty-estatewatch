@@ -2,7 +2,7 @@
 name: Larner Road estate 
 borough: Bexley
 images:
-  - /images/larner.jpg
+  - src/images/larner.jpg
 location: '{"type":"Point","coordinates":[0.17835,51.473574]}'
 landlord: Bexley Council
 developer:

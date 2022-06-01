@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: Clapham Park estate 
 borough: lambeth
 thumb: /images/cpark6thumb.jpg

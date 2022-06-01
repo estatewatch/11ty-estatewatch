@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Maygreen Crescent estate 
 borough: havering
 thumb: /images/mg1thumb.jpg
@@ -17,7 +15,7 @@ developer: Wates
 itla: TPAS
 total: 150
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 150 homes are under threat of demolition on Havering's Maygreen Crescent estate in Hornchurch.
 

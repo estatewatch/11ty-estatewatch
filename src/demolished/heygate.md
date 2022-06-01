@@ -3,7 +3,7 @@ stage: Implementation
 name: Heygate estate 
 borough: Southwark
 images:
-  - /images/heygate.jpg
+  - src/images/heygate.jpg
 location: '{"type":"Point","coordinates":[-0.097468,51.493735]}'
 landlord: Southwark Council
 developer:

@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation
 name: Grange Farm estate 
 borough: harrow
 thumb: /images/gfarm3thumb.jpg
@@ -26,15 +24,15 @@ Planning permission was granted in March 2019, with detailed consent for Phase 1
 
 Harrow's [planning application documents](https://planningsearch.harrow.gov.uk/civica/Resource/Civica/Handler.ashx/Doc/pagestream?cd=inline&pdf=true&docno=10424727) provide details of the proposed tenure mix of the 574 new homes:
 
-<img src="/images/grangefarmsr2.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/grangefarmsr2.png",  "alt text" %}
 
 It also confirms that the replacement 'social' housing will be at London Affordable Rent levels.
 
-<img src="/images/grangefarmsr.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/grangefarmsr.png",  "alt text" %}
 
 This appears to contradict the conclusions in the [Mayor's report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_460660///grange_farm_estate_report.pdf) which says that it has been secured at 'target rent' levels.
 
-<img src="/images/grangefarmsr.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/grangefarmsr.png",  "alt text" %}
 
 There is no publicly available section 106 agreement to confirm the exact tenure of the replacement 'social' housing or whether it has been secured in perpetuity.
 

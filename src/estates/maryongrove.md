@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation
 name: Maryon Grove estate 
 borough: greenwich
 thumb: /images/mw5thumb.jpg
@@ -14,19 +12,19 @@ developer: Lovell
 itla:
 total: 172
 ballot: Required
-planning:
+planning: Pending
 ---
 172 homes on Greenwich's Maryon Grove estate in Charlton have been earmarked for demolition by Greenwich Council. 
 
 The estate comprises 172 homes in 16 4-storey blocks. It overlooks Maryon park to the West and the Thames barrier to the North and is adjacent to the [Morris Walk estate](https://www.estatewatch.london/estates/greenwich/morriswalk/) which is also earmarked for demolition. 
 
-<img src="/images/morriswalkaerial.jpg" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/morriswalkaerial.jpg", "alt text" %}
 
 Outline permission granted in 2015 for 165 new homes, with just 35% affordable of which 70% affordable rent. The estate is being redeveloped in a joint venture between Greenwich Council and developer [Lovell](https://www.lovell.co.uk/)
 
 The Mayors [report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_251849///one_woolwich_maryon_road_report.pdf) approving the application acknowledges that there will be a net loss of 108 social rented units.
 
-<img src="/images/mgnetloss.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/mgnetloss.png", "alt text" %}
 
 It also acknowledges that the replacement 'social' housing will be 'affordable rent' in tenure - i.e. up to 80% market rents.
 

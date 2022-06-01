@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Preparation
 name: Clichy estate 
 borough: towerhamlets 
 thumb: /images/clichyestatethumb.jpg

@@ -3,7 +3,7 @@ stage: Implementation
 name: North Peckham estate 
 borough: Southwark
 images:
-  - /images/northpeckhamaerial.jpg
+  - src/images/northpeckhamaerial.jpg
 location: '{"type":"Point","coordinates":[-0.078713,51.477372]}'
 landlord: Southwark Council
 developer:

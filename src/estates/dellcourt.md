@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Dell Court 
 borough: havering
 thumb: /images/dell1thumb.jpg
@@ -14,8 +12,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 29
-ballot:
-planning:
+ballot: Exempt
+planning: Pending
 ---
 29 homes are under threat of demolition at Havering's Dell Court in Hornchurch.
 

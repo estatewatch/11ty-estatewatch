@@ -28,7 +28,7 @@ developer:
 itla:
 total: 300
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 300 homes have been earmarked for potential demolition on Hounslow's Brabazon estate.
 

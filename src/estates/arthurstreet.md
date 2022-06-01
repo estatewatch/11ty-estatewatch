@@ -1,7 +1,4 @@
----
-category: underthreat
-erg: noncompliant
-stage: Implementation 
+--- 
 name: Arthur Street estate 
 borough: bexley
 thumb: /images/arthurthumb.jpg

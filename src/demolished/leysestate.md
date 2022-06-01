@@ -3,10 +3,10 @@ name: Leys estate
 borough: barkinganddagenham
 thumb: /images/leys2thumb.jpg
 images:
-  - /images/leys2.png
-  - /images/leys1.png
-  - /images/leys3.png
-  - /images/leys4.png
+  - src/images/leys2.png
+  - src/images/leys1.png
+  - src/images/leys3.png
+  - src/images/leys4.png
 location: '{"type":"Point","coordinates":[0.168521,51.536751]}'
 landlord: Barking & Dagenham Council
 developer:

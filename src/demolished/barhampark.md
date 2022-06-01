@@ -3,7 +3,7 @@ stage: Implementation
 name: Barham Park estate 
 borough: Brent 
 images:
-  - /images/barhampark.png
+  - src/images/barhampark.png
 location: '{"type":"Point","coordinates":[-0.316587,51.553934]}'
 landlord: Brent Council
 developer:

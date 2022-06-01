@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal 
 name: Denby Court 
 borough: lambeth
 thumb: /images/denbythumb.jpg
@@ -14,8 +12,8 @@ landlord: Lambeth Council
 developer:
 itla:
 total: 42
-ballot:
-planning:
+ballot: Exempt
+planning: Approved
 ---
 42 homes have been earmarked for demolition by Lambeth Council at Denby Court in Kennington.
 

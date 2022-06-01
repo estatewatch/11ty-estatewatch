@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: Havelock estate 
 borough: ealing
 thumb: /images/havelock1thumb.jpg
@@ -18,7 +16,7 @@ landlord: Ealing Council
 developer: Catalyst Group
 itla:
 total: 500
-ballot:
+ballot: Required
 planning: Approved
 ---
 Circa 500 homes of the 845 homes on Ealing's Havelock estate in Southall remain earmarked for demolition.
@@ -27,11 +25,11 @@ The Havelock Estate is located in Southall, just to the north of the Grand Union
 
 Ealing Council says that it is redeveloping the estate in a joint venture with Catalyst housing association over four phases, and that the redeveloped estate will provide affordable rented homes (i.e. up to 80% market rent).
 
-<img src="/images/havelockscreenshot.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/havelockscreenshot.png", "alt text" %}
 
 The replacement of the existing social rented homes with the affordable rent tenure is confirmed in the [Mayor's planning report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_19485///1_havelock_estate_masterplan_report.pdf) for the scheme.
 
-<img src="/images/havelockgla.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/havelockgla.png", "alt text" %}
 
 Phase 1 of the scheme is underway and nearing completion. Homes are being marketed for sale in anticipation by Catalyst at [www.southallvillage.co.uk](http://www.southallvillage.co.uk). 
 

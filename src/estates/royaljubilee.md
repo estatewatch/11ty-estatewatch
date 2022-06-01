@@ -11,8 +11,8 @@ landlord: Havering Council
 developer: Wates
 itla: TPAS
 total: 52
-ballot:
-planning:
+ballot: Exempt
+planning: Pending
 ---
 52 homes are under threat of demolition on Havering's Royal Jubilee Court.
 
@@ -22,5 +22,5 @@ The scheme has not yet applied for [funding](/approved/funding) from the Mayor o
 
 Havering's [investment prospectus](https://www.investinhavering.co.uk/wp-content/uploads/2017/03/Vision-interactive-map.pdf) provides further details of the scheme.
 
-<img src="/images/jcinvest.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/jcinvest.png", "alt text" %}
 

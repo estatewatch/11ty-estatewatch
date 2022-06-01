@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Preparation
 name: Reginald House/Tidemill Gardens
 borough: lewisham
 thumb: /images/reg1thumb.jpg
@@ -15,7 +13,7 @@ landlord: Lewisham Council
 developer:
 itla:
 total: 16
-ballot:
+ballot: Exempt
 planning: Approved
 ---
 16 homes at Reginald House in Deptford have been earmarked for demolition as part of Lewisham's [regeneration of Deptford](https://lewisham.gov.uk/tidemill). 

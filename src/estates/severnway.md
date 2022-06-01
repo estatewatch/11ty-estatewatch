@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal 
 name: Severn Way
 borough: brent
 location: '{"type":"Point","coordinates":[-0.246721,51.552401]}'
@@ -15,8 +13,8 @@ images:
   - src/images/Severn_way1LS.jpg
   - src/images/Severn_way2LS.jpg
   - src/images/Severn_way5LS.jpg
-ballot:
-planning:
+ballot: Exempt
+planning: Pending
 ---
 Circa 50 homes on Severn Way Crescent in Brent are under threat of demolition.
 

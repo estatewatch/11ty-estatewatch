@@ -3,7 +3,7 @@ stage: Implementation
 name: Goresbrook Village estate 
 borough: Barking and Dagenham
 images:
-  - /images/goresbrook.jpg
+  - src/images/goresbrook.jpg
 location: '{"type":"Point","coordinates":[0.116668,51.533531]}'
 landlord: Barking and Dagenham Council
 developer:

@@ -16,8 +16,6 @@ images:
   - src/images/alton2.jpg
   - src/images/alton.jpg
 planning: Pending
-category: underthreat
-stage: Preparation
 ---
 
 288 homes are earmarked for demolition on Wandsworth's Alton estate in Roehampton.
@@ -38,31 +36,32 @@ In his [stage 1 response](https://www.london.gov.uk/sites/default/files/public%3
 
 The requirement for the demolition of housing estates only to be considered as a last resort, is enshrined both in the Mayor's [Estate Regeneration Guidance](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf) and the [London Plan itself](https://www.london.gov.uk/sites/default/files/intend_to_publish_-_clean.pdf):
 
-<img src="/images/londplanh8.png" class="img-fluid img-thumbnail rounded">
+{% picture "src/images/londplanh8.png", "Alt text" %}
 
 Both the Mayor's stage 1 and [stage 2 reports](https://planning.london.gov.uk/pr/s/planning-application/a0i4J000006cBWyQAM/20211288?tabset-c2f3b=2) are entirely silent on Wandsworth's failure to explore alternative options and demonstrate that demolition is being pursued as a last resort.
 
 The Mayor's (Jan 2022) stage 2 report does raise concern about the low levels of affordable housing but then goes on to approve Wandsworth's planning consent.
 
-![](/images/screenshot-2022-02-03-at-10-09-31-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+{% picture "src/images/screenshot-2022-02-03-at-10-09-31-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png", "alt text" %}
 
 Likewise the report is critical of Wandsworth's failure to apply for grant funding and ballot residents but then goes on to approve the planning consent.
 
-![](/images/screenshot-2022-02-03-at-10-07-16-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+{% picture "src/images/screenshot-2022-02-03-at-10-07-16-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png", "alt text" %}
 
 The Mayor's report is also highly critical of Wandsworth's viability testing, viability review mechanism and failure to utilise the £105m of HRA funding it has allocated to the scheme to improve the affordable housing offer.
 
-![](/images/screenshot-2022-02-03-at-10-13-31-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+{% picture "src/images/screenshot-2022-02-03-at-10-13-31-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png", "alt text" %}
 
-![](/images/screenshot-2022-02-03-at-10-14-07-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png)
+{% picture "src/images/screenshot-2022-02-03-at-10-14-07-pdu-case-report-xxxx-yy-date-gla1288-alton-estate-stage-2-report-31-jan-2022-pdf.png", "alt text" %}
 
 Despite these detailed concerns, the Mayor's stage 2 report concludes that on balance the Mayor is happy with Wandsworth's decision to approve its planning application for the redevelopment of the estate.
 
 In the meantime, estate residents have been [getting organised](https://twitter.com/AltonAction/status/1322956962439507971) and have received funding to co-produce an alternative Community Plan, exploring alternatives to demolition assisted by a group of researchers from [University College London](www.ucl.ac.uk) and the [Just Space network](www.justspace.org.uk).
 
-<img src="/images/altonaction.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/altonaction.png", "alt text" %}
 
-**Links:**\
+
+**Links:**   
 [Roehampton (Alton estate) SPD Oct 2015](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf)
 
 [Mayor's stage 1 report](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/alton-estate)

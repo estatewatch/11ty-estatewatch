@@ -1,0 +1,19 @@
+---
+permalink: '/estatesdemolished.geojson'
+---
+var freeBus = {
+    "type": "FeatureCollection",
+    "features": [{% for demolished in collections.demolished %}
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "{{ demolished.data.name }}",
+          "borough": "{{ demolished.data.borough }}",
+          "image": "{{ demolished.data.images | first | replace("src/", "/") }}",
+          "planning": "{{ demolished.data.planning }}",
+          "url": "{{demolished.url}}"
+        },
+        "geometry": {{ demolished.data.location | safe }}
+        }{% if not loop.last %},{% endif %}{% endfor %}
+    ]
+  };

@@ -1,0 +1,64 @@
+---
+layout: list
+eleventyNavigation:
+  key: Estates demolished
+  parent: Estates
+  order: 2
+---
+
+	<section class="jumbotron text-center">
+	     <div class="container">
+	     <h1>Estates demolished</h1>
+			         <p class="lead text-muted" align="left">
+				 Hundreds of London's council and housing association estates are under threat and dozens have already been demolished. See the list below of all those already raised to rubble.</p>
+
+</div>
+</section>
+
+
+
+<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+
+	
+	<div id="iframeHolder">
+		<iframe id="iframe" class="embed-responsive-item" src="/leafletmapdemolished.html" width="100%" height="400px"></iframe>
+	</div>
+</div>
+
+<div class="demo-html">
+<table id="example" class="table table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Borough</th>
+                <th>Total Homes</th>
+                <th>Landlord</th>
+                <th>Developer</th>
+                <th>ITLA</th>
+				<th>Ballot Status</th>
+				<th>Planning Status</th>
+            </tr>
+        </thead>
+        <tbody>
+             
+              {%- for demolished in collections.demolished -%}
+            <tr>
+		    <td> <a href="{{ demolished.url }}">{{ demolished.data.name }}</a> </td>
+          <td> {{ demolished.data.borough | capitalize | replace("Barkinganddagenham", "Barking & Dagenham") | replace("Cityoflondon", "City of London") | replace("Kensingtonandchelsea", "Kensington & Chelsea") | replace("Towerhamlets", "Tower Hamlets") | replace("Walthamforest", "Waltham Forest") }} </td>
+          <td> {{ demolished.data.total }} </td>
+	      <td> {{ demolished.data.landlord }} </td>
+	      <td> {{ demolished.data.developer }} </td>
+	      <td> {{ demolished.data.itla }} </td>
+		  <td> {{ demolished.data.ballot }} </td>
+		  <td> {{ demolished.data.planning }} </td>
+	    </tr>
+	    
+          {%- endfor -%}
+	</tbody>
+</table>
+</div>
+
+
+
+

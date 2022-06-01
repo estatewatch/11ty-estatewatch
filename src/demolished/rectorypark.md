@@ -3,7 +3,7 @@ stage: Implementation
 name: Rectory Park estate 
 borough: Ealing 
 images:
-  - /images/rectorypark.jpg
+  - src/images/rectorypark.jpg
 location: '{"type":"Point","coordinates":[-0.37889,51.534215]}'
 landlord: Ealing Council
 developer:

@@ -3,24 +3,24 @@ stage: Implementation
 name: Ocean estate 
 borough: Tower Hamlets
 images:
-  - image_path: /images/ocean4.jpg
-  - image_path: /images/ocean1.jpg
-  - image_path: /images/ocean2.jpg
-  - image_path: /images/ocean3.jpg
-  - image_path: /images/ocean4.jpg
-  - image_path: /images/Nat_ocean.jpg
-  - image_path: /images/Nat_ocean1.jpg
-  - image_path: /images/Nat_ocean2.jpg
-  - image_path: /images/Nat_ocean3.jpg
-  - image_path: /images/Nat_ocean4.jpg
-  - image_path: /images/Nat_ocean5.jpg
-  - image_path: /images/Nat_ocean6.jpg
-  - image_path: /images/Nat_ocean7.jpg
-  - image_path: /images/Nat_ocean8.jpg
-  - image_path: /images/Nat_ocean9.jpg
-  - image_path: /images/Nat_ocean10.jpg
-  - image_path: /images/Nat_ocean11.jpg
-  - image_path: /images/Nat_ocean12.jpg
+  - src/images/ocean4.jpg
+  - src/images/ocean1.jpg
+  - src/images/ocean2.jpg
+  - src/images/ocean3.jpg
+  - src/images/ocean4.jpg
+  - src/images/Nat_ocean.jpg
+  - src/images/Nat_ocean1.jpg
+  - src/images/Nat_ocean2.jpg
+  - src/images/Nat_ocean3.jpg
+  - src/images/Nat_ocean4.jpg
+  - src/images/Nat_ocean5.jpg
+  - src/images/Nat_ocean6.jpg
+  - src/images/Nat_ocean7.jpg
+  - src/images/Nat_ocean8.jpg
+  - src/images/Nat_ocean9.jpg
+  - src/images/Nat_ocean10.jpg
+  - src/images/Nat_ocean11.jpg
+  - src/images/Nat_ocean12.jpg
 location: '{"type":"Point","coordinates":[-0.042882,51.521884]}'
 landlord: Tower Hamlets
 developer:

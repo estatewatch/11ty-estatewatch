@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Preparation
 name: Pike Close estate 
 borough: bromley 
 thumb: /images/pikeclosethumb.jpg

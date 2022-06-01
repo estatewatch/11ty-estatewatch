@@ -13,8 +13,6 @@ images:
   - src/images/ledbury2.jpeg
   - src/images/ledbury3.jpg
 planning: Pending
-category: underthreat
-stage: Preparation
 ---
 224 homes have been earmarked for demolition on Southwark's Ledbury estate off the Old Kent Road.
 

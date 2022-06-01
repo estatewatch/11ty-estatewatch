@@ -3,7 +3,7 @@ stage: Implementation
 name: Ferrier estate 
 borough: Greenwich
 images:
-  - image_path: /images/ferrier.jpg
+  - src/images/ferrier.jpg
 location: '{"type":"Point","coordinates":[0.027657,51.460667]}'
 landlord: Greenwich Council
 developer:

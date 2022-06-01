@@ -22,7 +22,7 @@ planning: Approved
 
 Phase 1 of the scheme is currently underway. The [GLA report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_213093///dollis_valley_estate_report.pdf) approving the scheme justifies the net loss of social rented housing as follows:
 
-<img src="/images/dvalleyreport.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/dvalleyreport.png", "alt text" %}
 
 The scheme is being progressed in partnership with developer Countryside Properties, which has a dedicated website for the scheme: [www.dollisvalley.co.uk](http://www.dollisvalley.co.uk/)
 

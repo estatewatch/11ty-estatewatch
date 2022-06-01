@@ -3,7 +3,7 @@ stage: Implementation
 name: Robin Hood Gardens estate 
 borough: Tower Hamlets
 images:
-  - image_path: /images/robinhood.jpg
+  - src/images/robinhood.jpg
 location: '{"type":"Point","coordinates":[-0.008179,51.509502]}'
 landlord: Tower Hamlets
 developer:

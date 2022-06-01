@@ -3,7 +3,7 @@ stage: Implementation
 name: Myatts Fields estate 
 borough: Lambeth
 images:
-  - /images/myattsfields.jpg
+  - src/images/myattsfields.jpg
 location: '{"type":"Point","coordinates":[-0.108238,51.474589]}'
 landlord: Lambeth Council
 developer:

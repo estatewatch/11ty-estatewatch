@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Preparation
 name: Barnsbury estate 
 borough: islington
 thumb: /images/barnsburythumb.jpg
@@ -29,7 +27,7 @@ In March 2021, a residents ballot was held in which 73% of those who voted suppo
 
 Newlon's formal [Landlord Offer](/images/BarnsburyOffer.pdf) made it clear that if residents voted against redevelopment then it wouldn't tackle the ongoing symptoms of the estate's neglect. 
 
-<img src="/images/BarnsburyNo.png" class="img-fluid rounded img-thumbnail" width="65%">
+{% picture "src/images/BarnsburyNo.png", "alt text" %}
 
 This is an a recurring element in resident ballots, where residents are forced to choose between redevelopment or ongoing neglect. More examples can be found [here](https://estatewatch.london/approved/ballotexemptions/).
 

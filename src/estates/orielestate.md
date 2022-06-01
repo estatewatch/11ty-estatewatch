@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Oriel estate 
 borough: hounslow 
 thumb: /images/or21thumb.jpg
@@ -33,7 +31,7 @@ landlord: Hounslow Council
 itla:
 total: 300
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 300 homes have been earmarked for potential demolition on Hounslow's Oriel estate.
 

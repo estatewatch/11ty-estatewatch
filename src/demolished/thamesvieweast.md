@@ -4,7 +4,7 @@ name: Thames View (east) estate
 borough: Barking and Dagenham
 thumb: /images/thamesvieweast.jpg
 images:
-  - /images/ap2.jpg
+  - src/images/ap2.jpg
 location: '{"type":"Point","coordinates":[0.115801,51.527705]}'
 landlord: Barking and Dagenham Council
 developer:

@@ -3,7 +3,7 @@ stage: Implementation
 name: Kender estate 
 borough: Lewisham
 images:
-  - /images/kender.jpg
+  - src/images/kender.jpg
 location: '{"type":"Point","coordinates":[-0.050057,51.478169]}'
 landlord: Lewisham Council
 developer:

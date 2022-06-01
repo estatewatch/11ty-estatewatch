@@ -3,7 +3,7 @@ stage: Implementation
 name: Silwood estate 
 borough: southwark/lewisham
 images:
-  - /images/silwoodtb.jpg
+  - src/images/silwoodtb.jpg
 location: '{"type":"Point","coordinates":[-0.053286,51.490200]}'
 landlord: Southwark/Lewisham Council
 developer:

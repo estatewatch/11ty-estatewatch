@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Elm Grove estate 
 borough: sutton
 thumb: /images/elmgrove3thumb.jpg
@@ -14,7 +12,7 @@ landlord: Sutton Council
 itla: PPCR
 total: 100
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 100 homes on Sutton's Elm Grove estate have been earmarked for potential demolition.
 
@@ -26,7 +24,7 @@ The Council has [set up a steering group](https://www.sutton.gov.uk/info/200502/
 
 A ballot was held in January 2022 with 78% of residents voting in favour of demolition. The [link to the Landlord Offer](https://www.sutton.gov.uk/-/elm-grove) on Sutton Council's website is broken. 
 
-<img src="/images/elmgrovescreenshot.jpg" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/elmgrovescreenshot.jpg", "alt text" %}
 
 __Links:__  
 

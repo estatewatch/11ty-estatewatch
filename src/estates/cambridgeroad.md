@@ -14,7 +14,7 @@ images:
   - src/images/cambridge3.jpg
   - src/images/cambridge4.jpg
   - src/images/croadaerial.png
-planning: Pending
+planning: Approved
 category: underthreat
 stage: Preparation
 ---
@@ -27,7 +27,7 @@ In March 2020, residents were balloted on the redevelopment proposals with the m
 
 This was perhaps the result of Kingston's ['Landlord offer'](/images/cambridgeroadoffer.pdf) to residents ahead of the ballot, which told them that if they voted against demolition then they would only see essential maintenance to their estate and repairs as reported. 
 
-<img src="/images/cambridgeroadoffer.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/cambridgeroadoffer.png", "alt text" %}
 
 In November 2020, the developer submitted a [planning application](https://publicaccess.kingston.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QK385KNH00H00) seeking approval for demolition of the estate's 832 existing homes and their replacement by 2,170 homes of which just 33.5% affordable housing.
 
@@ -50,7 +50,7 @@ Combined with £60M funding agreed by the Mayor, that's £250M of public money t
 
 Despite it being one of the Mayor's requirements for estate redevelopments, the application provides no cost/benefit analysis of refurbishment vs demolition. So it is impossible to say whether these public funds could be better spent exploring the [environmental, social and economic benefits of refurbishment](http://estatewatch.london/refurbishment). Neither does the application say anything about the Mayor's requirement that demolition is pursued as a last resort. The Mayor's [stage 1 report](https://gla.force.com/pr/s/planning-application/a0i4J000002UOhyQAG/20206860?tabset-c2f3b=2) for the scheme simply says this:
 
-![](/images/screenshot-2021-08-26-at-18-07-29-pdu-case-report-xxxx-yy-date-gla-6860-stage-1-report-28-02-21-pdf.png)
+{% picture "src/images/screenshot-2021-08-26-at-18-07-29-pdu-case-report-xxxx-yy-date-gla-6860-stage-1-report-28-02-21-pdf.png", "alt text" %}
 
 Another interesting point noted from the planning application is that the developer is going to pay £1.8M in carbon offset payments, because the new homes won't be as energy efficient as the Mayor's zero carbon planning policies require.
 
@@ -59,3 +59,5 @@ The planning application's [Energy Statement](https://publicaccess.kingston.gov.
 You can view the planning application documents on Kingston's planning portal [here (ref:20/02942)](https://publicaccess.kingston.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=QK385KNH00H00).
 
 The Mayor's stage 1 report is available [here.](https://gla.force.com/pr/s/planning-application/a0i4J000002UOhyQAG/20206860?tabset-c2f3b=2)
+
+The planning application was approved in January 2022.

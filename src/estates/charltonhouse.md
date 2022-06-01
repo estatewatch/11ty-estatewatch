@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Charlton House 
 borough: hounslow
 thumb: /images/ch1thumb.jpg

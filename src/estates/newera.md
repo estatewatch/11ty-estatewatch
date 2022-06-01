@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: New era estate 
 borough: hackney
 thumb: /images/newerathumb.jpg
@@ -13,7 +11,7 @@ landlord: Dolphin Living
 developer:
 itla:
 total: 100
-ballot:
+ballot: Exempt
 planning: Approved
 ---
 Circa 100 homes are earmarked for demolition on Hackney's New Era estate in Hoxton by housing association Dolphin Living.
@@ -28,8 +26,8 @@ The plans approved by Hackney Council in July 2020 supposedly enable the current
 
 But the Mayor's [report](https://gla.force.com/pr/s/planning-application/a0i4J0000003T7vQAE/20194944s1?tabset-c2f3b=2) subsequently published in August 2020, says the proposals would result in rent levels more than twice as high as current rents enjoyed by tenants:
 
-<img src="/images/nerents1.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/nerents1.png", "alt text" %}
 
-<img src="/images/nerents2.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/nerents2.png", "alt text" %}
 
 The planning application is now sitting with the Mayor. As of January 2021 there has been no final stage 2 report published on the GLA's planning portal.

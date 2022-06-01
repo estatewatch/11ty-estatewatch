@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Chaucer Gardens estate
 borough: sutton
 thumb: /images/chaucerthumb.jpg
@@ -17,7 +15,7 @@ developer:
 itla:
 total: 250
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 250 homes have been earmarked for potential demolition on Sutton's Chaucer Gardens estate.
 
@@ -27,11 +25,11 @@ In 2013, the high-rise block on the estate was clad with a light-blue Aluminium 
 
 In 2018, the Chaucer estate was one of seven estates listed in [Sutton's Local Plan (2018)](https://drive.google.com/file/d/1MdX6GlaHDoBdG6CTsvjFaIuPtIa9id5O/view) for potential redevelopment:
 
-<img src="/images/suttonplan.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/suttonplan.png", "alt text" %}
 
 It is also earmarked in Sutton's [Policy Map](http://sutton.addresscafe.com/app/exploreit/) as a potential renewal area:
 
-<img src="/images/suttonpolicymap.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/suttonpolicymap.png", "alt text" %}
 
 The nearby [Collingwood estate](/estates/sutton/collingwoodestate/) was clad with the same material and also numbers among the five estates earmarked for potential redevelopment.
 

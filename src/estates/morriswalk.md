@@ -14,20 +14,18 @@ images:
   - src/images/mw3.png
   - src/images/mw4.png
 planning: Approved
-category: underthreat
-stage: Implementation
 ---
 562 homes on Greenwich's Morris Walk estate in Charlton are earmarked for demolition. 
 
 The 5.5 hectare estate overlooks Maryon park to the West and the Thames barrier to the North and lies adjacent to the [Maryon Grove estate](https://www.estatewatch.london/estates/greenwich/maryongrove/), which is also earmarked for redevelopment. 
 
-<img src="/images/morriswalkaerial.jpg" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/morriswalkaerial.jpg", "alt text" %}
 
 Outline permission granted in 2015 for 766 replacement homes, with the requirement to provide between 35% and 45% affordable housing, depending on viability. The estate is being redeveloped in a joint venture between Greenwich Council and developer [Lovell](https://www.lovell.co.uk/)
 
 The Mayors [report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//PAWS/media_id_251858///one_woolwich_morris_walk_report.pdf) approving the application acknowledges that there will be a net loss of 333 social rented units.
 
-<img src="/images/mwnetloss.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/mwnetloss.png", "alt text" %}
 
 It also acknowledges that the replacement 'social' housing will be 'affordable rent' in tenure - i.e. up to 80% market rents.
 

@@ -29,14 +29,12 @@ images:
   - src/images/mwr6.png
 coordinates: null
 planning: Approved
-category: underthreat
-stage: Implementation
 ---
 150 homes remain earmarked for demolition on Waltham Forest's Marlowe Road estate in Walthamstow.
 
 The estate was one of 11 estates [identified](https://democracy.walthamforest.gov.uk/documents/s10654/4.2.%20LSP%20report%20-%20Estates%20Review.pdf) for possible redevelopment in a 2010 Estates Capacity Study.
 
-<img src="/images/11estates.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/11estates.png", "alt text" %}
 
 The Estates Review named Marlowe Road as the ‘highest priority’ area for regeneration because it was supposedly run down and _‘badly designed’_.
 

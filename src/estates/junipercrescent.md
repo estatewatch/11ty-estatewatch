@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Juniper Crescent and Gilbeys Yard estate 
 borough: camden
 thumb: /images/jp12thumb.jpg
@@ -24,7 +22,7 @@ landlord: One Housing Group
 itla: Communities First
 total: 200
 ballot: Rejected
-planning:
+planning: Pending
 ---
 Circa 200 homes on Camden's Juniper Crescent and Gilbey's yard estates have been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf)
 
@@ -36,15 +34,15 @@ One Housing had already started 'decanting' secure tenants by offering them reho
 
 A ballot was supposed to be held by housing association One Housing Group in late March 2020, but this was [postponed](https://onehousing.co.uk/__data/assets/pdf_file/0020/16319/Juniper-Crescent-and-Gilbeys-Yard-project-FAQs-2020.pdf) because of the coronavirus crisis. The ballot was postponed until 8th June and consultation sessions were [instead carried out via zoom](https://onehousing.co.uk/__data/assets/pdf_file/0019/17416/Juniper-Crescent-and-Gilbeys-Yard-News-May-2020.pdf):
 
-<img src="/images/juniperzoom.png" class="img-fluid rounded img-thumbail">
+{% picture "src/images/juniperzoom.png", "alt text" %}
 
 Residents were told in the [consultation documents](/images/juniperno.pdf) that if they vote against demolition in the ballot then their homes would only in future receive essential maintenance:
 
-<img src="/images/juniperno.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/juniperno.png", "alt text" %}
 
 This was reiterated in the formal ['Landlord Offer'](/images/juniperoffer.pdf) made to residents ahead of the ballot:
 
-<img src="/images/juniperyesno.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/juniperyesno.png", "alt text" %}
 
 In July 2020, it was confirmed that residents had voted against demolition in the ballot, which was held by Civica on behalf of the estate's Landlord - [One Housing](https://www.onehousing.co.uk/).
 

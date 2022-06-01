@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal 
 name: Austin Road estate
 borough: hillingdon
 thumb: /images/austinthumb.jpg
@@ -14,7 +12,7 @@ developer:
 itla: 
 total: 260
 ballot: Required
-planning:
+planning: Pending
 ---
 260 homes are under threat on Hillingdon's Austin Road estate in Hayes (182 Council and 78 leasehold).
 
@@ -26,7 +24,7 @@ Four years later, in 2020, Hillingdon commissioned Savills to undertake an [opti
 
 The Savills report recommended demolition and rebuild on the basis that the estate has high investment needs, requiring an estimated expenditure of £57,631 (per unit) in maintenance costs over the next 30 years compared to a London average of £30,160. 
 
-<img src="/images/austinnpv.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/austinnpv.png", "alt text" %}
 
 But the £57,631 figure includes 'additional expenditure' of £11,603 per unit for other works like installing sprinkler systems.
 
@@ -34,7 +32,7 @@ In addition, the Savills report fails to provide any underlying data supporting 
 
 The report also highlighted that it had carried out a 'resident satisfaction survey' which found that the majority of residents didn't like living on the estate because of anti-social behaviour, crime and lack of cleanliness. But it doesn't say how many of the estate's 260 households were surveyed. The report goes on to explain that prior to the survey, 'key members' of the TRA had been contacted so that _'critiques of the estate could be collated and raised'._  
 
-<img src="/images/austinsurvey.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/austinsurvey.png", "alt text" %}
 
 On 22 October 2020, Hillingdon Council [resolved](https://modgov.hillingdon.gov.uk/ieListDocuments.aspx?CId=115&MeetingId=3834) to proceed with a residents' ballot on demolition in line with the recommendations of the Savills report.
 

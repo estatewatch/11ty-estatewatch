@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Convent Way estate
 borough: hounslow
 thumb: /images/cv12thumb.jpg
@@ -31,7 +29,7 @@ developer:
 itla:
 total: 440
 ballot: Required
-planning:
+planning: Pending
 ---
 440 homes are earmarked for demolition on Hounslow's Convent Way estate.
 
@@ -51,6 +49,6 @@ The Council's [2020 Cabinet report](https://democraticservices.hounslow.gov.uk/d
 
 It was also deemed unlikely the estate would be able to meet the council’s energy efficiency targets.
 
-![conventmap]({{site.baseurl}}/images/conventmap.png)
+{% picture "src/images/conventmap.png", "alt text" %}
 
 In April 2021, Hounslow started [consulting](https://haveyoursay.hounslow.gov.uk/housing/conventfeedback/) on its rehousing offer to residents ahead of an expected ballot later in the year.

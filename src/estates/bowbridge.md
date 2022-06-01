@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: Bow Bridge estate 
 borough: towerhamlets 
 thumb: /images/warrenthumb.jpg

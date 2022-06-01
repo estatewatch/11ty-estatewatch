@@ -76,6 +76,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/pages/papers");
   eleventyConfig.addPassthroughCopy("src/leaflet");
   eleventyConfig.addPassthroughCopy("src/leafletmap.html");
+  eleventyConfig.addPassthroughCopy("src/leafletmapdemolished.html");
   eleventyConfig.addPassthroughCopy("src/estates.html");
 
   // Copy transformed images

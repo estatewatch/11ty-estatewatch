@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: Alma estate 
 borough: enfield
 thumb: /images/alma3thumb.jpg
@@ -31,11 +29,11 @@ Phase one of the four stage scheme has been demolished and is nearing completion
 
 Outline planning permission was granted in September 2015 but subject to the signing of a section 106 agreement when the first detailed application came forward. In June 2017 a [section 106 agreement was signed](/images/almas106.pdf) which guaranteed just 200 of the 993 replacement homes as social rent:
 
-<img src="/images/almaah.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/almaah.png", "alt text" %}
 
 In its [Statement of Reasons](/images/almacpo.pdf) justifying the Compulsory Purchase Order. Enfield relies on its own neglect of the estate as justification for its demolition:
 
-<img src="/images/almacpo.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/almacpo.png", "alt text" %}
 
 Unlike most schemes, there is no housing re-provision proposed for the estate's 170 current leaseholders. Enfield has no shared equity scheme - if leaseholders want to buy one of the new shared ownership homes they will have to pay rent on the unowned equity.
 

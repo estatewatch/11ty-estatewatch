@@ -12,9 +12,7 @@ images:
   - src/images/mtowers1.jpg
   - src/images/mtowers2.png
   - src/images/mtowers3.png
-planning: null
-category: underthreat
-stage: Proposal
+planning: Pending
 ---
 276 homes are under threat of demolition in Lewisham's Milford Towers estate in Catford.
 

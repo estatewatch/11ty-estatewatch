@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
 name: Lansbury (south) estate 
 borough: towerhamlets 
 thumb: /images/crisp2thumb.jpg
@@ -20,7 +18,7 @@ planning: Approved
 
 Seven blocks on the estate have been earmarked for demolition including the 21-storey Fitzgerald House.
 
-<img src="/images/chrispstreetschedule.png" class="img-thumbnail rounded img-fluid">
+{% picture "src/images/chrispstreetschedule.png", "alt text" %}
 
 The scheme is being [funded](/approved/funding) by the Mayor and [exempted](/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 
@@ -28,7 +26,7 @@ The Mayor's [planning report](https://www.london.gov.uk/sites/default/files/publ
 
 In February 2021, Tower Hamlets served a Compulsory Purchase Order on the 56 remaining retailers and 16 remaining leaseholders on the [Lansbury estate](https://estatewatch.london/estates/towerhamlets/lansbury/), so that Poplar HARCA and Telford Homes can proceed with their [Chrisp Street redevelopment](https://www.poplarharca.co.uk/new-homes-regeneration/development-projects/project/chrisp-street-market/).
 
-<img src="https://estatewatch.london/images/crisp2.png" class="img-fluid rounded img-thumbnail" width="60%">
+{% picture "https://estatewatch.london/images/crisp2.png", "alt text" %}
 
 The 163 replacement 'social' housing units are being built with £13m of Mayoral funding and provided as London Affordable Rent rather than social rent tenure. This is one of the numerous estate redevelopment schemes that the Mayor [exempted](https://estatewatch.london/approved/ballotexemptions) from his requirement to ballot residents on the demolition of their homes.
 

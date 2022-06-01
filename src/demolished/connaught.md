@@ -3,7 +3,7 @@ stage: Implementation
 name: Connaught estate 
 borough: Greenwich
 images:
-  - image_path: /images/connaught.jpg
+  - src/images/connaught.jpg
 location: '{"type":"Point","coordinates":[0.064427,51.487706]}'
 landlord: Greenwich Council
 developer:

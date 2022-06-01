@@ -3,7 +3,7 @@ stage: Implementation
 name: Elmington estate 
 borough: Southwark
 images:
-  - /images/elmington.jpg
+  - src/images/elmington.jpg
 location: '{"type":"Point","coordinates":[-0.089306,51.479557]}'
 landlord: Southwark Council
 developer:

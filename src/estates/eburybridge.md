@@ -37,12 +37,10 @@ images:
   - src/images/eb27.jpg
   - src/images/eb28.jpg
 planning: Approved
-category: underthreat
-stage: Implementation
 ---
 Demolition is well underway of the 336 homes earmarked for demolition on Westminster's Ebury Bridge estate in Pimlico. Westminster has taken the [controversial decision](https://www.insidehousing.co.uk/news/news/westminster-city-council-accused-of-trying-to-dodge-scrutiny-over-estate-regeneration-63267) of decanting and demolishing the estate without first seeking planning permission or balloting residents.
 
-<img src="/images/ebridgenews.png" class="img-fluid rounded img-thumbnail" width="50%">
+{% picture "src/images/ebridgenews.png", "alt text" %}
 
 Westminster Council's intention to regenerate the estate started in 2010, when the estate was first identified in the Council's Housing Renewal Strategy as one of five key estates within the borough in need of significant investment.
 
@@ -54,7 +52,7 @@ In May 2021, Westminster Council approved its own planning application for the r
 
 The estate comprising 336 homes (198 social rent/138 leasehold) will now be replaced by 781 homes of which 239 social rent - an uplift of just 41 social rented units despite more than doubling the density.
 
-<img src="/images/eb2.jpg" class="img-fluid rounded img-thumbnail" width="50%">
+{% picture "src/images/eb2.jpg", "alt text" %}
 
 The estate is being redeveloped by the Council itself. Figures in the planning application [supporting documents](https://idoxpa.westminster.gov.uk/online-applications/files/33305033EC2B493EF178E8AB19BB85FF/pdf/20_04366_COOUT-FINANCIAL_VIABILITY_ASSESSMENT_REV01-6774119.pdf) show that Westminster Council is spending a staggering £108m on decanting and demolishing the estate and that despite the replacement social housing being partly cross-subsidised by the new private homes, it is estimated that Westminster will have to fork out a further £90m during the course of the estate's redevelopment.
 
@@ -65,8 +63,6 @@ In January 2022, Westminster Council [issued](https://www.westminster.gov.uk/dat
 The Council's [Statement of Reasons](https://www.westminster.gov.uk/media/document/ebury-bridge---cpo-statement-of-reasons) supporting the order, claims that there is no alternative to demolition despite it not having assessed whether the circa £200m it is spending on demolition could better be spent on refurbishment and infill.
 
 It also acknowledges that residents haven't been balloted on the demolition of their homes, claiming that a ballot is not required because Mayoral funding is not being sought.
-
-![](/images/screenshot-2022-01-20-at-11-47-01-statement-of-reasons-pdf.png)
 
 This ignores the Mayor's policy requirement to seek funding in order to maximise affordable housing and his requirement to explore alternatives to demolition.  
 

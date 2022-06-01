@@ -3,7 +3,7 @@ stage: Implementation
 name: Excalibur estate 
 borough: Lewisham
 images:
-  - image_path: /images/excalibur.jpg
+  - src/images/excalibur.jpg
 location: '{"type":"Point","coordinates":[-0.003185,51.435624]}'
 landlord: Lewisham Council
 developer:

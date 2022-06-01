@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal
 name: Mansell Street estate
 borough: cityoflondon
 thumb: /images/mansell1thumb.jpg
@@ -22,7 +20,7 @@ developer:
 itla:
 total: 249
 ballot: Required
-planning: Approved
+planning: Pending
 ---
 249 homes are under threat of demolition by Guinness housing association on the Mansell Street estate in the City of London.
 

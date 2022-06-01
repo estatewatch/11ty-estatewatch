@@ -13,8 +13,8 @@ landlord: One Housing Group
 developer:
 itla: Mike Tyrell
 total: 134
-ballot:
-planning:
+ballot: Pending
+planning: Pending
 ---
 134 homes are under threat on the Kingsbridge estate in Tower Hamlets.
 
@@ -29,21 +29,23 @@ In 2014 OHG produced a [52 page report - ‘Project Stone’](/images/ProjectSto
 
 Project Stone proposed just 30% of the redeveloped properties as affordable housing. Of these, 17% would have been shared ownership and 13% would have been affordable rented. 
 
-<img src="/images/pstone.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/pstone.png", "alt text" %}
 
 The plans met with [organised opposition](http://www.4estatesforum.org.uk) from residents on the four estates who had not been consulted and after the Mayor of Tower Hamlets intervened, OHG scrapped its masterplan and agreed that proposals would only be pursued after a 'conversation' with residents.
 
 In May 2017, OHG applied to the Mayor in a bid for funding for the redevelopment of the Kingsbridge estate and has now started 'conversations' with residents in specific blocks of three of the four estates (Samuda estate excluded): 
 
-<img src="/images/ohgconversations.png" class="img-fluid rounder img-thumbnail">
+{% picture "src/images/ohgconversations.png", "alt text" %}
 
 The Mayor has designated the Isle of Dogs as an 'opportunity area' and his [planning framework](https://airdrive-secure.s3-eu-west-1.amazonaws.com/london/dataset/isle-of-dogs-and-south-poplar-opportunity-area-planning-framework/2019-10-18T14%3A33%3A23/Appendix%20A%20Isle%20of%20Dogs%20and%20South%20Poplar%20OAPF.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJJDIMAIVZJDICKHA%2F20200603%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20200603T161828Z&X-Amz-Expires=300&X-Amz-Signature=e9f1e1b74bfcd4ea3f185de6fa62ea24ad89c7701eee317bad9d78024ba5474f&X-Amz-SignedHeaders=host) for the area envisages 49,000 new homes some of which provided through the regeneration of existing housing estates:
 
-<img src="/images/isleofdogsoapf.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/isleofdogsoapf.png", "alt text" %}
 
 In 2019, One Housing Group created a residents steering group on the Kingsbridge estate to consider different options for the possible regeneration of 134 homes in Michigan House, Montrose House and Montcalm House.
 
 The latest [newsletter (Feb 2020)](https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf) says that an options appraisal is being drawn up to present to residents in order to select a preferred option.
+
+A ballot of residents is due to be held in summer 2022.
 
 __Links:__  
 Feb 2020 newsletter from One Housing - [https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf](https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf)

@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Proposal 
 name: Marks Gate estate 
 borough: barkinganddagenham
 thumb: /images/mgtower3thumb.jpg
@@ -18,25 +16,25 @@ itla:
 total: 500
 location: '{"type":"Point","coordinates":[0.138200,51.581715]}'
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 500 homes have been earmarked for potential demolition by Barking and Dagenham Council.
 
 Barking and Dagenham's [draft Local Plan 2019-34](https://www.lbbd.gov.uk/sites/default/files/attachments/LBBD-Draft-Local-Plan-Reg-18-Consultation-version_211119.pdf) has singled out the Marks Gate estate and neighbouring Chadwell Heath industrial estate area for comprehensive redevelopment on the basis that it will soon benefit from a new Crossrail station.
 
-<img src="/images/mglp2.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/mglp2.png", "alt text" %}
 
 It says that detailed proposals will be drawn up in a masterplan and presented in a Supplementary Planning Document.
 
-<img src="/images/mglp1.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/mglp1.png", "alt text" %}
 
 In the meantime, 53 homes on the estate have been earmarked for immediate redevelopment by the Council.
 
-<img src="/images/padnallaerial.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/padnallaerial.png", "alt text" %}
 
 Barking and Dagenham's [options appraisal report](https://modgov.lbbd.gov.uk/internet/documents/s87069/Estate%20Renewal%20Programme%20Report%20-%20App.%201%20Options%20Appraisal.pdf) claims that residents in these blocks have reported damp and condensation issues and that the homes on this site don't maximise their economic potential.
 
-<img src="/images/padnalleconomic.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/padnalleconomic.png", "alt text" %}
 
 The scheme is being progressed by the Council in conjunction with its subsidiary affordable housing company [Reside](https://www.lbbd.gov.uk/affordable-rents-reside-housing) which provides intermediate rented housing _"to people who are in employment, but can’t afford to buy or rent privately and have limited access to social housing"_
 

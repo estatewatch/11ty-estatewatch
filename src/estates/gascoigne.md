@@ -1,7 +1,4 @@
 ---
-category: underthreat
-stage: Implementation 
-erg: noncompliant
 name: Gascoigne estate
 borough: barkinganddagenham
 thumb: /images/gascoigne1thumb.jpg
@@ -36,19 +33,19 @@ The Mayor's [planning report](https://www.london.gov.uk/what-we-do/planning/plan
 
 This is despite the Mayor's own estate regeneration policy requiring no net loss of social rented housing. Indeed, the replacement 'social' housing is all 'London Affordable Rent' which is defined in the [planning consent's section 106 legal agreement](/images/gascoignes106.pdf) as up to 80% market rent.
 
-<img src="/images/gascoignes106.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/gascoignes106.png", "alt text" %}
 
 These replacement 'affordable' homes have been funded by the Mayor and the estate was exempted by the Mayor from his requirement to ballot residents on the demolition of their homes.
 
 Planning application [documents](/images/bdreside.pdf) confirm that tenants have been offered the 'right to return' to new homes on the estate, but acknowledge that (because the estate is being redeveloped by the Council's new [Housing Company](https://www.lbbd.gov.uk/affordable-rents-reside-housing)) the terms and rent levels of new tenancies would differ from those that tenants currently enjoy: 
 
-<img src="/images/bdreside.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/bdreside.png", "alt text" %}
 
 Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West by a main road running through the middle of the estate. The original estate had 2,260 homes across both the East and West sites, all of which are to be demolished. The planning application for the demolition of Gascoigne East was approved by the GLA in September 2015, planning for Gascoigne West was approved by the GLA in December 2018. The first phase of the redevelopment of Gascoigne East was completed in 2019, its full completion date is expected to be 2024. Work on phase 1 of Gascoigne West started with demolition in January 2020.
 
 Barking and Dagenham Council only offers an option of shared ownership for leaseholders who want to return to the estate - i.e. paying rent on the unowned share.  
 
-<img src="/images/bdresideso.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/bdresideso.png", "alt text" %}
 
 This goes against the legal “principle of equivalence” which says that persons affected by compulsory purchase should be no worse off in financial terms after the acquisition. 
 

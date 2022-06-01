@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Implementation
 name: Church Street Area
 borough: westminster
 thumb: /images/csthumb.jpg
@@ -26,7 +24,7 @@ It is also within the boundary of the __Edgeware Road Housing Zone__, one of [30
 
 Residents of Westminster's [Church street](https://www.estatewatch.london/estates/westminster/churchstreet/) estate were [balloted](https://www.estatewatch.london/images/church_street_news_may.pdf) in 2013, with 87% of eligible residents voting in favour of redevelopment - albeit only 25% of residents turned out for the vote.
 
-<img src="/images/churchstreetballot.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/churchstreetballot.png", "alt text" %}
 
 The scheme underlying the ballot was then shelved in 2015 a new masterplan was drawn up. In 2018, Westminster Council announced that it would be holding any more ballots for further phases of the scheme. This was met by [protest](https://www.westminsterextra.co.uk/article/council-chiefs-at-war-with-mayor-khan-over-estate-demolition-vote) from the Mayor who threatened to withdraw £23m of funding. As with its other schemes like the [Ebury Bridge estate](https://www.estatewatch.london/estates/westminster/eburybridge/), Westminster is now proceeding without Mayoral funding in order to avoid having to ballot residents.
 
@@ -42,13 +40,13 @@ Whether the Mayor will take action or turn a blind eye to Westminster's dupery r
 
 The 400 homes under threat are located in what has been labelled sites A, B and C:
 
-<img src="/images/css1.jpg" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/css1.jpg", "alt text" %}
 
-<img src="/images/css2.jpg" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/css2.jpg", "alt text" %}
 
 In February 2021, Westminster Council came under fire after it was [reported](https://londonnewsonline.co.uk/residents-petrified-that-housing-development-could-destroy-businesses/) that retailers had been served with notices to quit in the next phase of the Council's redevelopment of the [Church Street area estates](https://estatewatch.london/estates/westminster/churchstreet/).
 
-<img src="/images/churchstreetarticle.png" class="img-fluid rounded img-thumbnail" width="75%">
+{% picture "src/images/churchstreetarticle.png", "alt text" %}
 
 Westminster's [policy for leaseholder re-housing](https://www.westminster.gov.uk/housing-policy-and-strategy/leaseholder-policy-housing-renewal-areas) requires leaseholders to take out a new mortgage if they want to take up the Council's shared equity offer on a new home being built as part of the scheme. 
 

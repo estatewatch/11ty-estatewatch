@@ -2,9 +2,9 @@
 name: Love Lane estate
 borough: haringey
 location: '{"type":"Point","coordinates":[-0.069012,51.604415]}'
-ballot: Pending
+ballot: Approved
 landlord: Haringey Council
-developer: null
+developer: Lendlease
 itla: Damian Tissier Microfish Communications
 total: 297
 thumb: /images/love_lane5thumb.jpg
@@ -24,16 +24,13 @@ images:
   - src/images/love_lane12.jpg
   - src/images/love_lane13.jpg
   - src/images/love_lane14.jpg
-planning: null
-category: underthreat
-stage: Proposal
+planning: Pending
 ---
-
 297 council homes on the Love Lane estate have been earmarked for redevelopment as part of [Haringey's regeneration of Tottenham](https://tottenham.london/HighRoadWest).
 
 The estate was originally designated for redevelopment by Haringey Council’s cabinet in December 2014. It was subsequently included as a development site in Haringey's [Tottenham Area Action Plan](https://www.haringey.gov.uk/sites/haringeygovuk/files/final_haringey_tottenham_aap_dtp_online.pdf) (site NT5 - High Road West). 
 
-<img src="/images/lovelanent5.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/lovelanent5.png", "alt text" %}
 
 Haringey Council began rehousing secure tenants in February 2015 and there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition). 
 

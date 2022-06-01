@@ -1,6 +1,4 @@
 ---
-category: underthreat
-stage: Preparation 
 name: Grahame Park estate
 borough: barnet
 thumb: /images/grahamepark2thumb.jpg
@@ -23,13 +21,13 @@ It and is Barnet’s largest housing estate with [1,777 homes](https://www.barne
 
 A small initial redevelopment phase was completed in 2012 (stage A). Notting Hill Genesis recently [received planning consent](https://www.insidehousing.co.uk/news/news/sadiq-khan-approves-housing-associations-2000-home-estate-regeneration-plan-66346) for the next phase (plots 10-12) after its application was initially refused due to the proposed net loss of social rented housing. This phase will provide 32 homes at 'target rents' to existing permanent tenants, 314 London Affordable Rented and 699 shared ownership homes.
 
-<img src="/images/gparkphases.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/gparkphases.png",  "alt text" %}
 
 A [GLA briefing paper](https://www.london.gov.uk/sites/default/files/gla_grahame_park_estate_fva_comments_march_2020_redacted.pdf) confirms that the land is being transferred to Notting Hill Genesis at no cost (para 4.2). This is also confirmed in section 6.2 of the [Financial Viability Assessment](https://www.london.gov.uk/sites/default/files/gp_stage_b_financial_viability_assessment_report_v4.0.pdf). 
 
 The [Financial Viability Assessment](https://www.london.gov.uk/sites/default/files/gp_stage_b_financial_viability_assessment_report_v4.0.pdf) commissioned by Notting Hill Genesis and submitted to the GLA justifying the low levels of social rented housing, confirms that Notting Hill's target profit for this phase of the scheme is £105m and that current estimates say it will achieve £66m.
 
-<img src="/images/gparkprofit.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/gparkprofit.png",  "alt text" %}
 
 The GLA's stage 1 report says that _"while Plots 13 to 16 are expected to come forward over the longer term; Plots 17 to 21 are not expected to come forward for development. "_
 
@@ -39,7 +37,7 @@ In December 2020, An [FOI request](https://www.whatdotheyknow.com/request/afford
 
 A compliance audit by the GLA found that on first let, Notting Hill had charged nearly £20 per week more than the Mayor's permitted benchmark levels for London Affordable Rent.
 
-<img src="https://35percent.org/img/gparkaudit2.png" width="50%" class="img-fluid rounded img-thumbnail">
+{% picture "https://35percent.org/img/gparkaudit2.png", "alt text" %}
 
 Whilst the GLA audit considered this a 'high breach' of funding conditions, it failed to impose any kind of penalty on Notting Hill Genesis.
 
@@ -47,7 +45,7 @@ The Mayor's audit also made no mention of the fact that the planning permission 
 
 This is because the [scope of the Mayor's audit](https://www.london.gov.uk/file/46480) is limited only to verifying that rents are in line with grant funding conditions on first let. The Mayor's audit is not concerned with rent levels on subsequent lets or whether the rents are in line with the tenure required by the planning consent.
 
-<img src="https://35percent.org/img/glachecklist.jpg" width="50%" class="img-fluid rounded img-thumbnail">
+{% picture "https://35percent.org/img/glachecklist.jpg", "alt text" %}
 
 Details of the planning consent for Phase A are available on Barnet's planning portal [here](https://publicaccess.barnet.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=NEVAH5JIFWV00) and details of the Mayor's annual compliance audit are available on the GLA website [here](https://www.london.gov.uk/sites/default/files/11_gla_cfg_section_9._compliance_audit_-_august_2020.pdf).
 

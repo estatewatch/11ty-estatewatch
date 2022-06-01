@@ -15,7 +15,7 @@ landlord: Grosvenor estates
 developer: Grosvenor
 itla:
 total: 44
-ballot:
+ballot: Exempt
 planning: Approved
 ---
 44 Council homes are under threat of demolition on Westminster's Cundy Street estate.
@@ -30,7 +30,7 @@ Grosvenor will replace them with 139 homes for luxury senior living accommodatio
 
 Westminster published Grosvenor's [viability assessment](https://idoxpa.westminster.gov.uk/online-applications/files/95BB21391E1D917B7E1E2A471BFEE830/pdf/20_03307_FULL-FINANCIAL_VIABILITY_ASSESSMENT-6839837.pdf) for the scheme, which said it couldn't afford to provide any more affordable housing because the scheme was only estimated to produce £71m of the £121m profit it says it requires.
 
-<img src="/images/csfva.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/csfva.png", "alt text" %}
 
 The viability assessment also shows that Grosvenor hasn't applied for GLA grant funding, which would have enabled it to provide more affordable housing, despite the Mayor's policy requirement that estate regenerations seek grant funding to maximise the provision of affordable housing.
 
@@ -38,7 +38,7 @@ No detailed evidence was supplied showing how the demolition proposals comply wi
 
 There is a campaign against the proposals with links provided below.
 
-<img src="/images/cundysaveourhomes.jpg" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/cundysaveourhomes.jpg", "alt text" %}
 
 __Links:__  
 [Save Cundy Street & Walden House campaign facebook page](https://business.facebook.com/savecundystreetandwaldenhouse/?__tn__=K-R&eid=ARCU6EkmWFjRLsSiZiHpK8HhmvH_D0BZB_MeEm9N83Eo10vqxRN2K5mC0dQavquellCeTNHJv2qS29Co&fref=mentions).

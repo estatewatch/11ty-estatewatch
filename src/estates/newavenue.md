@@ -1,7 +1,4 @@
 ---
-category: underthreat
-erg: noncompliant
-stage: Implementation 
 name: New Avenue estate 
 borough: enfield
 thumb: /images/newavenuethumb.jpg
@@ -26,7 +23,7 @@ Phase one of the three phase scheme has been demolished and is nearing completio
 
 In December 2017 Enfield [set out its intention](/images/newavenuesr.pdf) to provide just 60 social rented replacement units, the remainder of the 'affordable housing' being for affordable rent (up to 80% market rent) or intermediate affordable.
 
-<img src="/images/newavenuesr.png" class="img-fluid rounded img-thumbnail">
+{% picture "src/images/newavenuesr.png", "alt text" %}
 
 Despite being [funded](/approval/funding) by the Mayor and exempted from his [ballot requirements](/approved/ballotrequirements). In April 2018 the Mayor signed off the planning permission granting the construction of 408 new homes of which only 34% will be 'affordable'. The Mayor's minimum policy requirement is 50% in estate regeneration schemes. The Mayor's report says that it was able to increase the number of social rented homes to 129. But the section 106 agreement is not publicly available on Enfield's planning portal so it is not clear whether these have been secured as social rent or affordable rent (up to 80% market rent).
 
