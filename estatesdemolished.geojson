@@ -1,0 +1,357 @@
+var freeBus = {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Aspen House (Maitland Park estate)",
+          "borough": "camden",
+          "image": "/images/ap2.jpg",
+          "planning": "Approved",
+          "url": "/demolished/aspenhouse/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.157043,51.548572]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Barham Park estate",
+          "borough": "Brent",
+          "image": "/images/barhampark.png",
+          "planning": "Demolished",
+          "url": "/demolished/barhampark/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.316587,51.553934]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Connaught estate",
+          "borough": "Greenwich",
+          "image": "/images/connaught.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/connaught/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.064427,51.487706]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Elmington estate",
+          "borough": "Southwark",
+          "image": "/images/elmington.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/elmington/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.089306,51.479557]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Excalibur estate",
+          "borough": "Lewisham",
+          "image": "/images/excalibur.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/excalibur/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.003185,51.435624]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Ferrier estate",
+          "borough": "Greenwich",
+          "image": "/images/ferrier.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/ferrier/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.027657,51.460667]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Goresbrook Village estate",
+          "borough": "Barking and Dagenham",
+          "image": "/images/goresbrook.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/goresbrook/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.116668,51.533531]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Heygate estate",
+          "borough": "Southwark",
+          "image": "/images/heygate.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/heygate/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.097468,51.493735]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Hylands Road estate",
+          "borough": "walthamforest",
+          "image": "/images/hylandsroad.jpg",
+          "planning": "Approved",
+          "url": "/demolished/hylandsroad/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.004060,51.592118]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Kender estate",
+          "borough": "Lewisham",
+          "image": "/images/kender.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/kender/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.050057,51.478169]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Kings Crescent estate",
+          "borough": "Hackney",
+          "image": "/images/kingscrescent.jpg",
+          "planning": "demolished",
+          "url": "/demolished/kingscrescent/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.092488,51.562183]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Larner Road estate",
+          "borough": "Bexley",
+          "image": "/images/larner.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/larner/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.17835,51.473574]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Leopold estate",
+          "borough": "Tower Hamlets",
+          "image": "/images/leopold.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/leopold/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.029091,51.518176]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Heathside and Lethbridge estate",
+          "borough": "lewisham",
+          "image": "/images/lbridge1.png",
+          "planning": "Demolished",
+          "url": "/demolished/lethbridge/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.013962,51.471971]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Leys estate",
+          "borough": "barkinganddagenham",
+          "image": "/images/leys2.png",
+          "planning": "Approved",
+          "url": "/demolished/leysestate/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.168521,51.536751]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Loughborough Park estate",
+          "borough": "Lambeth",
+          "image": "/images/loughborough.png",
+          "planning": "Demolished",
+          "url": "/demolished/loughboroughpark/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.105629,51.458923]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Mardyke estate",
+          "borough": "barkinganddagenham",
+          "image": "/images/mardyke.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/mardyke/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.170159,51.529157]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Marian Court estate",
+          "borough": "hackney",
+          "image": "/images/marian.png",
+          "planning": "Approved",
+          "url": "/demolished/mariancourt/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.049139,51.547861]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Myatts Fields estate",
+          "borough": "Lambeth",
+          "image": "/images/myattsfields.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/myattsfields/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.108238,51.474589]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "North Peckham estate",
+          "borough": "Southwark",
+          "image": "/images/northpeckhamaerial.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/northpeckham/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.078713,51.477372]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Ocean estate",
+          "borough": "Tower Hamlets",
+          "image": "/images/ocean4.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/ocean/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.042882,51.521884]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Pepys estate",
+          "borough": "Lewisham",
+          "image": "/images/Lor_pepys1.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/pepys/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.0334,51.48873]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Rectory Park estate",
+          "borough": "Ealing",
+          "image": "/images/rectorypark.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/rectorypark/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.37889,51.534215]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Robin Hood Gardens estate",
+          "borough": "Tower Hamlets",
+          "image": "/images/robinhood.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/robinhood/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.008179,51.509502]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Silwood estate",
+          "borough": "southwark/lewisham",
+          "image": "/images/silwoodtb.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/silwood/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.053286,51.490200]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Stonebridge estate",
+          "borough": "Brent",
+          "image": "/images/stonebridge.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/stonebridge/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.262596,51.541977]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Stonegrove and Spur Road estate",
+          "borough": "Brent",
+          "image": "/images/stonegrove.png",
+          "planning": "Demolished",
+          "url": "/demolished/stonegrove/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.288804,51.621214]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Sweets Way estate",
+          "borough": "Barnet",
+          "image": "/images/sweetsway.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/sweetsway/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.172491,51.628122]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Thames View (east) estate",
+          "borough": "Barking and Dagenham",
+          "image": "/images/ap2.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/thamesvieweast/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.115801,51.527705]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Tollgate Gardens estate",
+          "borough": "Westminster",
+          "image": "/images/tollgate.png",
+          "planning": "Demolished",
+          "url": "/demolished/tollgategardens/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.191409,51.535285]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "West Hendon estate",
+          "borough": "Barnet",
+          "image": "/images/westhendon.png",
+          "planning": "Demolished",
+          "url": "/demolished/westhendon/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.241227,51.577059]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Wood Dene estate",
+          "borough": "southwark",
+          "image": "/images/wood_dene.jpg",
+          "planning": "Demolished",
+          "url": "/demolished/wooddene/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.063363,51.474467]}
+        }
+    ]
+  };

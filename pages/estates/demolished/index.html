@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ESTATE WATCH - </title>
+
+    <link rel="stylesheet" href="/11ty-estatewatch/dist/app.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/dataTables.bootstrap5.min.css" />
+    <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+	<script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.12.1/js/dataTables.bootstrap5.min.js"></script>
+  
+
+    <script type="text/javascript" class="init">
+	
+
+        $(document).ready(function () {
+            $('#example').DataTable();
+        });
+        
+        
+    </script>
+
+    
+
+
+<meta name="description" content="A resource for residents on estates under threat of demolition.">
+
+
+<meta property="og:site_name" content="ESTATE WATCH">
+<meta property="og:title" content="ESTATE WATCH">
+<meta property="og:description" content="A resource for residents on estates under threat of demolition.">
+<meta property="og:url" content="https://estatewatch.github.io/11ty-estatewatch/pages/estates/demolished/">
+<meta property="og:locale" content="">
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content="A resource for residents on estates under threat of demolition.">
+
+
+
+
+<link rel="icon" href="/11ty-estatewatch/assets/favicons/favicon.ico">
+
+
+
+  </head>
+
+  <body>
+    <!-- skiplinks -->
+    <a href="#main" class="visually-hidden-focusable">Skip to main content</a>
+
+    <div class="container py-4">
+  <header class="pb-3 mb-4 border-bottom">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <div class="container-fluid">
+        <a href="/11ty-estatewatch/" class="d-flex align-items-center text-dark text-decoration-none">
+            <img src="/images/avatar_small.png">
+	    <title>ESTATE WATCH</title>
+            <path
+              fill-rule="evenodd"
+              clip-rule="evenodd"
+              d="M24.509 0c-6.733 0-11.715 5.893-11.492 12.284.214 6.14-.064 14.092-2.066 20.577C8.943 39.365 5.547 43.485 0 44.014v5.972c5.547.529 8.943 4.649 10.951 11.153 2.002 6.485 2.28 14.437 2.066 20.577C12.794 88.106 17.776 94 24.51 94H93.5c6.733 0 11.714-5.893 11.491-12.284-.214-6.14.064-14.092 2.066-20.577 2.009-6.504 5.396-10.624 10.943-11.153v-5.972c-5.547-.529-8.934-4.649-10.943-11.153-2.002-6.484-2.28-14.437-2.066-20.577C105.214 5.894 100.233 0 93.5 0H24.508zM80 57.863C80 66.663 73.436 72 62.543 72H44a2 2 0 01-2-2V24a2 2 0 012-2h18.437c9.083 0 15.044 4.92 15.044 12.474 0 5.302-4.01 10.049-9.119 10.88v.277C75.317 46.394 80 51.21 80 57.863zM60.521 28.34H49.948v14.934h8.905c6.884 0 10.68-2.772 10.68-7.727 0-4.643-3.264-7.207-9.012-7.207zM49.948 49.2v16.458H60.91c7.167 0 10.964-2.876 10.964-8.281 0-5.406-3.903-8.178-11.425-8.178H49.948z"
+              fill="currentColor"
+            ></path>
+          </svg>
+          <span class="fs-4">ESTATE WATCH</span>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+
+
+
+
+
+<ul class="navbar-nav ms-auto"><li class="nav-item">
+            <a class="nav-link"
+                href="/11ty-estatewatch/"
+                >
+                Home
+            </a></li><li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+                href="/11ty-estatewatch/pages/estates/underthreat/"
+                  role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                id="dropdown-122164">
+                Estates <span class="visually-hidden">Toggle Dropdown Estates</span>
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-122164">
+                <li>
+                    <a class="dropdown-item" href="/11ty-estatewatch/pages/estates/underthreat/">Estates under threat</a>
+                </li><li>
+    <a class="dropdown-item" href=" /11ty-estatewatch/pages/estates/demolished/">
+    Estates demolished
+    </a>
+</li></ul></li><li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"
+                href="/11ty-estatewatch/pages/factsheets/"
+                  role="button" data-bs-toggle="dropdown" aria-expanded="false"
+                id="dropdown-416267">
+                Resources <span class="visually-hidden">Toggle Dropdown Resources</span>
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="dropdown-416267">
+                <li>
+                    <a class="dropdown-item" href="/11ty-estatewatch/pages/factsheets/">Factsheets for residents</a>
+                </li><li>
+    <a class="dropdown-item" href=" /11ty-estatewatch/pages/refurbishment/">
+    The case for refurbishment
+    </a>
+</li><li>
+    <a class="dropdown-item" href=" /11ty-estatewatch/pages/research/">
+    The social impact
+    </a>
+</li></ul></li><li class="nav-item">
+            <a class="nav-link"
+                href="/11ty-estatewatch/pages/ballots/"
+                >
+                Ballots
+            </a></li></ul>
+
+
+</div>
+      </div>
+    </nav>
+  </header>
+</div>
+
+
+    <main id="main">
+      <div class="container py-4">
+        
+	<section class="jumbotron text-center">
+	     <div class="container">
+	     <h1>Estates demolished</h1>
+			         <p class="lead text-muted" align="left">
+				 Hundreds of London's council and housing association estates are under threat and dozens have already been demolished. See the list below of all those already raised to rubble.</p>
+
+</div>
+</section>
+
+
+
+<div class="col">
+<div class="embed-responsive embed-responsive-16by9">
+
+	
+	<div id="iframeHolder">
+		<iframe id="iframe" class="embed-responsive-item" src="/leafletmapdemolished.html" width="100%" height="400px"></iframe>
+	</div>
+</div>
+
+<div class="demo-html">
+<table id="example" class="table table-striped" style="width:100%">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Borough</th>
+                <th>Total Homes</th>
+                <th>Landlord</th>
+                <th>Developer</th>
+                <th>ITLA</th>
+				<th>Ballot Status</th>
+				<th>Planning Status</th>
+            </tr>
+        </thead>
+        <tbody><tr>
+		    <td> <a href="/demolished/aspenhouse/">Aspen House (Maitland Park estate)</a> </td>
+          <td> Camden </td>
+          <td> 50 </td>
+	      <td> Camden Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td> Exempt </td>
+		  <td> Approved </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/barhampark/">Barham Park estate</a> </td>
+          <td> Brent </td>
+          <td> 214 </td>
+	      <td> Brent Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/connaught/">Connaught estate</a> </td>
+          <td> Greenwich </td>
+          <td> 338 </td>
+	      <td> Greenwich Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/elmington/">Elmington estate</a> </td>
+          <td> Southwark </td>
+          <td> 519 </td>
+	      <td> Southwark Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/excalibur/">Excalibur estate</a> </td>
+          <td> Lewisham </td>
+          <td> 189 </td>
+	      <td> Lewisham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/ferrier/">Ferrier estate</a> </td>
+          <td> Greenwich </td>
+          <td> 1900 </td>
+	      <td> Greenwich Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/goresbrook/">Goresbrook Village estate</a> </td>
+          <td> Barking and dagenham </td>
+          <td> 282 </td>
+	      <td> Barking and Dagenham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/heygate/">Heygate estate</a> </td>
+          <td> Southwark </td>
+          <td> 1212 </td>
+	      <td> Southwark Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/hylandsroad/">Hylands Road estate</a> </td>
+          <td> Waltham Forest </td>
+          <td> 50 </td>
+	      <td> Waltham Forest Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td> Exempt </td>
+		  <td> Approved </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/kender/">Kender estate</a> </td>
+          <td> Lewisham </td>
+          <td> 150 </td>
+	      <td> Lewisham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/kingscrescent/">Kings Crescent estate</a> </td>
+          <td> Hackney </td>
+          <td> 357 </td>
+	      <td> Hackney Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/larner/">Larner Road estate</a> </td>
+          <td> Bexley </td>
+          <td> 622 </td>
+	      <td> Bexley Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td> Exempt </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/leopold/">Leopold estate</a> </td>
+          <td> Tower hamlets </td>
+          <td> 165 </td>
+	      <td> Tower Hamlets </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/lethbridge/">Heathside and Lethbridge estate</a> </td>
+          <td> Lewisham </td>
+          <td> 366 </td>
+	      <td> Lewisham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/leysestate/">Leys estate</a> </td>
+          <td> Barking &amp; Dagenham </td>
+          <td> 215 </td>
+	      <td> Barking &amp; Dagenham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td> Exempt </td>
+		  <td> Approved </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/loughboroughpark/">Loughborough Park estate</a> </td>
+          <td> Lambeth </td>
+          <td> 390 </td>
+	      <td> Peabody </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/mardyke/">Mardyke estate</a> </td>
+          <td> Barking &amp; Dagenham </td>
+          <td> 547 </td>
+	      <td> Barking &amp; Dagenham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td> Exempt </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/mariancourt/">Marian Court estate</a> </td>
+          <td> Hackney </td>
+          <td> 75 </td>
+	      <td> Hackney Council </td>
+	      <td> Austringer Capital </td>
+	      <td>  </td>
+		  <td> Exempt </td>
+		  <td> Approved </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/myattsfields/">Myatts Fields estate</a> </td>
+          <td> Lambeth </td>
+          <td> 477 </td>
+	      <td> Lambeth Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/northpeckham/">North Peckham estate</a> </td>
+          <td> Southwark </td>
+          <td> 3203 </td>
+	      <td> Southwark Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/ocean/">Ocean estate</a> </td>
+          <td> Tower hamlets </td>
+          <td> 1793 </td>
+	      <td> Tower Hamlets </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/pepys/">Pepys estate</a> </td>
+          <td> Lewisham </td>
+          <td> 366 </td>
+	      <td> Lewisham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/rectorypark/">Rectory Park estate</a> </td>
+          <td> Ealing </td>
+          <td> 270 </td>
+	      <td> Ealing Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/robinhood/">Robin Hood Gardens estate</a> </td>
+          <td> Tower hamlets </td>
+          <td> 213 </td>
+	      <td> Tower Hamlets </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/silwood/">Silwood estate</a> </td>
+          <td> Southwark/lewisham </td>
+          <td> 500 </td>
+	      <td> Southwark/Lewisham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/stonebridge/">Stonebridge estate</a> </td>
+          <td> Brent </td>
+          <td> 1175 </td>
+	      <td> Brent Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/stonegrove/">Stonegrove and Spur Road estate</a> </td>
+          <td> Brent </td>
+          <td> 630 </td>
+	      <td> Brent Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/sweetsway/">Sweets Way estate</a> </td>
+          <td> Barnet </td>
+          <td> 150 </td>
+	      <td> Notting Hill Genesis </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/thamesvieweast/">Thames View (east) estate</a> </td>
+          <td> Barking and dagenham </td>
+          <td> 288 </td>
+	      <td> Barking and Dagenham Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/tollgategardens/">Tollgate Gardens estate</a> </td>
+          <td> Westminster </td>
+          <td> 150 </td>
+	      <td> Westminster Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/westhendon/">West Hendon estate</a> </td>
+          <td> Barnet </td>
+          <td> 680 </td>
+	      <td> Barnet Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr><tr>
+		    <td> <a href="/demolished/wooddene/">Wood Dene estate</a> </td>
+          <td> Southwark </td>
+          <td> 323 </td>
+	      <td> Southwark Council </td>
+	      <td>  </td>
+	      <td>  </td>
+		  <td>  </td>
+		  <td> Demolished </td>
+	    </tr></tbody>
+</table>
+</div>
+
+
+
+
+
+      </div>
+    </main>
+
+    <footer class="container">
+  <p class="float-end"><a href="#">Back to top</a></p>
+  <p>
+     <a href="/11ty-estatewatch/pages/imprint">About/Contact</a>
+  </p>
+</footer>
+
+    <script type="text/javascript" src="/11ty-estatewatch/dist/app.js"></script>
+    
+</body>
+</html>
