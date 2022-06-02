@@ -24,7 +24,7 @@ eleventyNavigation:
 
 Ballots came about in 2018 through campaigning that led to the publication of the Mayor of  London’s [Good Practice Guide to Estate Regeneration](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf).
 
-Around half of London's [estates under threat](https://www.estatewatch.london/underthreat/estatesatrisk/) (51 estates) were [exempted](https://www.london.gov.uk/sites/default/files/25.11.2021_for_website_-_list_of_exemptions.pdf) from the ballot requirement by the Mayor, on the basis that they had already been allocated funding (even if many of these funding agreements have since expired).
+Around half of London's [estates under threat](https://www.estatewatch.london/underthreat/estatesatrisk/) (51 estates) were [exempted](https://www.london.gov.uk/sites/default/files/25.11.2021_for_website_-_list_of_exemptions.pdf) from the ballot requirement by the Mayor, on the basis that they had already been allocated funding (even if many of these funding agreements have since expired). This includes many of the largest estates like the Aylesbury, South Acton and Grahame Park estates.
 
 <div class="w-50 mx-auto">
 {% picture "https://www.estatewatch.london/images/ajkhan.png", "alt text" %}
@@ -156,7 +156,7 @@ It is entirely within the Mayor's powers to call in this planning application fo
 
 > "The council or housing association should seek gap funding. The Greater London Authority (GLA) has affordable housing grant funding that can be used for this purpose, though when considering applications the Mayor must be confident that all options for funding the scheme without grant, such as other landlord resources and optimising the density of a proposed scheme, have been fully explored." (page 16)
 
-Whether the Mayor will take action or turn a blind eye to Westminster's dupery remains to be seen. Given that the Mayor turned a blind eye to Westminster when it similarly evaded a ballot at the Ebury Bridge estate, we don't hold out too much hope..
+Whether the Mayor will take action or turn a blind eye to Councils routinely flouting his policies remains to be seen. 
 
 # Demolition or disinvestment?
 One of the recurring elements when it comes to estate regeneration ballots is that residents are faced with the choice of demolition or disinvestment and in some cases warned that they will face rooftop homes or infill developments on green space if they vote against demolition. 
