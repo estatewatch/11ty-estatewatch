@@ -12,7 +12,7 @@ developer:
 itla:
 total: 50
 ballot: Exempt
-planning: Approved
+planning: Demolished 
 ---
 Circa 50 Council homes have been demolished in Aspen House as part of Camden's [regeneration of Maitland Park estate](https://www.camden.gov.uk/maitland-park).
 

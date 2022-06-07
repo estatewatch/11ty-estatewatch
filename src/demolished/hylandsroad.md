@@ -13,7 +13,7 @@ developer:
 itla:
 total: 50
 ballot: Exempt
-planning: Approved
+planning: Demolished 
 ---
 Approximately 50 council homes have been earmarked for demolition on the remaining phases 2 and 3 of the Hylands Road regeneration in Walthamstow.
 

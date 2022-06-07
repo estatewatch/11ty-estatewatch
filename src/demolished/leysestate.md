@@ -13,7 +13,7 @@ developer:
 itla:
 total: 215 
 ballot: Exempt
-planning: Approved
+planning: Demolished 
 ---
 215 homes have been demolished on Barking and Dagenham's Leys estate.
 

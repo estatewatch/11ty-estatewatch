@@ -14,7 +14,7 @@ developer: Austringer Capital
 itla:
 total: 75
 ballot: Exempt
-planning: Approved
+planning: Demolished 
 ---
 75 homes have been demolished on Hackney's Marian Court estate in Homerton.
 
