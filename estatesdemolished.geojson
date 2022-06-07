@@ -7,7 +7,7 @@ var freeBus = {
           "title": "Aspen House (Maitland Park estate)",
           "borough": "camden",
           "image": "/images/ap2.jpg",
-          "planning": "Approved",
+          "planning": "Demolished",
           "url": "/demolished/aspenhouse/"
         },
         "geometry": {"type":"Point","coordinates":[-0.157043,51.548572]}
@@ -95,7 +95,7 @@ var freeBus = {
           "title": "Hylands Road estate",
           "borough": "walthamforest",
           "image": "/images/hylandsroad.jpg",
-          "planning": "Approved",
+          "planning": "Demolished",
           "url": "/demolished/hylandsroad/"
         },
         "geometry": {"type":"Point","coordinates":[-0.004060,51.592118]}
@@ -161,7 +161,7 @@ var freeBus = {
           "title": "Leys estate",
           "borough": "barkinganddagenham",
           "image": "/images/leys2.png",
-          "planning": "Approved",
+          "planning": "Demolished",
           "url": "/demolished/leysestate/"
         },
         "geometry": {"type":"Point","coordinates":[0.168521,51.536751]}
@@ -194,7 +194,7 @@ var freeBus = {
           "title": "Marian Court estate",
           "borough": "hackney",
           "image": "/images/marian.png",
-          "planning": "Approved",
+          "planning": "Demolished",
           "url": "/demolished/mariancourt/"
         },
         "geometry": {"type":"Point","coordinates":[-0.049139,51.547861]}
