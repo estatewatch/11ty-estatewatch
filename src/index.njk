@@ -8,18 +8,19 @@ layout: base
 eleventyNavigation:
   key: Home
 ---
-<div class="p-5 mb-4 bg-light rounded-3">
+<div class="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg bg-dark text-white">
 
 <div id="carouselExampleIndicators" class="carousel carousel-dark slide" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
     <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="container-fluid py-2">
-    <img src="/images/bulldozer.png" class="float-end mx-auto" alt="Bulldozer logo">
+    <img src="/images/draperrefurbsmall.png" class="float-end mx-auto" alt="Bulldozer logo">
     <h1 class="display-5 fw-bold">{{ site.title }}</h1>
     <p class="col-md-10 fs-4 mb-0 pt-2">
       A VOICE for residents on estates under threat of demolition.
@@ -27,38 +28,48 @@ eleventyNavigation:
     <p class="mt-4">
       <small>A <a href="/pages/imprint">project</a> by <a href="https://londontenants.org">London Tenants Federation</a> and <a href="https://justspace.org.uk">Just Space</a>.</small>
     </p>
-    <a class="btn btn-outline-dark" href="/images/ballotsnewsletter.pdf" target="_blank">
-      Read our latest newsletter
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="16"
-        height="16"
-        fill="currentColor"
-        class="bi bi-box-arrow-up-right"
-        viewBox="0 0 16 16"
-      >
-        <path
-          fill-rule="evenodd"
-          d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"
-        />
-        <path
-          fill-rule="evenodd"
-          d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"
-        />
-      </svg>
-    </a>
+    </br>
+    </br>
   </div>
     </div>
     <div class="carousel-item">
       <div class="container-fluid py-2">
-    <img src="/images/bulldozer.png" class="float-end mx-auto" alt="Bulldozer logo">
+    <img src="/images/tagposter.png" class="float-end mx-auto" alt="Bulldozer logo">
     <h1 class="display-5 fw-bold">Love Lane estate latest</h1>
     <p class="col-md-10 fs-4 mb-0 pt-2">
       Read interviews with the residents on what they think of their regeneration.
     </p>
-    <p class="mt-4">
-      <small>A <a href="/pages/imprint">project</a> by <a href="https://londontenants.org">London Tenants Federation</a> and <a href="https://justspace.org.uk">Just Space</a>.</small>
+   
+    <a class="btn btn-outline-dark" href="/images/ballotsnewsletter.pdf" target="_blank">
+      Read our latest newsletter
+      <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="16"
+        height="16"
+        fill="currentColor"
+        class="bi bi-box-arrow-up-right"
+        viewBox="0 0 16 16"
+      >
+        <path
+          fill-rule="evenodd"
+          d="M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z"
+        />
+        <path
+          fill-rule="evenodd"
+          d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"
+        />
+      </svg>
+    </a>
+  </div>
+    </div>
+     <div class="carousel-item">
+      <div class="container-fluid py-2">
+    <img src="/images/ballotpapertransparent.png" class="float-end mx-auto" alt="Bulldozer logo">
+    <h1 class="display-5 fw-bold">Estate Ballots</h1>
+    <p class="col-md-10 fs-4 mb-0 pt-2">
+      Learn how the Mayor's ballot rules are flawed and how they can be put right.
     </p>
+   
     <a class="btn btn-outline-dark" href="/images/ballotsnewsletter.pdf" target="_blank">
       Read our latest newsletter
       <svg
@@ -83,17 +94,13 @@ eleventyNavigation:
     </div>
     <div class="carousel-item">
       <div class="container-fluid py-2">
-    <img src="/images/bulldozer.png" class="float-end mx-auto" alt="Bulldozer logo">
+    <img src="/images/mic.png" class="float-end mx-auto" alt="Bulldozer logo">
     <h1 class="display-5 fw-bold">Latest podcasts</h1>
     <p class="col-md-10 fs-4 mb-0 pt-2">
       Hear from residents on four different estates talk about their experiences.
     </p>
-    <p class="mt-4">
-      <small>A <a href="/pages/imprint">project</a> by <a href="https://londontenants.org">London Tenants Federation</a> and <a href="https://justspace.org.uk">Just Space</a>.</small>
-    </p>
-    <a class="btn btn-outline-dark" href="/images/ballotsnewsletter.pdf" target="_blank">
-      Read our latest newsletter
-      <svg
+   </br>
+ <a class="btn btn-primary" href="#" role="button">Listen in  <svg
         xmlns="https://www.w3.org/2000/svg"
         width="16"
         height="16"
@@ -109,8 +116,10 @@ eleventyNavigation:
           fill-rule="evenodd"
           d="M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z"
         />
-      </svg>
-    </a>
+      </svg></a>
+      </br>
+       </br> 
+       </br>
   </div>
     </div>
   </div>
@@ -182,8 +191,3 @@ eleventyNavigation:
   </div>
  
 </div>
-
-
-
-
-<!-- for debug: {{ site | dump }} {{page | dump }} {{meta | dump}}-->
