@@ -19,6 +19,13 @@ Over the last 5 years, <a href="https://justspace.org.uk/"><u> Just Space</u></a
 As part of this research, 120 in-depth interviews were carried out with tenants and residents on 6 different council estates undergoing regeneration: Aylesbury (Southwark), Gascoigne (Barking and Dagenham), Ocean (Tower Hamlets), Love Lane (Haringey), Pepys (Lewisham) and Carpenters estate (Newham). The interviews showed that many residents were forced out of their neighbourhoods leaving behind that precious network of friends, relatives and neighbours. The research has also shed light on the conditions many residents have been forced to live in - with essential repairs often neglected by the Council for years - and the uncertainty about the future, which created high level of anxiety and stress.
 
 As the research project draws to a close, this website has been developed as a resource for communities on estates facing regeneration, to know their rights and to ensure that tenants and residents’ choices will be respected. We want to monitor each scheme as it progresses and make space for residents to add updated information about their estate in real time. This can be a precious tool to hold Councils across London and the Mayor to account and make sure that future regeneration schemes benefit existing local communities.
+
+As facilitators of Estate Watch our organisations have provided briefings / guidance on what we feel to be good practice around building campaigns – with a link to the relevant page.
+However, different groups will necessarily have different ways of operating depending on their particular circumstances.  We support tenants engaging in discussion with others to make their own decisions about what might work best on their estates.
 				
-<b>Contact us at <a href="mailto:info@estatewatch.london">info@estatewatch.london</a></b>
+<b>You can contact us at <a href="mailto:info@estatewatch.london">info@estatewatch.london</a></b>
+
+We hold regular meetings for residents on estates under threat of demolition. If you live on an estate earmarked for redevelopment and would like to get involved, please email info@londontenants.org to request attendance and further details.
+
+NB. Estate Watch meetings are exclusively for tenants and leaseholders of estates that are under threat of demolition, have managed to stave off demolition or whose estates are currently being demolished.
 	  
