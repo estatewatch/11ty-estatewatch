@@ -2,7 +2,8 @@
 layout: base
 title: Estate Ballots
 eleventyNavigation:
-  key: Ballots
+  key: Estate Ballots
+  parent: Resources
   order: 2
 ---
 <div class="p-5 mb-4 bg-light rounded-3">

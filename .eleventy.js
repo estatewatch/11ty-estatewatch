@@ -73,6 +73,7 @@ module.exports = function (eleventyConfig) {
   // Copy (static) files to output (_site)
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/interviews");
+  eleventyConfig.addPassthroughCopy("src/casestudies");
   eleventyConfig.addPassthroughCopy("src/pages/researchmaps");
   eleventyConfig.addPassthroughCopy("src/pages/papers");
   eleventyConfig.addPassthroughCopy("src/leaflet");
