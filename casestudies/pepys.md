@@ -1,6 +1,6 @@
 ---
 name: Pepys estate
-status: Partial redevelopment - now complete
+borough: Lewisham
 images:
   - src/images/Lor_pepys1.jpg
   - src/images/Lor_pepys2.jpg
@@ -61,7 +61,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
@@ -84,7 +84,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
@@ -118,9 +118,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
   <div class="col">
 <figure>
     <figcaption>Interview with a private renter:</figcaption>
-    <audio
-        controls
-        src="/interviews/PepysInterview1Luciana.m4a">
+    <audio controls src="/interviews/PepysInterview1Luciana.m4a">
     </audio>
 </figure>
 </div>
@@ -128,9 +126,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
   <div class="col">
 <figure>
     <figcaption>Interview with a leaseholder:</figcaption>
-    <audio
-        controls
-        src="/interviews/PepysInterview2Dominic.m4a">
+    <audio controls src="/interviews/PepysInterview2Dominic.m4a">
     </audio>
 </figure>
 </div>
@@ -138,9 +134,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
   <div class="col">
 <figure>
     <figcaption>Interview with a council tenant:</figcaption>
-    <audio
-        controls
-        src="/interviews/PepysInterview6Malcolm.m4a">
+    <audio controls src="/interviews/PepysInterview6Malcolm.m4a">
     </audio>
 </figure>
 </div>
@@ -148,9 +142,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
   <div class="col">
 <figure>
     <figcaption>Interview with a council tenant:</figcaption>
-    <audio
-        controls
-        src="/interviews/PepysInterview7Travis.m4a">
+    <audio controls src="/interviews/PepysInterview7Travis.m4a">
     </audio>
 </figure>
 </div>
@@ -158,9 +150,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
   <div class="col">
 <figure>
     <figcaption>Interview with a council tenant:</figcaption>
-    <audio
-        controls
-        src="/interviews/PepysInterview5Mark.m4a">
+    <audio controls src="/interviews/PepysInterview5Mark.m4a">
     </audio>
 </figure>
 </div>
@@ -168,9 +158,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
   <div class="col">
 <figure>
     <figcaption>Interview with a council tenant:</figcaption>
-    <audio
-        controls
-        src="/interviews/PepysInterview14Ivana.m4a">
+    <audio controls src="/interviews/PepysInterview14Ivana.m4a">
     </audio>
 </figure>
 </div>
@@ -178,9 +166,7 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
   <div class="col">
 <figure>
     <figcaption>Interview with a council tenant:</figcaption>
-    <audio
-        controls
-        src="/interviews/PepysInterview19Ross.m4a">
+    <audio controls src="/interviews/PepysInterview19Ross.m4a">
     </audio>
 </figure>
 </div>
@@ -189,47 +175,52 @@ Completed in 1973, Pepys Estate originally had 1,324 homes across three 24-store
 </div>
 
 
-<!-----------------------------------------START OF CARD SNIPPET----------------------------------->
+<!--------------------------------------START OF CARSNIPPET------------------------------->
 <h2>Links</h2>
-<div class="card-columns">
-  <div class="card">
-    <div class="card-body">
+ <div class="album py-5 bg-light">
+    <div class="container">
+
+   <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+        <div class="col">
+          <div class="card shadow-sm">
+          <img src="{{ site.baseurl }}/images/pepys6.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
       <h5 class="card-title">MOVING_ME project by Platform 7</h5>
       <p class="card-text">A collection of photographs and stories contributed by residents of the Pepys estate that best represents how they feel about the structural and social change taking place around them.</p>
-      <a href="/images/Moving_Me_Pepys.pdf" class="btn btn-primary">Open the file</a>
+                    <div class="d-flex justify-content-between align-items-center">
+      <a href="/images/Moving_Me_Pepys.pdf" class="btn btn-primary">Link here</a>
+    </div>
+    </div>
     </div>
   </div>
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/pepys6.jpg" class="card-img-top" alt="...">
-  </div>	  
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/pepys7.jpg" class="card-img-top" alt="...">
-  </div>
-    </div>
+  
 
-<!-----------------------------------------START OF CARD SNIPPET----------------------------------->
-<div class="card-columns">
-  <div class="card">
-    <div class="card-body">
+<!--------------------------------START OF CARD SNIPPET----------------------------------->
+<div class="col">
+          <div class="card shadow-sm">
+           <img src="{{ site.baseurl }}/images/pepys_documentary.png" class="card-img-top" alt="...">
+           <div class="card-body">
       <h5 class="card-title">The Tower: A Tale Of Two Cities - Part 1</h5>
       <p class="card-text">A BBC documentary on the Pepys estate.</p>
+                    <div class="d-flex justify-content-between align-items-center">
       <a href="https://www.dailymotion.com/video/x4asu6x" class="btn btn-primary">Watch</a>
     </div>
   </div>
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/pepys_documentary.png" class="card-img-top" alt="...">
   </div>	  
-    </div>
+</div>
     
-    <div class="card-columns">
-  <div class="card">
+<div class="col">
+          <div class="card shadow-sm">
+<img src="{{ site.baseurl }}/images/Anita_Strasser_book_pic.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Deptford is Changing - a creative exploration of the impact of gentrification</h5>
       <p class="card-text">By Anita Strasser. ISBN: 9781527251588</p>
+                          <div class="d-flex justify-content-between align-items-center">
       <a href="https://www.yumpu.com/en/document/view/63260301/deptford-is-changing-a-creative-exploration-of-gentrification#" class="btn btn-primary">Read</a>
     </div>
   </div>
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/Anita_Strasser_book_pic.png" class="card-img-top" alt="...">
+  </div>	  
+    </div>
+     </div>
   </div>	  
     </div>

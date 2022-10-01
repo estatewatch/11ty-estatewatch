@@ -1,5 +1,6 @@
 ---
-name: Love Lane estate 
+name: Love Lane estate
+borough: Haringey
 images:
   - src/images/love_lane5.jpg
   - src/images/love_lane.jpg
@@ -17,8 +18,6 @@ images:
   - src/images/love_lane13.jpg
   - src/images/love_lane14.jpg
 ---
-
-
 Love Lane estate was built in the early 1960s and has 297 homes. Regeneration plans for the High Road West scheme were approved by Haringey Council’s cabinet in December 2014, this included the demolition of the Love Lane estate. Haringey  Council  served an Initial Demolition Notice to residents on the estate in February 2015 and the Council began rehousing secure council tenants and moving in temporary tenants – there are now 180 temporary tenants on the estate (temporary tenants can be removed quickly in the run up to demolition).
 
 A ballot took place in September 2021 in which 69% of ‘eligible’ residents voted, of which 55% supported the demolition of their homes and 45% did not. This represents just 39% of residents on the estate who were eligible to vote and did so - hardly a convincing mandate..
@@ -34,7 +33,6 @@ A ballot took place in September 2021 in which 69% of ‘eligible’ residents v
         <h5 class="card-title">T.A.G.</h5>
         <p class="card-text">A live campaign by Love Lane Team TAG (Temporary Accomodation group) is striving to protect the rights of temporary tenants.</p>
 	      
-        <!-- Button trigger modal -->
 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
   What is Team TAG?
 </button>
@@ -56,14 +54,14 @@ A ballot took place in September 2021 in which 69% of ‘eligible’ residents v
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
 	      	      
-      </div>
-    </div>
+  </div>
+  </div>
   </div>
 </div>
 	      <a href="{{ site.baseurl }}/images/tag_struggle.pdf" class="btn btn-primary">Read about Team TAG's struggle</a>
 
-      </div>
-    </div>
+   </div>
+   </div>
   </div>
 </div>
    
@@ -117,7 +115,7 @@ For more information see the following articles:
         </div>
 	
 	
-        <div class="col-md-4">
+  <div class="col-md-4">
           <div class="card mb-4 shadow-sm">
 		  <img class="bd-placeholder-img card-img-top" width="100%" height="225" src="{{ site.baseurl }}/images/mirror_lovelane.jpg" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail">
             <div class="card-body">
@@ -171,7 +169,7 @@ For more information see the following articles:
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
@@ -194,7 +192,7 @@ For more information see the following articles:
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
@@ -275,31 +273,16 @@ For more information see the following articles:
 <h2>Moving Me Project</h2>
 
 <div class="card-columns">
+
 <div class="card">
     <div class="card-body">
+    <center>
+    <img src="{{ site.baseurl }}/images/MM_lovelane1.jpg" class="card-img-top w-75" alt="...">
+    </center>
       <h5 class="card-title">MOVING_ME? project at Tate Modern</h5>
       <p class="card-text">In August 2019 photographs from the ‘Moving_Me? project featured in the Tottenham’s Trojan Horse Group show at Tate Modern. The Trojan Horse exhibition told the story of the proposed eviction of tenants living on the Love Lane Estate.</p>
-      <a href="/images/moving_me_lovelane.pdf" class="btn btn-primary">Open the file</a>
+      <a href="/images/moving_me_lovelane.pdf" class="btn btn-primary">Read more</a>
     </div>
   </div>
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/MM_lovelane.jpg" class="card-img-top" alt="...">
-  </div>	  
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/MM_lovelane1.jpg" class="card-img-top" alt="...">
-  </div>
+  
 </div>
-
-
-<div class="card-columns">
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/MM_lovelane2.jpg" class="card-img-top" alt="...">
-  </div>	  
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/MM_lovelane3.jpg" class="card-img-top" alt="...">
-  </div>
-	<div class="card">
-    <img src="{{ site.baseurl }}/images/MM_lovelane4.jpg" class="card-img-top" alt="...">
-  </div>
-</div>
-

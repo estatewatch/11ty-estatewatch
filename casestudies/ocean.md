@@ -1,5 +1,6 @@
 ---
 name: Ocean estate
+borough: Tower Hamlets
 images:
   - src/images/ocean4.jpg
   - src/images/ocean1.jpg
@@ -24,7 +25,7 @@ images:
 The original Ocean Estate was built after WWII, with additions in 1964. The estate is one of the largest in London and in 2013 there were 7,459 people living in 2,574 households on the estate. The first phase of regeneration started in 1995 with funding from the Single Regeneration Budget (SRB), followed by the New Deal for Communities (NDC) programme in 2000. Both of these programmes saw decanting and demolition of original homes, with the replacement new homes owned and managed by social (not council) landlords. The most recent phases of demolition and rebuild were completed in May 2019, completing all the regeneration and development plans so far.
 
 
-<div class="card-body">
+<div class="jumbotron jumbotron-fluid">
 <p class="lead">Key themes discussed in the interviews:</p>
   <ul>
 		<li>The estate has seen a lot of demolition and new construction, with many households decanted from the original buildings and displaced from the area.</li>
@@ -34,8 +35,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
 		<li>Leaseholders that were ‘bought out’ in order to allow for the demolition of their homes found that the money offered to them didn’t allow them to repurchase a home on the redeveloped site nor nearby, in fact leaseholders often moved out of the area and out of London all together into the fringes of Essex and beyond.</li>
 		<li>The decanting process was very difficult on households, both financially and emotionally, causing stress and upheaval.</li>
 		<li>Asian and Bangladeshi interviewees describe a sense that they were being intentionally targeted to be moved, often describing this as social and ethnic cleansing.</li></ul>
-	
-	      <p>It is useful to remember that the Ocean Estate is much further along in its timeline of council estate renewal when compared with some of the other estates in the ESRC project. What was observed on the Ocean is happening similarly on other estates in the project and across London as a whole; from the displacement of family, friends and neighbours, the changing social character of the area, more expensive rents and cost of living, and the loss of local services and shops. Indeed, the Ocean Estate serves as a useful case study and reminder of the difficult experiences residents have had within the regeneration process, even long after building work finishes. <a href="/images/Ocean_estate_report.docx"> Click here </a> to read an extensive report about the story of the Ocean estate.</p> 
+	<p>It is useful to remember that the Ocean Estate is much further along in its timeline of council estate renewal when compared with some of the other estates in the ESRC project. What was observed on the Ocean is happening similarly on other estates in the project and across London as a whole; from the displacement of family, friends and neighbours, the changing social character of the area, more expensive rents and cost of living, and the loss of local services and shops. Indeed, the Ocean Estate serves as a useful case study and reminder of the difficult experiences residents have had within the regeneration process, even long after building work finishes. <a href="/images/Ocean_estate_report.docx"> Click here </a> to read an extensive report about the story of the Ocean estate.</p> 
 
 <p class="lead">Here is what some people said...</p>    
 
@@ -63,7 +63,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
@@ -86,7 +86,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
@@ -109,7 +109,7 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
         </div>
       </div>
       
-      <div class="col-md-8 col-lg-4">
+  <div class="col-md-8 col-lg-4">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
@@ -132,11 +132,11 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
         </div>
       </div>
       
-    </div>
+  </div>
 	      
 <!-------------------- START OF CARD SNIPPET ------------------------------------------------->
 
-	      <div class="card-columns">
+<div class="card-columns">
   <div class="card">
     <div class="card-body">
       <h5 class="card-title">MOVING_ME project by Platform 7</h5>
@@ -145,9 +145,6 @@ The original Ocean Estate was built after WWII, with additions in 1964. The esta
     </div>
   </div>
   <div class="card">
-    <img src="{{ site.baseurl }}/images/moving_me1.jpg" class="card-img-top" alt="...">
+    <img src="{{ site.baseurl }}/images/moving_me1.jpg" class="card-img-top" width="50%" alt="...">
   </div>	  
-  <div class="card">
-    <img src="{{ site.baseurl }}/images/moving_me2.jpg" class="card-img-top" alt="...">
-  </div>
     </div>

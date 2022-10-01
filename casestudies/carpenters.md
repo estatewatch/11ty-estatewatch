@@ -1,5 +1,6 @@
 ---
 name: Carpenters estate
+borough: Newham
 images:
   - src/images/carpenters.jpg
   - src/images/carpenters1.jpg
@@ -11,7 +12,9 @@ The Carpenters Estate is near to the Queen Elizabeth (Olympic) Park, Stratford, 
 
 To save the estate from demolition, <a href="https://savecarpenters.wordpress.com/about/">Carpenters Against Regeneration Plans (CARP)</a> was formed by residents of the estate in 2011.  <a href="/images/ccplan.pdf">Carpenters Community Plan</a> was published in 2013 and the <a href="https://greatercarpenterscouk.files.wordpress.com/2019/06/np-june-2019-submission-version.pdf">Greater Carpenters Neighbourhood Plan</a> in 2019, both of which propose a bottom-up community based approach to planning the future of the estate.
 
+<center>
 <img src="/images/carp.png" class="img-fluid rounded img-thumbnail" width="60%">
+</center>
 
 Newham Council is carrying out an options appraisal with residents on the estate, each option involving a varying degree of demolition.  A ballot is due to be held some time in 2020.
 
@@ -57,7 +60,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+ <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
@@ -80,7 +83,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+ <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
@@ -101,7 +104,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
         </div>
       </div>
     
-      <div class="col-md-8 col-lg-4">
+  <div class="col-md-8 col-lg-4">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
@@ -124,7 +127,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-left">
             <div class="col-3">
@@ -150,7 +153,7 @@ More information on the Carpenters Community Plan can be found in <a href="https
 </div>
 
 <!----------------- AUDIO SNIPPET-------------------------->
-    <h2 class="display-4">Audio extracts:</h2>
+  <h2 class="display-4">Audio extracts:</h2>
 <hr class="my-4">
 
 <div class="container">
