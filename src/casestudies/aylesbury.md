@@ -1,14 +1,11 @@
 ---
 name: Aylesbury estate 
-status: Phased redevelopment due to complete in 2036
-category: research
+borough: Southwark
 images:
   - src/images/aylesburyicon.jpg
   - src/images/aylesbury1.jpg
   - src/images/aylesburyimage.jpg
   - src/images/fdsgreenspace.jpg
-  - src/images/aylesburyaerial.jpg
-  - src/images/aylesburydrone.jpg
   - src/images/aylesburypadbury.jpg
   - src/images/aylesburyphoto.jpg
   - src/images/aylesburyblair.jpg
@@ -59,7 +56,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
   </div>
 </div>
 
-<!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
+<!-------------------- START OF CARDS SNIPPET---------------------------------------------->
 <div class="card-body">
 <h2>Research Interviews</h2>
 <p class="lead">Key themes discussed in the interviews:</p>
@@ -72,125 +69,52 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
 		<li>The symbolic loss of the adjacent Heygate Estate and the displacement of its residents is referenced often and likely adds to these fears.</li></ul>
 
 <p class="lead">Here is what some people said... </p>
+</div>
 
-<div class="row mt-5 align-items-left justify-content-left">
-      <div class="col-md-8 col-lg-4">
-        <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-left">
-            <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
-            </div>
-            <div class="col-8 ml-auto">
-              <p>
-                <strong>Aylesbury estate resident</strong><br>
-                <em>Leaseholder</em>
-              </p>
-            </div>
-          </div>
-          <div class="row mt-4">
-            <div class="col-12">
-              <p>
-                "Well it was just a protracted series of micro exploitations and people being bought off or hushed up or kept in the dark about what was going on in the drawn-out redevelopment scheme"
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
+<figure>
+<blockquote>
+"Well it was just a protracted series of micro exploitations and people being bought off or hushed up or kept in the dark about what was going on in the drawn-out redevelopment scheme."
+</blockquote>
+  <figcaption class="blockquote-footer">
+Aylesbury estate leaseholder
+  </figcaption>
+</figure>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
-        <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-left">
-            <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
-            </div>
-            <div class="col-8 ml-auto">
-              <p>
-                <strong>Aylesbury estate resident</strong><br>
-                <em>Council tenant</em>
-              </p>
-            </div>
-          </div>
-          <div class="row mt-4">
-            <div class="col-12">
-              <p>
-	      "You know, when I moved, the time I moved, the council housing is for life, until you die you live there, that is the things that I put in my mind, and that was this place where I am going to die. And then suddenly, when the whole of this gentrification, it started, it has been taken away from, the whole of the network and that is it. You have got to your home, to die in, and it has been taken away from you."
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
+<figure>
+<blockquote>
+"You know, when I moved, the time I moved, the council housing is for life, until you die you live there, that is the things that I put in my mind, and that was this place where I am going to die. And then suddenly, when the whole of this gentrification, it started, it has been taken away from, the whole of the network and that is it. You have got to your home, to die in, and it has been taken away from you."
+</blockquote>
+  <figcaption class="blockquote-footer">
+Aylesbury estate tenant
+  </figcaption>
+</figure>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
-        <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-left">
-            <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
-            </div>
-            <div class="col-8 ml-auto">
-              <p>
-                <strong>Aylesbury estate resident</strong><br>
-                <em>Leaseholder</em>
-              </p>
-            </div>
-          </div>
-          <div class="row mt-4">
-            <div class="col-12">
-              <p>
-                "We don't want the new ones they are too expensive. A studio flat there is £428,000. And the Council is offering me [£]250 [thousand] for my three-bedroom… And a three bedroom [in the new-builds] is [£]850,000."
-              </p>
-            </div>
-          </div>
-	</div>
-	</div>
+<figure>
+<blockquote class="blockquote">
+"We don't want the new ones they are too expensive. A studio flat there is £428,000. And the Council is offering me [£]250 [thousand] for my three-bedroom… And a three bedroom [in the new-builds] is [£]850,000."
+  </blockquote>
+    <figcaption class="blockquote-footer">
+    Aylesbury estate leaseholder
+  </figcaption>
+</figure>
 
+<figure>
+<blockquote class="blockquote">
+"They [residents moved off the estate] have been scattered around. And then, and we have been given - kind of, that they all moved, or most of them, within the Southwark Borough. But we don't know where they have moved to. But the main thing, most of them have moved to housing associations. Which is, we know is future homelessness is waiting for them, and some of them have started struggling, because everybody knows that they cannot afford to pay the rent, service charge, now housing association have already made the private landlord, so who is going to, keep the rents and everything - as a private, they do as they like."
+</blockquote>
+  <figcaption class="blockquote-footer">
+    Aylesbury estate tenant
+  </figcaption>
+</figure>
 
-      <div class="col-md-8 col-lg-4">
-        <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-left">
-            <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
-            </div>
-            <div class="col-8 ml-auto">
-              <p>
-                <strong>Aylesbury estate resident</strong><br>
-                <em>Council tenant</em>
-              </p>
-            </div>
-          </div>
-          <div class="row mt-4">
-            <div class="col-12">
-              <p>
-                "They [residents moved off the estate] have been scattered around. And then, and we have been given - kind of, that they all moved, or most of them, within the Southwark Borough. But we don't know where they have moved to. But the main thing, most of them have moved to housing associations. Which is, we know is future homelessness is waiting for them, and some of them have started struggling, because everybody knows that they cannot afford to pay the rent, service charge, now housing association have already made the private landlord, so who is going to, keep the rents and everything - as a private, they do as they like."
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
-        <div class="shadow p-3 mb-5 bg-white rounded">
-          <div class="row no-gutters align-items-left">
-            <div class="col-3">
-              <img alt="image" class="img-fluid rounded" src="{{ site.baseurl }}/images/aylesburyicon.jpg">
-            </div>
-            <div class="col-8 ml-auto">
-              <p>
-                <strong>Aylesbury estate resident</strong><br>
-                <em>Leaseholder</em>
-              </p>
-            </div>
-          </div>
-          <div class="row mt-4">
-            <div class="col-12">
-              <p>
-                "She [the housing officer] has total disregard because they feel that ‘Oh, people here are ethnic minorities or whatever’, so they [the Council] feel they have the right to just treat people anyhow what - they feel that we don't read. They don’t think we’re going to read any documents or we have no knowledge of anything. And so they try and just use that against us and they think that we are illiterate."
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      </div>
-      
+<figure>
+<blockquote class="blockquote">
+"She [the housing officer] has total disregard because they feel that ‘Oh, people here are ethnic minorities or whatever’, so they [the Council] feel they have the right to just treat people anyhow what - they feel that we don't read. They don’t think we’re going to read any documents or we have no knowledge of anything. And so they try and just use that against us and they think that we are illiterate."
+  </blockquote>
+    <figcaption class="blockquote-footer">
+    Aylesbury estate leaseholder
+  </figcaption>
+</figure>
 <!----------------- AUDIO SNIPPET-------------------------->
 <h2>Audio extracts</h2>
 <hr class="my-4">
@@ -201,9 +125,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
   <div class="col">
 <figure>
     <figcaption>Interview with a leaseholder:</figcaption>
-    <audio
-        controls
-        src="/interviews/Aylesburyinterview3.m4a">
+    <audio controls src="/interviews/Aylesburyinterview3.m4a">
     </audio>
 </figure>
 </div>
@@ -211,9 +133,7 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
   <div class="col">
 <figure>
     <figcaption>Interview with a tenant:</figcaption>
-    <audio
-        controls
-        src="/interviews/Aylesburyinterview20.mp3">
+    <audio controls src="/interviews/Aylesburyinterview20.mp3">
     </audio>
 </figure>
 </div>
@@ -221,155 +141,104 @@ In September 2016, after a [protracted public inquiry](http://35percent.org/2016
   <div class="col">
 <figure>
     <figcaption>Interview with a leaseholder:</figcaption>
-    <audio
-        controls
-        src="/interviews/Aylesburyinterview8.m4a">
+    <audio controls src="/interviews/Aylesburyinterview8.m4a">
     </audio>
 </figure>
 </div>
 
 </div>
 </div>
-
-
-
-<!--------------------------------VIDEO CARDS---------------------------------->      
-<hr class="featurette-divider">
-
-<h2>Media Clips</h2>      
-      <div class="container">
-    <div class="row">    
-        <div class="col-md-6 ">
-            <div class="card">
-                <div class="card-image">
-                    <div class="embed-responsive embed-responsive-16by9">
-<video width="560" height="315" controls><source src="https://35percent.org/img/blairaylesburyspeech.mp4" type="video/mp4"></video>
-</div>
-
-                    
-                </div><!-- card image -->
-                
-                <div class="card-content">
-                    <span class="card-title">Blair's 1997 inaugural speech on the estate</span>                    
-                    
-                </div><!-- card content -->
-                
-                
-            </div>
-        </div>
-        <div class="col-md-6 ">
-            <div class="card">
-                <div class="card-image">
-                    <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RtvghCKNJjQ" frameborder="0" allowfullscreen></iframe>
-</div>
-                    
-                </div><!-- card image -->           
-                <div class="card-content">
-                    <span class="card-title">BBC report on leaseholders' predicament</span>                    
-                </div><!-- card content -->              
-            </div>
-        </div>
-    </div>
-
-    <div class="row">    
-        <div class="col-md-6 ">
-            <div class="card">
-                <div class="card-image">
-                    <div class="embed-responsive embed-responsive-16by9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1j_UP39cn0" frameborder="0" allowfullscreen></iframe>
-</div>
-                    
-                </div><!-- card image -->
-                
-                <div class="card-content">
-                    <span class="card-title">BBC report on Compulsory Purchase Order</span>                    
-                    
-                </div><!-- card content -->
-                
-                
-            </div>
-        </div>
-        <div class="col-md-6 ">
-            <div class="card">
-                <div class="card-image">
-                    <div class="embed-responsive embed-responsive-16by9">
-<video width="560" height="315" controls><source src="/images/aylesburyident.mp4" type="video/mp4"></video>
-</div>
-                    
-                </div><!-- card image -->           
-                <div class="card-content">
-                    <span class="card-title">Residents' <a href="https://www.theguardian.com/tv-and-radio/2014/mar/14/channel-4-aylesbury-estate-ident-revamped">reworking of the Channel 4 ident</a></span>                    
-                </div><!-- card content -->              
-            </div>
-        </div>
-    </div>
-
-</div>      
       
-      
-		<!-------------------- START OF CARDS SNIPPET ------------------------------------------------->
 	
 <hr class="featurette-divider">
 
 <h2>Displacement Maps</h2>
 <p>(submitted to the CPO Public Inquiry)</p>
 	
-<div class="card-columns">
-  <div class="card">
+ <div class="album py-5 bg-light">
+    <div class="container">
+
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+<div class="col">
+          <div class="card shadow-sm">
     <img src="{{ site.baseurl }}/images/tenants_disp_map.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">The displacement of tenants from the Aylesbury Estate</h5>
       <p class="card-text">Source: Aylesbury Estate 1st Public Inquiry (2015), London. Data from Notting Hill Trust. Witness Statement Professor Loretta Lees.</p>
+       <div class="d-flex justify-content-between align-items-center">
       <a href="{{ site.baseurl }}/images/aylesbury_tenants_map.jpg" class="btn btn-primary">View map</a>
     </div>
   </div>
-  <div class="card">
+    </div>
+  </div>
+
+
+<div class="col">
+          <div class="card shadow-sm">
     <img src="{{ site.baseurl }}/images/leaseholders_disp_map.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate in and beyond Greater London</h5>
       <p class="card-text">Source: Aylesbury Estate 1st Public Inquiry (2015), London. Data from Notting Hill Trust. Witness Statement Professor Loretta Lees.</p>
+       <div class="d-flex justify-content-between align-items-center">
       <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map.jpg" class="btn btn-primary">View map</a>
     </div>
   </div>
+  </div>
+  </div>
   
-  <div class="card">
+<div class="col">
+          <div class="card shadow-sm">
     <img src="{{ site.baseurl }}/images/Lees_statement1_pic.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Prof Loretta Lees Witness statement 2015</h5>
       <p class="card-text">Public Inquiry, Aylesbury Estate, London. April 2015.</p>
+      <div class="d-flex justify-content-between align-items-center">
       <a href="{{ site.baseurl }}/papers/aylesbury1witness_statement_Lees2015.pdf" class="btn btn-primary">View</a>
     </div>
   </div>
-  
   </div>
-  
-  <div class="card-columns">
-  <div class="card">
+  </div>
+
+
+ <div class="col">
+        <div class="card shadow-sm">
     <img src="{{ site.baseurl }}/images/aylesbury_leaseholders_map1.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate within Greater London</h5>
       <p class="card-text">Source: Aylesbury Estate 2nd Public Inquiry (2018), London. Data sourced from FOI data from Southwark Council. Witness Statement Professor Loretta Lees.</p>
+      <div class="d-flex justify-content-between align-items-center">
       <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map1.jpg" class="btn btn-primary">View map</a>
     </div>
   </div>
+  </div>
+  </div>
 
-<div class="card">
+ <div class="col">
+          <div class="card shadow-sm">
     <img src="{{ site.baseurl }}/images/aylesbury_leaseholders_map2.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">The displacement of leaseholders from the Aylesbury Estate in and beyond Greater London</h5>
       <p class="card-text">Source: Aylesbury Estate 2nd Public Inquiry (2018), London. Data sourced from FOI data from Southwark Council. Witness Statement Professor Loretta Lees.</p>
+      <div class="d-flex justify-content-between align-items-center">
       <a href="{{ site.baseurl }}/images/aylesbury_leaseholders_map2.jpg" class="btn btn-primary">View map</a>
     </div>
   </div>
+  </div>
+  </div>
 
-<div class="card">
+ <div class="col">
+          <div class="card shadow-sm">
     <img src="{{ site.baseurl }}/images/Lees_statement2_pic.png" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title">Prof Loretta Lees Witness statement 2018</h5>
       <p class="card-text">Public Inquiry, Aylesbury Estate, London. January 2018.</p>
+       <div class="d-flex justify-content-between align-items-center">
       <a href="{{ site.baseurl }}/images/aylesbury2witness_statement_Lees2018.pdf" class="btn btn-primary">View</a>
+     </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
-</div>

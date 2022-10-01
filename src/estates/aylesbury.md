@@ -7,8 +7,6 @@ images:
   - src/images/aylesbury1.jpg
   - src/images/aylesburyimage.jpg
   - src/images/fdsgreenspace.jpg
-  - src/images/aylesburyaerial.jpg
-  - src/images/aylesburydrone.jpg
   - src/images/aylesburypadbury.jpg
   - src/images/aylesburyphoto.jpg
   - src/images/aylesburyblair.jpg

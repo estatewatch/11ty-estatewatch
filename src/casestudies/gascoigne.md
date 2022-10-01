@@ -1,5 +1,6 @@
 ---
 name: Gascoigne estate
+borough: Barking and Dagenham
 images:
   - src/images/Lor_gascoigne1.jpg
   - src/images/Lor_gascoigne2.jpg
@@ -22,7 +23,7 @@ images:
 Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West by a main road running through the middle of the estate. The original estate had 2,260 homes across both the East and West sites, all of which are to be demolished. The planning application for the demolition of Gascoigne East was approved by the GLA in September 2015, planning for Gascoigne West was approved by the GLA in December 2018. The first phase of the redevelopment of Gascoigne East was completed in 2019, its full completion date is expected to be 2024. Work on phase 1 of Gascoigne West started with demolition in January 2020.
 
 
-<div class="card-body">
+<div class="jumbotron">
 
 <p class="lead">Key themes discussed in the interviews:</p>
         <ul>
@@ -32,6 +33,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
 		<li>Some residents were looking forward to the regeneration of their estate and to the possibility of getting a newly-built home.</li>
 		<li>Interviewees recognised that their borough was changing and attracting more affluent, professional households.</li>
 		<li>References were made to there being lots of new construction and developments in the borough, especially the Riverside Development site.</li></ul>
+</div>
 
 <h2>Research Interviews</h2>
 <p class="lead">Here is what some people said...</p>
@@ -60,7 +62,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
@@ -83,7 +85,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
         </div>
       </div>
 
-      <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+  <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
@@ -104,7 +106,7 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
         </div>
       </div>
     
-    <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
+ <div class="col-md-8 col-lg-4 mt-4 mt-lg-0">
         <div class="shadow p-3 mb-5 bg-white rounded">
           <div class="row no-gutters align-items-center">
             <div class="col-3">
@@ -174,103 +176,73 @@ Completed in 1971, the estate is divided into Gascoigne East and Gascoigne West 
 <hr class="featurette-divider">
       
 <h2>Gascoigne Estate by photographer Andrew Brown</h2>
-<div class="row mt-5 align-items-center justify-content-center">
-
-      <div id="carouselExampleIndicators" class="carousel slide" style="width: 70%; margin: 0 auto" data-ride="carousel">
- <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="18"></li>
-  </ol>
+<center>
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="{{ site.baseurl }}/images/ABgascoigne013.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne013.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne001.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne001.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne002.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne002.jpg" class="d-block w-50" alt="...">
     </div>
 	<div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne004.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne004.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne005.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne005.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne006.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne006.jpg" class="d-block w-50" alt="...">
     </div>
 	<div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne007.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne007.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne008.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne008.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne009.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne009.jpg" class="d-block w-50" alt="...">
     </div>
 	<div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne010.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne010.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne011.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne011.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne012.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne012.jpg" class="d-block w-50" alt="...">
     </div>
 	<div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne014.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne014.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne015.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne015.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne016.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne016.jpg" class="d-block w-50" alt="...">
     </div>
 	<div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne017.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne017.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne018.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne018.jpg" class="d-block w-50" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="{{ site.baseurl }}/images/ABgascoigne019.jpg" class="d-block w-100" alt="...">
+      <img src="{{ site.baseurl }}/images/ABgascoigne019.jpg" class="d-block w-50" alt="...">
     </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+  </div>  
 </div>
-</div>
+</center>
 
 
 
-      <hr class="featurette-divider">
+  <hr class="featurette-divider">
 <!-----------CARD FOR STEVE LAWES------->
 
-      <div class="card mb-3 w-90 mx-auto">
+  <div class="card mb-3 w-90 mx-auto">
       <div class="row no-gutters align-items-center justify-content-center">
     <div class="col-md-4">
       <img src="{{ site.baseurl }}/images/Lawes_pdf_pic.png" class="card-img" alt="...">
@@ -289,4 +261,4 @@ been used here in an attempt to assess the issue from a variety of creative and 
 </div>    
       
     
-    </div>
+   </div>
