@@ -961,6 +961,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Regina Road estate",
+          "borough": "croydon",
+          "image": "/images/reginaroad.jpg",
+          "planning": "Pending",
+          "url": "/estates/reginaroad/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.069866,51.400864]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Roseberry Gardens estate",
           "borough": "sutton",
           "image": "/images/roseberry1.jpg",
