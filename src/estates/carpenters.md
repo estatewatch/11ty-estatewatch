@@ -79,6 +79,20 @@ Newham estimates renewing the estate will provide about 2,000 new and 300 refurb
 
 A ballot was held in December 2021, 73% of eligible residents voting in favour of redevelopment on a 66% turnout.
 
+Newham's [rehousing offer](https://mgov.newham.gov.uk/documents/s144070/Appenidx%201%20-%20LBN%20Estate%20Regeneration%20Housing%20Offer%20the%20Housing%20Offer.pdf) promises a new council home at the same rent level to secure tenants. Temporary tenants will be offered a secure tenancy on the redeveloped estate but will be charged an 'affordable rent':  
+
+_'Your rent will be an affordable rent, in accordance with the definitions set by the Mayor of London._'
+
+The policy for leaseholders is less clear:
+
+The Landlord Offer says:
+_"You will be offered a range of options to continue to own a new home in the Custom House Phase One area, depending on your financial circumstances._"
+
+Whilst both shared ownership and shared equity are both listed as possible options, small print in the Council's policy says:
+_"Eligibility criteria will be worked out via co-production within the legal powers available to the Council."_
+
+This leaves the door open to Newham 'gatekeeping' the shared equity offer as has been seen in other schemes where leaseholders are required to undergo a financial assessment and are subsequently told that they don't qualify for shared equity and are offered only shared ownership (i.e. paying rent on the unowned part of their homes.)
+
 __Links:__
 
 [Consultation website - https://thecarpentersestate.commonplace.is](https://thecarpentersestate.commonplace.is/)
