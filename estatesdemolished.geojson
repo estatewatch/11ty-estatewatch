@@ -15,6 +15,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Bacton Low-rise estate",
+          "borough": "camden",
+          "image": "/images/bactonestate.png",
+          "planning": "Approved",
+          "url": "/demolished/bactonlowrise/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.154145,51.551467]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Barham Park estate",
           "borough": "Brent",
           "image": "/images/barhampark.png",
