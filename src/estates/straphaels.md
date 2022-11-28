@@ -24,7 +24,7 @@ images:
   - src/images/ST_raphaels_maisonettes.jpg
   - src/images/St_raphaels_river1.jpg
   - src/images/ST_raphaels_river2.jpg
-planning: null
+planning: Pending 
 category: underthreat
 stage: Proposal
 ---

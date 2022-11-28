@@ -12,7 +12,7 @@ images:
   - src/images/cc1.jpg
   - src/images/cc2.png
   - src/images/cc3.png
-planning: null
+planning: Approved 
 ---
 43 homes are under threat on the Concorde Close estate in Hounslow. The estate is owned and managed by housing association [Home Group](http://homegroup.org.uk).
 
@@ -30,7 +30,6 @@ Home Group commissioned an [options appraisal study](/images/bnpp.pdf) for the e
 
 But the figure includes £2m of costs associated with a separate cost appraisal [report](/images/arcus.pdf) commissioned by Arcus and effectively double counts these costs in its own estimate (see appendix 7 of the BNP Paribas report).
 
-As of October 2020, Home Group were still in pre-application discussions with Hounslow ahead of submission of a new planning application.
 
 __Links:__  
 Home Group's website - [https://www.homegroup.org.uk/about-us/working-with-us/development-partners/regeneration/concorde-close/?](https://www.homegroup.org.uk/about-us/working-with-us/development-partners/regeneration/concorde-close/?) 

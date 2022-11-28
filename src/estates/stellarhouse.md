@@ -12,7 +12,7 @@ developer:
 itla:
 total: 300
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 300 homes at Atlair Close including Stellar House have been earmarked for redevelopment in Tottenham.
 

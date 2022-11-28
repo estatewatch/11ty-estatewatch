@@ -16,7 +16,7 @@ images:
   - src/images/yanki3.jpeg
   - src/images/yanki4.jpeg
   - src/images/yanki5.jpeg
-planning: null
+planning: Approved 
 category: underthreat
 stage: Preparation
 ---

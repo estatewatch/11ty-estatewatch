@@ -25,8 +25,8 @@ landlord: One Housing Group
 developer:
 itla: TPAS
 total: 84
-ballot: Pending
-planning:
+ballot: Approved
+planning: Approved
 ---
 84 homes are under threat on the St John's estate in Tower Hamlets.
 

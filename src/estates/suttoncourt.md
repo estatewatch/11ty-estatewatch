@@ -19,7 +19,7 @@ developer:
 itla:
 total: 150
 ballot: Required
-planning:
+planning: Pending
 ---
 Circa 150 homes have been earmarked for potential demolition at the Sutton Court estate.
 

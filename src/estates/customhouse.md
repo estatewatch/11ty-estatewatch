@@ -12,7 +12,8 @@ images:
   - src/images/customhouse2.jpg
   - src/images/customhouse3.png
   - src/images/customhouse4.png
-planning: Required
+planning: Pending
+ballot: Pending 
 ---
 Circa 300 homes remain under threat of demolition as part of Newham's regeneration of the Custom House area.
 

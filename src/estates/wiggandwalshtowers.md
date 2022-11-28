@@ -20,7 +20,7 @@ developer:
 itla:
 total: 100
 ballot:
-planning:
+planning: Pending
 ---
 Circa 100 homes in two towers on the Montague road estate have been earmarked for redevelopment.
 

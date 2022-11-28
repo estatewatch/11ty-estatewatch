@@ -13,7 +13,7 @@ developer:
 itla:
 total: 50
 ballot:
-planning:
+planning: Pending
 ---
 Circa 50 homes have been earmarked for potential demolition at Woodridings Court in Haringey.
 
