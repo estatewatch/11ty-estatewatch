@@ -348,7 +348,7 @@ var freeBus = {
           "title": "Concorde Close",
           "borough": "hounslow",
           "image": "/images/cc1.jpg",
-          "planning": "",
+          "planning": "Approved",
           "url": "/estates/concordeclose/"
         },
         "geometry": {"type":"Point","coordinates":[-0.366567,51.471914]}
@@ -392,7 +392,7 @@ var freeBus = {
           "title": "Custom House regeneration",
           "borough": "newham",
           "image": "/images/customhouse2.jpg",
-          "planning": "Required",
+          "planning": "Pending",
           "url": "/estates/customhouse/"
         },
         "geometry": {"type":"Point","coordinates":[0.021314,51.510722]}
@@ -700,7 +700,7 @@ var freeBus = {
           "title": "Leabank View estate",
           "borough": "haringey",
           "image": "/images/leabank.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/leabank/"
         },
         "geometry": {"type":"Point","coordinates":[-0.062836,51.578949]}
@@ -796,6 +796,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Maydew House (Abbeyfield estate)",
+          "borough": "southwark",
+          "image": "/images/maydewmd.jpg",
+          "planning": "Pending",
+          "url": "/estates/maydewhouse/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.056187,51.493029]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Maygreen Crescent estate",
           "borough": "havering",
           "image": "/images/mg1.jpg",
@@ -884,6 +895,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "OCCC estate",
+          "borough": "lambeth",
+          "image": "/images/occc.png",
+          "planning": "Approved",
+          "url": "/estates/occc/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.109505,51.503522]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Oldchurch Gardens estate",
           "borough": "havering",
           "image": "/images/oc1.jpg",
@@ -931,7 +953,7 @@ var freeBus = {
           "title": "Rainham Road South estate",
           "borough": "barkinganddagenham",
           "image": "/images/rroad4.jpg",
-          "planning": "",
+          "planning": "Approved",
           "url": "/estates/rainhamroadsouth/"
         },
         "geometry": {"type":"Point","coordinates":[0.164733,51.547412]}
@@ -1030,7 +1052,7 @@ var freeBus = {
           "title": "Watling Gardens estate",
           "borough": "brent",
           "image": "/images/clairecourt1.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/shootuphill/"
         },
         "geometry": {"type":"Point","coordinates":[-0.206821,51.548923]}
@@ -1041,7 +1063,7 @@ var freeBus = {
           "title": "Parkhill and Sunrise estate",
           "borough": "havering",
           "image": "/images/ss1.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/solarserena/"
         },
         "geometry": {"type":"Point","coordinates":[0.206760,51.556744]}
@@ -1063,7 +1085,7 @@ var freeBus = {
           "title": "South Kilburn estate",
           "borough": "brent",
           "image": "/images/skil1.png",
-          "planning": "",
+          "planning": "Approved",
           "url": "/estates/southkilburn/"
         },
         "geometry": {"type":"Point","coordinates":[-0.198561,51.533219]}
@@ -1085,7 +1107,7 @@ var freeBus = {
           "title": "Stellar House &amp; Atlair Close",
           "borough": "haringey",
           "image": "/images/stellar.png",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/stellarhouse/"
         },
         "geometry": {"type":"Point","coordinates":[-0.066563,51.608284]}
@@ -1096,7 +1118,7 @@ var freeBus = {
           "title": "St John&#39;s estate",
           "borough": "towerhamlets",
           "image": "/images/ashepherd.jpg",
-          "planning": "",
+          "planning": "Approved",
           "url": "/estates/stjohns/"
         },
         "geometry": {"type":"Point","coordinates":[-0.008984,51.499039]}
@@ -1118,7 +1140,7 @@ var freeBus = {
           "title": "St. Raphael&#39;s estate",
           "borough": "brent",
           "image": "/images/straphaels2.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/straphaels/"
         },
         "geometry": {"type":"Point","coordinates":[-0.264695,51.552600]}
@@ -1129,7 +1151,7 @@ var freeBus = {
           "title": "Sutton Court estate",
           "borough": "sutton",
           "image": "/images/suttoncourt.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/suttoncourt/"
         },
         "geometry": {"type":"Point","coordinates":[-0.1901,51.3577]}
@@ -1173,7 +1195,7 @@ var freeBus = {
           "title": "Thames View estate",
           "borough": "barkinganddagenham",
           "image": "/images/tv3b.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/thamesview/"
         },
         "geometry": {"type":"Point","coordinates":[0.109535,51.528893]}
@@ -1206,7 +1228,7 @@ var freeBus = {
           "title": "Wendling estate",
           "borough": "camden",
           "image": "/images/wendling3.jpg",
-          "planning": "",
+          "planning": "Approved",
           "url": "/estates/wendlingestate/"
         },
         "geometry": {"type":"Point","coordinates":[-0.156132,51.551117]}
@@ -1250,7 +1272,7 @@ var freeBus = {
           "title": "Fred Wigg and John Walsh Towers",
           "borough": "walthamforest",
           "image": "/images/wiggandwalsh.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/wiggandwalshtowers/"
         },
         "geometry": {"type":"Point","coordinates":[-0.0141,51.5610]}
@@ -1283,7 +1305,7 @@ var freeBus = {
           "title": "Woodridings Court",
           "borough": "haringey",
           "image": "/images/woodridings.jpg",
-          "planning": "",
+          "planning": "Pending",
           "url": "/estates/woodridings/"
         },
         "geometry": {"type":"Point","coordinates":[-0.126031,51.601499]}
