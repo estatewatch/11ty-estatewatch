@@ -2,7 +2,6 @@
 name: Custom House regeneration
 borough: newham
 location: '{"type":"Point","coordinates":[0.021314,51.510722]}'
-ballot: Required
 landlord: Newham Council
 developer: null
 itla: Newman Francis 
