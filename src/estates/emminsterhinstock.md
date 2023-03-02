@@ -28,3 +28,5 @@ Phase 1 of the scheme is already completed and homes are currently being markete
 {% picture "src/images/ccollection.png", "alt text" %}
 
 The Mayor [approved funding](/approved/funding/) for phase 3 of the scheme in November 2018 and [exempted](/approved/ballotexemptions) it from his requirement to ballot residents on the demolition of their homes.
+
+As of March 2023, phase 2 is nearing completion and phase 3 is awaiting demolition.

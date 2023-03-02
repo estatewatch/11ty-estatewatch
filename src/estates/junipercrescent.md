@@ -21,7 +21,7 @@ developer: Countryside Properties
 landlord: One Housing Group
 itla: Communities First
 total: 200
-ballot: Rejected
+ballot: Approved
 planning: Pending
 ---
 Circa 200 homes on Camden's Juniper Crescent and Gilbey's yard estates have been earmarked for redevelopment as part of the [Camden Goods Yard regeneration](https://www.camden.gov.uk/documents/20142/145786127/Site+Allocations+2020+-+05+Camden+Goods+Yard.pdf)
@@ -48,7 +48,7 @@ In July 2020, it was confirmed that residents had voted against demolition in th
 
 A [letter](http://estatewatch.london/images/gilbeyresults.jpg) sent to residents following the ballot, confirms that of the 185 eligible residents, 91 voted against demolition while 68 voted in favour (26 failed to cast their votes).
 
-One Housing's head of Regeneration has since [written to residents](http://estatewatch.london/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals 'based on feedback'.
+One Housing's head of Regeneration subsequently [wrote to residents](http://estatewatch.london/images/gilbeyletter.jpg) indicating that the housing association may try and run the ballot again, with revised proposals 'based on feedback'.
 
 A [newsletter](http://estatewatch.london/images/gilbeynewsletter.pdf) from the TRA and [report](http://estatewatch.london/images/gilbeyreport.pdf) from its Vice Chair Karl Lewkowicz, sets out residents' reasons for rejecting the proposals, including:
 
@@ -62,6 +62,8 @@ The report concludes with the Vice Chair summing up negotiations with the housin
 _"On a personal note, as the Vice Chair of GY TRA I have found negotiations with One Housing unsatisfactory and frustrating. They seem to me to want to appear to be complying with the regulations of the GLA and Camden Council whilst taking no real interest in the needs of the tenants. There are many complaints about them from tenants regarding repairs and maintenance and their staff turnover is very high so that any continuity in communications or development of an on-going relationship with the estate officer is made very difficult."_
 
 _"It feels to me as though repairs and maintenance have been considerably run down prior to the ballot in the run up to the ballot and that any real and tangible progress in the substance of the landlord offer was obstructed."_
+
+One Housing decided to ballot residients once again but this time just the Juniper Crescent estate, not Gilbey's Yard. The ballot was held in December 2022. In total, 116 votes were cast by Juniper Crescent residents with 73 saying yes (63 per cent) and 43 voting no. 
 
 __Links:__
 

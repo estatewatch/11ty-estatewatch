@@ -12,7 +12,7 @@ images:
   - src/images/customhouse3.png
   - src/images/customhouse4.png
 planning: Pending
-ballot: Pending 
+ballot: Approved 
 ---
 Circa 300 homes remain under threat of demolition as part of Newham's regeneration of the Custom House area.
 
@@ -32,8 +32,6 @@ In 2018, the [PEACH group - Peoples Empowerment Alliance for Custom House]() lau
 
 There is a detailed chapter written about the PEACH group's involvement in the regeneration included in a book [published](https://www.uclpress.co.uk/products/125696) under the title: 'Community-led regeneration, a toolkit for residents and planners'
 
-A ballot is due to be held in Mid December 2022.
-
 Newham's [rehousing offer](https://mgov.newham.gov.uk/documents/s144070/Appenidx%201%20-%20LBN%20Estate%20Regeneration%20Housing%20Offer%20the%20Housing%20Offer.pdf) promises a new council home at the same rent level to secure tenants. Temporary tenants will be offered a secure tenancy on the redeveloped estate but will be charged an 'affordable rent':  
 
 _'Your rent will be an affordable rent, in accordance with the definitions set by the Mayor of London._'
@@ -47,6 +45,8 @@ Whilst both shared ownership and shared equity are both listed as possible optio
 _"Eligibility criteria will be worked out via co-production within the legal powers available to the Council."_
 
 This leaves the door open to Newham 'gatekeeping' the shared equity offer as has been seen in other schemes where leaseholders are required to undergo a financial assessment and are subsequently told that they don't qualify for shared equity and are offered only shared ownership (i.e. paying rent on the unowned part of their homes.)
+
+The estate's residents were balloted in December 2022 and a turnout of 62 percent saw 53 percent of residents vote ‘yes’ to demolition, while 47% voted against. 
 
 __Links:__
 Newham Council's dedicated website for the Custom House scheme [(https://www.customhousee16.com)](https://www.customhousee16.com).

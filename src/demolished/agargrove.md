@@ -31,7 +31,7 @@ total: 150
 ballot: Exempt
 planning: Approved
 ---
-Circa 150 homes are earmarked for demolition in the latest phase of the Agar Grove estate in Camden.
+250 council homes have been demolished on the Agar Grove estate in Camden.
 
 The estate is situated near Camden Town to the north of Kings Cross and comprises 249 homes in circa 10 blocks of low-rise maisonettes and an 18 storey high-rise block (Lulworth House - which will be refurbished as part of the plans). 
 
