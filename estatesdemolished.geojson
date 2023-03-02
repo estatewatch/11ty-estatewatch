@@ -4,6 +4,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Agar Grove estate",
+          "borough": "camden",
+          "image": "/images/agrove2.jpg",
+          "planning": "Approved",
+          "url": "/demolished/agargrove/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.133195,51.542259]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Aspen House (Maitland Park estate)",
           "borough": "camden",
           "image": "/images/ap2.jpg",
