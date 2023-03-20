@@ -60,6 +60,7 @@ In the meantime, estate residents have been [getting organised](https://twitter.
 
 {% picture "src/images/altonaction.png", "alt text" %}
 
+In September 2022, demolition plans were put on hold under proposals to review schemes following a change of political administration.
 
 **Links:**   
 [Roehampton (Alton estate) SPD Oct 2015](https://www.wandsworth.gov.uk/media/1627/roehampton_adopted_spd_oct_2015.pdf)

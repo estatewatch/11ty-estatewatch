@@ -11,7 +11,7 @@ landlord: Hillingdon Council
 developer:
 itla: 
 total: 260
-ballot: Required
+ballot: Approved
 planning: Pending
 ---
 260 homes are under threat on Hillingdon's Austin Road estate in Hayes (182 Council and 78 leasehold).
@@ -36,6 +36,6 @@ The report also highlighted that it had carried out a 'resident satisfaction sur
 
 On 22 October 2020, Hillingdon Council [resolved](https://modgov.hillingdon.gov.uk/ieListDocuments.aspx?CId=115&MeetingId=3834) to proceed with a residents' ballot on demolition in line with the recommendations of the Savills report.
 
-
+The ballot was held in March 2021, with 79% voting in favour of redevelopment on a 90% turnout. The Council subsequently signed a partnership agreement with developer Higgins for the redevelopment of the estate.
 
 

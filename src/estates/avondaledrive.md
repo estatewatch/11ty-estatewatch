@@ -11,7 +11,7 @@ landlord: Hillingdon Council
 developer:
 itla: 
 total:
-ballot: Required
+ballot: Approved 
 planning: Pending
 ---
 144 homes are under threat on Hillingdon's Avondale Drive estate in Hayes (117 Council and 27 leasehold).
@@ -32,3 +32,4 @@ In addition, the Savills report fails to provide any underlying data supporting 
 
 On 22 October 2020, Hillingdon Council [resolved](https://modgov.hillingdon.gov.uk/ieListDocuments.aspx?CId=115&MeetingId=3834) to proceed with a residents' ballot on demolition in line with the recommendations of the Savills report.
 
+The ballot was held in March 2021, with 94% in favour of redevelopment on an 85% turnout.
