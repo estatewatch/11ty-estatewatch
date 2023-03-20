@@ -1027,6 +1027,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Shires estate",
+          "borough": "enfield",
+          "image": "/images/cheshire.jpg",
+          "planning": "Pending",
+          "url": "/estates/shires/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.05349,51.61517]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Watling Gardens estate",
           "borough": "brent",
           "image": "/images/clairecourt1.jpg",
