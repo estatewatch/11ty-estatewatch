@@ -48,17 +48,6 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "Arthur Street estate",
-          "borough": "bexley",
-          "image": "/images/ats1.jpg",
-          "planning": "Approved",
-          "url": "/estates/arthurstreet/"
-        },
-        "geometry": {"type":"Point","coordinates":[0.183563,51.473006]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "Austin Road estate",
           "borough": "hillingdon",
           "image": "/images/austin1.png",

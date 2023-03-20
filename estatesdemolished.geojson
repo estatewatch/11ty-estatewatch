@@ -15,6 +15,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Arthur Street estate",
+          "borough": "bexley",
+          "image": "/images/ats1.jpg",
+          "planning": "Approved",
+          "url": "/demolished/arthurstreet/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.183563,51.473006]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Aspen House (Maitland Park estate)",
           "borough": "camden",
           "image": "/images/ap2.jpg",
