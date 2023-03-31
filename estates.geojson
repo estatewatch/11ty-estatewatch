@@ -73,7 +73,7 @@ var freeBus = {
           "title": "Avondale Drive estate",
           "borough": "hillingdon",
           "image": "/images/avondale1.png",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/avondaledrive/"
         },
         "geometry": {"type":"Point","coordinates":[-0.406199,51.510758]}
@@ -106,21 +106,10 @@ var freeBus = {
           "title": "Barnsbury estate",
           "borough": "islington",
           "image": "/images/barnsbury1.png",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/barnsbury/"
         },
         "geometry": {"type":"Point","coordinates":[-0.114844,51.536269]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Beech Tree Place",
-          "borough": "sutton",
-          "image": "/images/beechtreeplace.jpg",
-          "planning": "Pending",
-          "url": "/estates/beechtreeplace/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.194613,51.363438]}
         },
       {
         "type": "Feature",
@@ -132,17 +121,6 @@ var freeBus = {
           "url": "/estates/benhillestate/"
         },
         "geometry": {"type":"Point","coordinates":[-0.1901,51.3673]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Bow Bridge estate",
-          "borough": "towerhamlets",
-          "image": "/images/warren.jpg",
-          "planning": "Approved",
-          "url": "/estates/bowbridge/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.016940,51.527082]}
         },
       {
         "type": "Feature",
@@ -172,7 +150,7 @@ var freeBus = {
           "title": "Brookhill Close estate",
           "borough": "greenwich",
           "image": "/images/bhill4.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/brookhillclose/"
         },
         "geometry": {"type":"Point","coordinates":[0.065543,51.483649]}
@@ -1239,7 +1217,7 @@ var freeBus = {
           "title": "West Kentish Town estate",
           "borough": "camden",
           "image": "/images/wkt1.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/westkentishtown/"
         },
         "geometry": {"type":"Point","coordinates":[-0.149254,51.549409]}

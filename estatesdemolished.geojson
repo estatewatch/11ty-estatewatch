@@ -59,6 +59,28 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Beech Tree Place",
+          "borough": "sutton",
+          "image": "/images/beechtreeplace.jpg",
+          "planning": "Approved",
+          "url": "/demolished/beechtreeplace/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.194613,51.363438]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Bow Bridge estate",
+          "borough": "towerhamlets",
+          "image": "/images/warren.jpg",
+          "planning": "Approved",
+          "url": "/demolished/bowbridge/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.016940,51.527082]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Connaught estate",
           "borough": "Greenwich",
           "image": "/images/connaught.jpg",
