@@ -51,3 +51,5 @@ __Links:__
 [Planning application documents (phases 1-3)](https://development.towerhamlets.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=DCAPR_100784)
 
 [Poplar HARCA's web page for Aberfeldy West](https://www.poplarharca.co.uk/new-homes-regeneration/development-projects/project/aberfeldy-west/)
+
+Poplar HARCA's [Landlord Offer](/images/Aberfeldy-West-Landlords-Offer.pdf)

@@ -38,4 +38,12 @@ On 22 October 2020, Hillingdon Council [resolved](https://modgov.hillingdon.gov.
 
 The ballot was held in March 2021, with 79% voting in favour of redevelopment on a 90% turnout. The Council subsequently signed a partnership agreement with developer Higgins for the redevelopment of the estate.
 
+Planning permission was granted in 2022 for a total of 420 new homes of which 50% affordable.
+
+__Links__  
+
+[Landlord Offer](/images/HTC_Estate_Landlord_Offer.pdf)
+
+GLA [planning reports](https://planning.london.gov.uk/pr/s/planning-application/a0i4J000006cAjLQAU/20211258?tabset-c2f3b=2)
+
 

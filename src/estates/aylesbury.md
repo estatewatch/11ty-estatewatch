@@ -54,6 +54,6 @@ The homes have been refurbished to [Southwark Good Homes Standard](https://www.s
 
 Southwark Council has spent at least £50m on the Aylesbury scheme to date with a further £193m of council funds committed to phase 1 alone, with no net increase in the number of social rented homes.
 
-This begs an obvious question: if these homes can be refurbished to acceptable standards for habitation, why are they being knocked down?
+This begs an obvious question: if these homes can be refurbished to acceptable standards for habitation for [under £10k per dwelling](https://www.whatdotheyknow.com/request/830572/response/2021635/attach/3/FOI%201820226%20Southwak%20Response%20letter.pdf), why are they being knocked down?
 
 The Aylesbury estate features as one of the [case studies](/casestudies/aylesbury) in the research section of this website, which provides more detailed information about the regeneration.

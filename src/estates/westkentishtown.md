@@ -24,7 +24,7 @@ developer:
 itla:
 total: 316
 ballot: Approved
-planning: Pending
+planning: Approved 
 ---
 316 homes are earmarked for demolition on Camden's West Kentish Town estate.
 
@@ -33,6 +33,10 @@ Prior to the ballot, residents were [told](/images/wtoffer.pdf) that if they vot
 
 <img src="/images/wktvote.png" class="img-fluid rounded img-thumbnail">
 
-Unsurprisingly the majority of residents voted in favour and a detailed design is being drawn up to submit for planning consent in Summer 2021.
+Unsurprisingly the majority of residents voted in favour.
 
-Camden has [indicated](https://www.camden.gov.uk/documents/20142/0/Landlord+Offer.pdf/3ad1506b-c675-eba6-b346-f542b47a7f1d?t=1581423416504) that the tenure mix will comprise at least 40% affordable housing (despite the Mayor's minimum requirement being 50%) and this will comprise a mix of 278 council homes and a number of homes for 'Camden Living Rent'.
+Planning consent was approved in 2022, to build around 885 new homes over eight phases including at least 276 council homes and 78 homes for Camden Living rent. 
+
+In 2023, architect Alice Brown drew up an alternative plan for the regeneration of the estate. Backed by some residents, the plans show how the homes can be retrofitted adding insulation, reconfiguring internal walls and adding balconies to produce a climate impact estimated at six times smaller. 
+
+[https://www.theguardian.com/uk-news/2023/mar/22/rebuild-retrofit-carbon-row-breaks-out-plans-camden-council-estate](https://www.theguardian.com/uk-news/2023/mar/22/rebuild-retrofit-carbon-row-breaks-out-plans-camden-council-estate)

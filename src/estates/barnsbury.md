@@ -13,15 +13,13 @@ developer: Mount Anvil
 itla:
 total: 371
 ballot: Approved
-planning: Pending
+planning: Approved
 ---
 371 homes are under threat of demolition on Islington's Barnsbury estate.
 
 The former Council estate was transferred to Newlon Housing association in 1999 under Islington's stock transfer policy.
 
 In a joint venture with developer Mount Anvil, Newlon plans to demolish the 1970s blocks on the estate between Charlotte Terrace and Caledonian Road, including the two blocks next to the canal on Carnegie Street.
-
-Newlon plans to replace the 351 existing social rented homes and build around 550 to 600 additional new homes.
 
 In March 2021, a residents ballot was held in which 73% of those who voted supported the proposals on a 79% turnout.
 
@@ -33,8 +31,12 @@ This is an a recurring element in resident ballots, where residents are forced t
 
 In 2018, residents [accused](https://www.islingtongazette.co.uk/news/has-newlon-housing-trust-left-barnsbury-estate-to-rot-3795818) Newlon of neglecting the estate and _'running it into the ground'_.
 
+Planning permission was granted in 2022 for 950 new homes of which 50% affordable.
+
 __Links:__  
 
 Newlon's website for the scheme: [https://betterbarnsbury.org.uk](https://betterbarnsbury.org.uk)
 
 Newlon's [Landlord Offer](/images/BansburyOffer.pdf)
+
+GLA [planning report](https://planning.london.gov.uk/pr/s/planning-application/a0i4J000006ceumQAA/20220438?tabset-c2f3b=2)

@@ -12,7 +12,7 @@ developer:
 itla: 
 total:
 ballot: Approved 
-planning: Pending
+planning: Approved
 ---
 144 homes are under threat on Hillingdon's Avondale Drive estate in Hayes (117 Council and 27 leasehold).
 
@@ -33,3 +33,12 @@ In addition, the Savills report fails to provide any underlying data supporting 
 On 22 October 2020, Hillingdon Council [resolved](https://modgov.hillingdon.gov.uk/ieListDocuments.aspx?CId=115&MeetingId=3834) to proceed with a residents' ballot on demolition in line with the recommendations of the Savills report.
 
 The ballot was held in March 2021, with 94% in favour of redevelopment on an 85% turnout.
+
+In 2022, Hillingdon granted itself planning permission for a total of 240 new homes in its redevelopment of the estate, 54% of which affordable.
+
+Hillingdon subsequently signed a joint venture agreement with developer Higgins for the redevelopment of the estate.
+
+__Links:__  
+[Landlord Offer document](/images/AD_Estate_Landlord_Offer.pdf)
+
+GLA [planning report](https://gla.force.com/pr/s/planning-application/a0i4J000006cNtqQAE/20220211?tabset-c2f3b=2)

@@ -2,7 +2,7 @@
 name: Barkantine estate
 borough: towerhamlets
 location: '{"type":"Point","coordinates":[-0.024181,51.498528]}'
-ballot: Required
+ballot: Approved 
 landlord: One Housing Group
 developer: null
 itla: Open Communities
