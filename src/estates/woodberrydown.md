@@ -50,11 +50,11 @@ In addition, the development partners are now embarking on another review of the
 - Total shared ownership units proposed: 1,110
 - Total private sale units proposed: 3,408
 
-(Figures obtained from Hackney Council, February 2023).
-
-Table 1. Breakdown of units for social rent (SR), shared ownership (SO) and private sale (PS) built, permitted and proposed as of 14 February 2023, figures provided by Hackney Council.
+Breakdown of units for social rent (SR), shared ownership (SO) and private sale (PS) built, permitted and proposed as of 14 February 2023:
 
 {% picture "src/images/wdnumbers.jpg", "Woodberry Down Numbers" %}
+
+(Figures obtained from Hackney Council, February 2023).
 
 __Links:__  
 [Mayor's planning reports.](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search?scheme_title=woodberry+down&postcode=&borough=All&planning_authority=All&lpa_case_number=&gla_case_number=&paws_decision_date_from=&paws_decision_date_to=)
