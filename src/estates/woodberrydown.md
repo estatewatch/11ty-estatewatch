@@ -50,13 +50,14 @@ In addition, the development partners are now embarking on another review of the
 - Total shared ownership units proposed: 1,110
 - Total private sale units proposed: 3,408
 
-Breakdown of units for social rent (SR), shared ownership (SO) and private sale (PS) built, permitted and proposed as of 14 February 2023:
+__Tenure Breakdown__ for social rent (SR), shared ownership (SO) and private sale (PS) built, permitted and proposed as of 14 February 2023:
 
 {% picture "src/images/wdnumbers.jpg", "Woodberry Down Numbers" %}
 
 (Figures obtained from Hackney Council, February 2023).
 
-__Retention of residents__
+__Retention of residents__  
+
 In 2009, before redevelopment started, there were 2,013 housing units at Woodberry Down: 1,458 council rent, 522 leasehold and 33 private properties which did not belong to the Council (Greater London Authority 2009).
 
 According to the Residents’ Charter signed in 2007, every secure council housing resident has a right to be re-housed in the estate, including leaseholders (which made about 30% of the population before the start of the development) who are offered a share in a new shared ownership unit (Hackney Council, 2007). ​
