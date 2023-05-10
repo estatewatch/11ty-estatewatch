@@ -20,7 +20,7 @@ planning: Approved
 ---
 Circa 1,000 homes on Hackney's Woodberry Down estate near Finsbury Park remain under threat of demolition.
 
-Circa 900 homes have already been demolished in the first two phases. Phase 3 of the scheme was granted planning permission in Summer 2019. The scheme proposes to build 5,872 new homes in total over eight phases of development.
+Circa 900 homes have already been demolished in the first two phases. Phase 3 of the scheme was granted planning permission in Summer 2019. The scheme proposes to build 5,782 new homes in total over eight phases of development.
 
 The estate has been sold by Hackney Council in a phased conditional agreement to a joint venture between developer Berkeley Homes and Notting Hill Genesis housing association (cf. Aylesbury estate). 
 
@@ -56,6 +56,17 @@ Breakdown of units for social rent (SR), shared ownership (SO) and private sale 
 
 (Figures obtained from Hackney Council, February 2023).
 
+__Retention of residents__
+In 2009, before redevelopment started, there were 2,013 housing units at Woodberry Down: 1,458 council rent, 522 leasehold and 33 private properties which did not belong to the Council (Greater London Authority 2009).
+
+According to the Residents’ Charter signed in 2007, every secure council housing resident has a right to be re-housed in the estate, including leaseholders (which made about 30% of the population before the start of the development) who are offered a share in a new shared ownership unit (Hackney Council, 2007). ​
+
+At the end of the first two phases of redevelopment, 537 council tenant households have been relocated into the new social housing units. Today, the housing blocks north of Seven Sisters Road are home to another 900 households. As of 2022, there were 322 secure council tenants at Woodberry Down still waiting to be re-housed, along with around 416 non-secure temporary tenants and 157 leaseholders (Hackney Cabinet Meeting 2022).
+
+According to the latest figures provided by the Council in February 2023 (see Table 1.), on completion of the redevelopment there will be enough units (1,264) to relocate all existing remaining secure council housing tenants by the end of Phase 5.
+
+However, there will be a net loss of around 190 units for social rent as compared to pre-regeneration numbers.
+
 __Links:__  
 [Mayor's planning reports.](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search?scheme_title=woodberry+down&postcode=&borough=All&planning_authority=All&lpa_case_number=&gla_case_number=&paws_decision_date_from=&paws_decision_date_to=)
 
@@ -66,6 +77,10 @@ The [section 106 agreement](/images/woodberrys106.pdf)
 [Hackney's planning application portal documents - ref 2013/3223](http://planning.hackney.gov.uk/Northgate/PlanningExplorer/Generic/StdDetails.aspx?PT=Planning%20Applications%20On-Line&TYPE=PL/PlanningPK.xml&PARAM0=203701&XSLT=/Northgate/PlanningExplorer/SiteFiles/Skins/Hackney/xslt/PL/PLDetails.xslt&FT=Planning%20Application%20Details&PUBLIC=Y&XMLSIDE=/Northgate/PlanningExplorer/SiteFiles/Skins/Hackney/Menus/PL.xml&DAURI=PLANNING)
 
 Municipal Dreams' 2013 blog post on the Woodberry Down regeneration: [https://municipaldreams.wordpress.com/2013/09/17/woodberry-down-hackney-the-estate-of-the-future/](https://municipaldreams.wordpress.com/2013/09/17/woodberry-down-hackney-the-estate-of-the-future/)
+
+Hackney Council. (2007). Woodberry Down residents’ charter. Redraft March. London: Hackney Council.
+
+Hackney Cabinet Meeting. 2022. “Hackney Cabinet Meeting 28 February 2022.”
 
 __Credits:__
 Photos: [Municipal Dreams](municipaldreams.wordpress.com)
