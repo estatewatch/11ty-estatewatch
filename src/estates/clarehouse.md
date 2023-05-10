@@ -2,7 +2,6 @@
 name: Clare House
 borough: towerhamlets
 location: '{"type":"Point","coordinates":[-0.030492,51.536511]}'
-ballot: Exempt
 landlord: Clarion Housing Association
 developer: null
 itla: null
