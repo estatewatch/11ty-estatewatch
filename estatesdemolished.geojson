@@ -180,6 +180,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Lansbury (south) estate",
+          "borough": "towerhamlets",
+          "image": "/images/crisp1.png",
+          "planning": "Approved",
+          "url": "/demolished/lansbury/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.015573,51.511716]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Larner Road estate",
           "borough": "Bexley",
           "image": "/images/larner.jpg",
@@ -257,6 +268,39 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Marlyon Road estate",
+          "borough": "redbridge",
+          "image": "/images/marlyonroad2.jpg",
+          "planning": "Approved",
+          "url": "/demolished/marlyonroad/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.121567,51.611731]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Mills Grove &amp; Westhorpe Gdns estate",
+          "borough": "barnet",
+          "image": "/images/mgrove2.png",
+          "planning": "Approved",
+          "url": "/demolished/millsgrove/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.218737,51.591830]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Morris Walk estate",
+          "borough": "greenwich",
+          "image": "/images/mw1.jpg",
+          "planning": "Approved",
+          "url": "/demolished/morriswalk/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.045870,51.491909]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Myatts Fields estate",
           "borough": "Lambeth",
           "image": "/images/myattsfields.jpg",
@@ -268,6 +312,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "New Avenue estate",
+          "borough": "enfield",
+          "image": "/images/newavenue.jpg",
+          "planning": "Approved",
+          "url": "/demolished/newavenue/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.135530,51.639810]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "North Peckham estate",
           "borough": "Southwark",
           "image": "/images/northpeckhamaerial.jpg",
@@ -275,6 +330,17 @@ var freeBus = {
           "url": "/demolished/northpeckham/"
         },
         "geometry": {"type":"Point","coordinates":[-0.078713,51.477372]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "OCCC estate",
+          "borough": "lambeth",
+          "image": "/images/occc.png",
+          "planning": "Approved",
+          "url": "/demolished/occc/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.109505,51.503522]}
         },
       {
         "type": "Feature",
@@ -301,6 +367,39 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Pike Close estate",
+          "borough": "bromley",
+          "image": "/images/pikeclose.jpg",
+          "planning": "Approved",
+          "url": "/demolished/pikeclose/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.021446,51.421991]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Rainham Road South estate",
+          "borough": "barkinganddagenham",
+          "image": "/images/rroad4.jpg",
+          "planning": "Approved",
+          "url": "/demolished/rainhamroadsouth/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.164733,51.547412]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Ravensbury estate",
+          "borough": "merton",
+          "image": "/images/rgrove1.jpg",
+          "planning": "Approved",
+          "url": "/demolished/ravensbury/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.181542,51.399087]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Rectory Park estate",
           "borough": "Ealing",
           "image": "/images/rectorypark.jpg",
@@ -308,6 +407,17 @@ var freeBus = {
           "url": "/demolished/rectorypark/"
         },
         "geometry": {"type":"Point","coordinates":[-0.37889,51.534215]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Reginald House/Tidemill Gardens",
+          "borough": "lewisham",
+          "image": "/images/reg1.jpg",
+          "planning": "Approved",
+          "url": "/demolished/reginald/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.024691,51.476346]}
         },
       {
         "type": "Feature",
@@ -323,6 +433,28 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Sherwood Close estate",
+          "borough": "ealing",
+          "image": "/images/sherwood1.jpg",
+          "planning": "Approved",
+          "url": "/demolished/sherwoodclose/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.319455,51.509075]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Watling Gardens estate",
+          "borough": "brent",
+          "image": "/images/clairecourt1.jpg",
+          "planning": "Approved",
+          "url": "/demolished/shootuphill/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.206821,51.548923]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "Silwood estate",
           "borough": "southwark/lewisham",
           "image": "/images/silwoodtb.jpg",
@@ -330,6 +462,17 @@ var freeBus = {
           "url": "/demolished/silwood/"
         },
         "geometry": {"type":"Point","coordinates":[-0.053286,51.490200]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "St John&#39;s Hill estate",
+          "borough": "wandsworth",
+          "image": "/images/sj4.jpg",
+          "planning": "Approved",
+          "url": "/demolished/stjohnshill/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.170662,51.462352]}
         },
       {
         "type": "Feature",
@@ -363,6 +506,28 @@ var freeBus = {
           "url": "/demolished/sweetsway/"
         },
         "geometry": {"type":"Point","coordinates":[-0.172491,51.628122]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Thamesmead South (phase 1)",
+          "borough": "bexley",
+          "image": "/images/smere1.png",
+          "planning": "Approved",
+          "url": "/demolished/thamesmeadsouth/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.122512,51.497783]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Thames View estate",
+          "borough": "barkinganddagenham",
+          "image": "/images/tv3b.jpg",
+          "planning": "Approved",
+          "url": "/demolished/thamesview/"
+        },
+        "geometry": {"type":"Point","coordinates":[0.109535,51.528893]}
         },
       {
         "type": "Feature",
@@ -407,6 +572,17 @@ var freeBus = {
           "url": "/demolished/wooddene/"
         },
         "geometry": {"type":"Point","coordinates":[-0.063363,51.474467]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Wornington Green estate",
+          "borough": "kensingtonandchelsea",
+          "image": "/images/worning1.jpg",
+          "planning": "Approved",
+          "url": "/demolished/wornington/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.212212,51.523537]}
         }
     ]
   };

@@ -139,7 +139,7 @@ var freeBus = {
           "title": "Broadwater Farm estate",
           "borough": "haringey",
           "image": "/images/bwater1.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/broadwaterfarm/"
         },
         "geometry": {"type":"Point","coordinates":[-0.080927,51.594340]}
@@ -216,7 +216,7 @@ var freeBus = {
           "title": "Charlton House",
           "borough": "hounslow",
           "image": "/images/ch1.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/charltonhouse/"
         },
         "geometry": {"type":"Point","coordinates":[-0.300195,51.486105]}
@@ -238,7 +238,7 @@ var freeBus = {
           "title": "Church Street Area",
           "borough": "westminster",
           "image": "/images/cs.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/churchstreet/"
         },
         "geometry": {"type":"Point","coordinates":[-0.170681,51.523316]}
@@ -271,7 +271,7 @@ var freeBus = {
           "title": "Clichy estate",
           "borough": "towerhamlets",
           "image": "/images/clichyestate.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/clichyestate/"
         },
         "geometry": {"type":"Point","coordinates":[-0.048942,51.516104]}
@@ -315,7 +315,7 @@ var freeBus = {
           "title": "Convent Way estate",
           "borough": "hounslow",
           "image": "/images/cv12.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/conventestate/"
         },
         "geometry": {"type":"Point","coordinates":[-0.393576,51.494632]}
@@ -348,7 +348,7 @@ var freeBus = {
           "title": "Custom House regeneration",
           "borough": "newham",
           "image": "/images/customhouse2.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/customhouse/"
         },
         "geometry": {"type":"Point","coordinates":[0.021314,51.510722]}
@@ -425,7 +425,7 @@ var freeBus = {
           "title": "Elm Grove estate",
           "borough": "sutton",
           "image": "/images/elmgrove3.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/elmgrove/"
         },
         "geometry": {"type":"Point","coordinates":[-0.193505,51.366883]}
@@ -480,7 +480,7 @@ var freeBus = {
           "title": "Geoffrey Close (Lambeth) estate",
           "borough": "lambeth",
           "image": "/images/cle8.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/geoffreyclose/"
         },
         "geometry": {"type":"Point","coordinates":[-0.099011,51.469493]}
@@ -642,17 +642,6 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "Lansbury (south) estate",
-          "borough": "towerhamlets",
-          "image": "/images/crisp1.png",
-          "planning": "Approved",
-          "url": "/estates/lansbury/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.015573,51.511716]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "Leabank View estate",
           "borough": "haringey",
           "image": "/images/leabank.jpg",
@@ -667,7 +656,7 @@ var freeBus = {
           "title": "Ledbury estate",
           "borough": "southwark",
           "image": "/images/ledbury1.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/ledbury/"
         },
         "geometry": {"type":"Point","coordinates":[-0.061766,51.481221]}
@@ -730,21 +719,10 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "Marlyon Road estate",
-          "borough": "redbridge",
-          "image": "/images/marlyonroad2.jpg",
-          "planning": "Pending",
-          "url": "/estates/marlyonroad/"
-        },
-        "geometry": {"type":"Point","coordinates":[0.121567,51.611731]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "Maryon Grove estate",
           "borough": "greenwich",
           "image": "/images/mw5.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/maryongrove/"
         },
         "geometry": {"type":"Point","coordinates":[0.049174,51.487680]}
@@ -785,39 +763,6 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "Mills Grove &amp; Westhorpe Gdns estate",
-          "borough": "barnet",
-          "image": "/images/mgrove2.png",
-          "planning": "Approved",
-          "url": "/estates/millsgrove/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.218737,51.591830]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Morris Walk estate",
-          "borough": "greenwich",
-          "image": "/images/mw1.jpg",
-          "planning": "Approved",
-          "url": "/estates/morriswalk/"
-        },
-        "geometry": {"type":"Point","coordinates":[0.045870,51.491909]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "New Avenue estate",
-          "borough": "enfield",
-          "image": "/images/newavenue.jpg",
-          "planning": "Approved",
-          "url": "/estates/newavenue/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.135530,51.639810]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "New era estate",
           "borough": "hackney",
           "image": "/images/newera.jpg",
@@ -851,17 +796,6 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "OCCC estate",
-          "borough": "lambeth",
-          "image": "/images/occc.png",
-          "planning": "Approved",
-          "url": "/estates/occc/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.109505,51.503522]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "Oldchurch Gardens estate",
           "borough": "havering",
           "image": "/images/oc1.jpg",
@@ -891,50 +825,6 @@ var freeBus = {
           "url": "/estates/picardystreet/"
         },
         "geometry": {"type":"Point","coordinates":[0.150198,51.490741]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Pike Close estate",
-          "borough": "bromley",
-          "image": "/images/pikeclose.jpg",
-          "planning": "Pending",
-          "url": "/estates/pikeclose/"
-        },
-        "geometry": {"type":"Point","coordinates":[0.021446,51.421991]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Rainham Road South estate",
-          "borough": "barkinganddagenham",
-          "image": "/images/rroad4.jpg",
-          "planning": "Approved",
-          "url": "/estates/rainhamroadsouth/"
-        },
-        "geometry": {"type":"Point","coordinates":[0.164733,51.547412]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Ravensbury estate",
-          "borough": "merton",
-          "image": "/images/rgrove1.jpg",
-          "planning": "Approved",
-          "url": "/estates/ravensbury/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.181542,51.399087]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Reginald House/Tidemill Gardens",
-          "borough": "lewisham",
-          "image": "/images/reg1.jpg",
-          "planning": "Approved",
-          "url": "/estates/reginald/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.024691,51.476346]}
         },
       {
         "type": "Feature",
@@ -994,17 +884,6 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "Sherwood Close estate",
-          "borough": "ealing",
-          "image": "/images/sherwood1.jpg",
-          "planning": "Approved",
-          "url": "/estates/sherwoodclose/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.319455,51.509075]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "Shires estate",
           "borough": "enfield",
           "image": "/images/cheshire.jpg",
@@ -1012,17 +891,6 @@ var freeBus = {
           "url": "/estates/shires/"
         },
         "geometry": {"type":"Point","coordinates":[-0.05349,51.61517]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Watling Gardens estate",
-          "borough": "brent",
-          "image": "/images/clairecourt1.jpg",
-          "planning": "Pending",
-          "url": "/estates/shootuphill/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.206821,51.548923]}
         },
       {
         "type": "Feature",
@@ -1093,17 +961,6 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "St John&#39;s Hill estate",
-          "borough": "wandsworth",
-          "image": "/images/sj4.jpg",
-          "planning": "Approved",
-          "url": "/estates/stjohnshill/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.170662,51.462352]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "St. Raphael&#39;s estate",
           "borough": "brent",
           "image": "/images/straphaels2.jpg",
@@ -1140,7 +997,7 @@ var freeBus = {
           "title": "Lesnes estate (Thamesmead East phase 2)",
           "borough": "bexley",
           "image": "/images/wolvercoteaerial.jpg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/thamesmeadeast/"
         },
         "geometry": {"type":"Point","coordinates":[0.126122,51.495310]}
@@ -1148,32 +1005,10 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "Thamesmead South (phase 1)",
-          "borough": "bexley",
-          "image": "/images/smere1.png",
-          "planning": "Approved",
-          "url": "/estates/thamesmeadsouth/"
-        },
-        "geometry": {"type":"Point","coordinates":[0.122512,51.497783]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Thames View estate",
-          "borough": "barkinganddagenham",
-          "image": "/images/tv3b.jpg",
-          "planning": "Pending",
-          "url": "/estates/thamesview/"
-        },
-        "geometry": {"type":"Point","coordinates":[0.109535,51.528893]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "Tustin estate",
           "borough": "southwark",
           "image": "/images/tustin2.jpeg",
-          "planning": "Pending",
+          "planning": "Approved",
           "url": "/estates/tustin/"
         },
         "geometry": {"type":"Point","coordinates":[-0.054867,51.480339]}
@@ -1236,17 +1071,6 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
-          "title": "Fred Wigg and John Walsh Towers",
-          "borough": "walthamforest",
-          "image": "/images/wiggandwalsh.jpg",
-          "planning": "Pending",
-          "url": "/estates/wiggandwalshtowers/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.0141,51.5610]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
           "title": "Winstanley &amp; York Road estates",
           "borough": "wandsworth",
           "image": "/images/wy22.jpg",
@@ -1265,28 +1089,6 @@ var freeBus = {
           "url": "/estates/woodberrydown/"
         },
         "geometry": {"type":"Point","coordinates":[-0.090658,51.572949]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Woodridings Court",
-          "borough": "haringey",
-          "image": "/images/woodridings.jpg",
-          "planning": "Pending",
-          "url": "/estates/woodridings/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.126031,51.601499]}
-        },
-      {
-        "type": "Feature",
-        "properties": {
-          "title": "Wornington Green estate",
-          "borough": "kensingtonandchelsea",
-          "image": "/images/worning1.jpg",
-          "planning": "Approved",
-          "url": "/estates/wornington/"
-        },
-        "geometry": {"type":"Point","coordinates":[-0.212212,51.523537]}
         }
     ]
   };
