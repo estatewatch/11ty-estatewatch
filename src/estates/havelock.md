@@ -31,7 +31,7 @@ The replacement of the existing social rented homes with the affordable rent ten
 
 {% picture "src/images/havelockgla.png", "alt text" %}
 
-Phase 1 of the scheme is underway and nearing completion. Homes are being marketed for sale in anticipation by Catalyst at [www.southallvillage.co.uk](http://www.southallvillage.co.uk). 
+Phase 1 of the scheme is complete and phase 2 is underway and nearing completion. Homes are being marketed for sale in anticipation by Catalyst at [www.southallvillage.co.uk](http://www.southallvillage.co.uk). 
 
 In April 2019, Ealing Council [announced](https://www.ealing.gov.uk/info/201104/housing_regeneration/374/havelock_estate/3) that it had written to all residents advising that a review of the scheme would take place.
 

@@ -11,11 +11,11 @@ location: '{"type":"Point","coordinates":[-0.170681,51.523316]}'
 landlord: Westminster Council
 developer:
 itla: PPCR
-total: 400
+total: 300
 ballot:
-planning: Pending
+planning: Approved
 ---
-400 homes on three estates in Westminster's Church Street Area are under threat of demolition.
+300 homes on three estates in Westminster's Church Street Area are under threat of demolition.
 
 Church street Area is located in Maida Vale, situated beside the Regent's Canal and in close proximity of Regent's Park.
 It was [designated](https://lbhf.maps.arcgis.com/apps/webappviewer/index.html?id=7cab3cdf6e344a0fb24df59ed6b9bdc5) as being situated within a __Housing Renewal__ zone in Westminster's [draft 2019-2040 Local Plan](https://www.westminster.gov.uk/cityplan2040).
@@ -26,23 +26,17 @@ Residents of Westminster's [Church street](https://www.estatewatch.london/estate
 
 {% picture "src/images/churchstreetballot.png", "alt text" %}
 
-The scheme underlying the ballot was then shelved in 2015 a new masterplan was drawn up. In 2018, Westminster Council announced that it would be holding any more ballots for further phases of the scheme. This was met by [protest](https://www.westminsterextra.co.uk/article/council-chiefs-at-war-with-mayor-khan-over-estate-demolition-vote) from the Mayor who threatened to withdraw £23m of funding. As with its other schemes like the [Ebury Bridge estate](https://www.estatewatch.london/estates/westminster/eburybridge/), Westminster is now proceeding without Mayoral funding in order to avoid having to ballot residents.
+The scheme underlying the ballot was then shelved in 2015 a new masterplan was drawn up. In 2018, Westminster Council announced that it would be holding any more ballots for further phases of the scheme. This was met by [protest](https://www.westminsterextra.co.uk/article/council-chiefs-at-war-with-mayor-khan-over-estate-demolition-vote) from the Mayor who threatened to withdraw £23m of funding.
 
-Its December 2021 [planning application documents](https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=R3DM1ZRP02T00) give the following explanation for not balloting residents:
-
-![Extract from the Council's Regeneration Statement](https://estatewatch.london/images/churchstreetreg.png)
-
-It is entirely within the Mayor's powers to call in this planning application for its failure to seek Mayoral funding. The requirement to seek grant funding is included both in [Policy 3.12 of the London Plan](https://www.london.gov.uk/what-we-do/planning/london-plan/past-versions-and-alterations-london-plan/london-plan-2016/london-plan-chapter-3/policy-312-negotiating) (Section A, subsection [g]) and the Mayor's [estate regeneration guidance](https://www.london.gov.uk/sites/default/files/better-homes-for-local-people-the-mayors-good-practice-guide-to-estate-regeneration.pdf):
-
-> "The council or housing association should seek gap funding. The Greater London Authority (GLA) has affordable housing grant funding that can be used for this purpose, though when considering applications the Mayor must be confident that all options for funding the scheme without grant, such as other landlord resources and optimising the density of a proposed scheme, have been fully explored." (page 16)
-
-Whether the Mayor will take action or turn a blind eye to Westminster's dupery remains to be seen. Note that when it came to Westminster playing the same trick with the Ebury Bridge estate, the Mayor turned a blind eye. 
+After a change of administration, residents were balloted again in December 2022. 73% of residents voted in favour of the scheme but it is not known how many turned out for the ballot.
 
 The 400 homes under threat are located in what has been labelled sites A, B and C:
 
 {% picture "src/images/css1.jpg", "alt text" %}
 
 {% picture "src/images/css2.jpg", "alt text" %}
+
+A planning application was approved in 2023 for demolition of the existing homes and construction of up to 1,120 new homes of which 50% 'affordable'.
 
 In February 2021, Westminster Council came under fire after it was [reported](https://londonnewsonline.co.uk/residents-petrified-that-housing-development-could-destroy-businesses/) that retailers had been served with notices to quit in the next phase of the Council's redevelopment of the [Church Street area estates](https://estatewatch.london/estates/westminster/churchstreet/).
 
@@ -58,3 +52,5 @@ Westminster Council has a [dedicated website](https://churchstreet.org/) for the
 [Resident consulation report](https://churchstreet.org/assets/Documents/Church-St-Consultation-Report.pdf)
 
 [Planning application documents, ref:021/08160/COOUT](https://idoxpa.westminster.gov.uk/online-applications/applicationDetails.do?activeTab=documents&keyVal=R3DM1ZRP02T00)
+
+Westminster's [Landlord Offer](/images/ChurchStreetLandlordOffer.pdf) to residents ahead of the 2022 ballot.

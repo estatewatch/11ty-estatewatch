@@ -34,10 +34,6 @@ A ballot of residents in the second phase of the scheme returned a positive resu
 
 There are no publicly available section 106 agreements for the consented phases so it is impossible to confirm whether the replacement 'social' housing will be social rent or affordable rent (up to 80% market rent).
 
-Brent's [leaseholder rehousing policy](http://democracy.brent.gov.uk/documents/s60550/Improving%20the%20Housing%20Offer%20for%20Tenants%20and%20Leaseholders.pdf) (para 5.8.2) says that its shared equity rehousing offer to leaseholders requires them to invest their savings into their shared equity home.
-
-This was [deemed unlawful](https://www.theguardian.com/society/2016/sep/16/government-blocks-controversial-plan-to-force-out-housing-estate-residents) by the Secretary of State at the 2015 Aylesbury estate CPO inquiry and required Southwark to [amend](http://moderngov.southwarksites.com/documents/s74901/Report%20Amending%20the%20shared%20equity%20rehousing%20policy%20for%20qualifying%20homeowners%20affected%20by%20regenerati.pdf) its policy.
-
 It is also a breach of the legal “principle of equivalence” which says that persons affected by compulsory purchase should be no worse off in financial terms after the acquisition. 
 
 UCL Bartlett's [Dr Pablo Sendra](https://www.ucl.ac.uk/bartlett/planning/dr-pablo-sendra-fernandez) is currently working with residents on the estate to create an alternative community-led plan, which satisfies the Council's regeneration objectives while retaining the estate's existing buildings.

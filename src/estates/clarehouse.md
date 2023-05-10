@@ -10,13 +10,14 @@ total: 129
 thumb: /images/clarehousethumb.jpg
 images:
   - src/images/clarehouse.jpg
+ballot: Exempt
 planning: Pending
 ---
 Clare House is a 22-storey tower block with 129 flats in Tower Hamlets. It was built in 1968 using the Long Panel System (LPS) construction method.
 
 The Ronan Point collapse in 1968 showed that some LPS systems were unsafe, but successive governments failed to ensure strengthening works were carried out. Investigations following the Grenfell Tower fire have resulted in several LPS buildings being deemed unsafe, for example the [Ledbury estate](https://www.estatewatch.london/estates/southwark/ledbury/) in Southwark.
 
-Clare House was also found to have been cladded with combustible materials during a refurbishment in the mid 2000's. On the basis of an undisclosed fire safety report, landlord Clarion Housing Association announced the imminent evacuation of the building in September 2021. Residents are currently in the process of being moved into temporary accommodation.  
+Clare House was also found to have been cladded with combustible materials during a refurbishment in the mid 2000's. On the basis of an undisclosed fire safety report, landlord Clarion Housing Association announced the imminent evacuation of the building in September 2021. 
 
 Clarion says that it is investigating all options for the block, including remediation/refurbishment and full demolition/redevelopment.
 

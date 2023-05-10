@@ -34,6 +34,7 @@ The Mayor agreed funding in principle for the redevelopment in November 2018.
 
 A ballot was held in July 2021, with a majority of residents voting in favour of redevelopment.
 
+Planning permission was granted in 2023 for 275 new homes, of which 179 'affordable'.
 
 More information is available on Riverside's website here: [https://www.riverside.org.uk/redevelopment-projects/calverley-close-revitalising-your-neighbourhood/](https://www.riverside.org.uk/redevelopment-projects/calverley-close-revitalising-your-neighbourhood/)
 

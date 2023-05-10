@@ -17,7 +17,7 @@ developer:
 itla: Source Partnership
 total: 134
 ballot: Approved
-planning: Pending
+planning: Approved
 ---
 134 homes are earmarked for demolition on Lambeth's Geoffrey Close estate near Coldharbour Lane.
 

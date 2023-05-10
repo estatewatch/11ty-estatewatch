@@ -14,7 +14,7 @@ developer:
 itla: PPCR
 total: 200
 ballot: Approved
-planning: Pending
+planning: Approved
 ---
 At least 200 of the 1075 homes on Haringey's Broadwater Farm estate are under threat of demolition.
 

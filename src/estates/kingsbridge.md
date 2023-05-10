@@ -13,7 +13,7 @@ landlord: One Housing Group
 developer:
 itla: Mike Tyrell
 total: 134
-ballot: Pending
+ballot: Approved
 planning: Pending
 ---
 134 homes are under threat on the Kingsbridge estate in Tower Hamlets.
@@ -45,7 +45,7 @@ In 2019, One Housing Group created a residents steering group on the Kingsbridge
 
 The latest [newsletter (Feb 2020)](https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf) says that an options appraisal is being drawn up to present to residents in order to select a preferred option.
 
-A ballot of residents is due to be held in summer 2022.
+In December 2022, a ballot was held for residents to vote if the regeneration proposals to demolish the existing blocks and build new homes should go ahead. A turnout of 75.6% of eligible voters took part in the ballot, of which 85.4% voted ‘yes’ and 14.6% voted ‘no’.
 
 __Links:__  
 Feb 2020 newsletter from One Housing - [https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf](https://www.onehousing.co.uk/__data/assets/pdf_file/0019/17731/New-Mill-Newsletter-February-2020.pdf)

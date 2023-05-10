@@ -16,7 +16,7 @@ developer:
 itla: Open Communities/Neal Purvis
 total: 298
 ballot: Approved
-planning: Pending
+planning: Approved
 ---
 298 homes are earmarked for demolition on Southwark's Tustin estate on the Old Kent Road.
 
@@ -47,6 +47,8 @@ This remaining £153.8m therefore represents the cost of replacing the existing 
 In April 2020, Southwark commissioned a [stock condition survey](/images/tustinsurvey.pdf) for the low-rise blocks on the estate. It estimated that the cost of refurbishing the homes to Decent Homes Standard, replacing kitchens and bathrooms and making some minor improvements to external areas would amount to £33m over thirty years (approx £3.5k per home per year).
 
 There has been no cost/benefit analysis comparing demolition to refurbishment. Neither has consideration been given to the fact that [government funding is available for refurbishment](https://londonnewsonline.co.uk/housing-estate-next-to-grenfell-tower-will-receive-a-carbon-neutral-overhaul-funded-by-the-council/).
+
+A planning application was approved in July 2022 for 690 new homes - 68% of which will be affordable, including a mix of council rent, shared ownership, key worker accommodation and homes for people aged over 55.
 
 __Links:__  
 

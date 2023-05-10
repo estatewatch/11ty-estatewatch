@@ -12,7 +12,7 @@ developer: Lovell
 itla:
 total: 172
 ballot: Required
-planning: Pending
+planning: Approved
 ---
 172 homes on Greenwich's Maryon Grove estate in Charlton have been earmarked for demolition by Greenwich Council. 
 
@@ -31,6 +31,8 @@ It also acknowledges that the replacement 'social' housing will be 'affordable r
 Despite being granted outline planning in 2015, detailed applications for the scheme are still pending and the estate is still fully occupied.
 
 Greenwich Council's [website](https://www.royalgreenwich.gov.uk/info/200200/regeneration/142/woolwich_regeneration/2) says that it has no date for commencing the scheme and that it is 'continuing to put pressure on the developer' to bring the scheme forward.
+
+Meanwhile, as of March 2023 the vast majority of homes on the estate have been left in a derelict state and subject to vandalism, as reported [here](https://853.london/2023/03/31/derelict-maryon-grove-estate-left-open-to-the-elements-will-be-fenced-off-soon-council-insists/).
 
 __Links:__
 

@@ -20,11 +20,11 @@ location: '{"type":"Point","coordinates":[-0.300195,51.486105]}'
 landlord: Hounslow Council
 developer:
 itla:
-total: 50
+total: 100
 ballot: Approved
-planning: Pending
+planning: Approved
 ---
-Circa 50 homes have been earmarked for demolition at Hounslow's Charlton House and Albany Parade in Brentford.
+Circa 100 homes have been earmarked for demolition at Hounslow's Charlton House and Albany Parade in Brentford.
 
 In January 2020, Hounslow's Cabinet [agreed a comprehensive review](https://democraticservices.hounslow.gov.uk/documents/s157644/CEX432%20Housing%20Estate%20Regeneration%20Programme.pdf) of its 171 council estates with a view to infill or redevelopment.
 
@@ -33,6 +33,8 @@ In the [Cabinet report](https://democraticservices.hounslow.gov.uk/documents/s15
 The six estates are: the Brabazon estate; the Brookwood estate; Charlton House; the Convent Way estate; the Norman Crescent estate and the Oriel estate.
 
 In March 2021, residents were balloted on the redevelopment of Charlton House, Albany House and Albany Parade. 87% of eligible residents voted in favour of the proposals.
+
+Planning permission was granted in February 2023 for 209 new flats, which are to be 100% 'affordable'.
 
 __Links:__  
 

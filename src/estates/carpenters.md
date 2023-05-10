@@ -79,6 +79,8 @@ Newham estimates renewing the estate will provide about 2,000 new and 300 refurb
 
 A ballot was held in December 2021, 73% of eligible residents voting in favour of redevelopment on a 66% turnout.
 
+A planning application was submitted in December 2022 for up to 2,000 new homes.
+
 Newham's [rehousing offer](https://mgov.newham.gov.uk/documents/s144070/Appenidx%201%20-%20LBN%20Estate%20Regeneration%20Housing%20Offer%20the%20Housing%20Offer.pdf) promises a new council home at the same rent level to secure tenants. Temporary tenants will be offered a secure tenancy on the redeveloped estate but will be charged an 'affordable rent':  
 
 _'Your rent will be an affordable rent, in accordance with the definitions set by the Mayor of London._'

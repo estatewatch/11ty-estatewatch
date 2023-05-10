@@ -11,8 +11,8 @@ developer:
 landlord: Sutton Council
 itla: PPCR
 total: 100
-ballot: Required
-planning: Pending
+ballot: Approved
+planning: Approved
 ---
 Circa 100 homes on Sutton's Elm Grove estate have been earmarked for potential demolition.
 
@@ -22,9 +22,13 @@ The estate is one of seven estates listed in [Sutton's Local Plan (2018)](https:
 
 The Council has [set up a steering group](https://www.sutton.gov.uk/info/200502/housing_advice_and_options/1659/elm_grove/6) to represent residents on the estate and in February 2021 a [draft Resident's Charter](https://drive.google.com/file/d/1pqib0zDnHOFMbobnRhaFC-ReJKxMQ2Hh/view) was published.
 
-A ballot was held in January 2022 with 78% of residents voting in favour of demolition. The [link to the Landlord Offer](https://www.sutton.gov.uk/-/elm-grove) on Sutton Council's website is broken. 
+A ballot was held in January 2022 with 78% of eligible residents voting in favour of demolition - the turnout is not known. The [link to the Landlord Offer](https://www.sutton.gov.uk/-/elm-grove) on Sutton Council's website is broken. 
 
 {% picture "src/images/elmgrovescreenshot.jpg", "alt text" %}
+
+A planning application was approved in 2022, made of 279 new homes of which 57 would replace the current social rent homes.
+
+Another 62 homes would be offered as affordable rent while 17 would be for shared ownership. The plan also includes 131 new homes for private sale and 12 properties to be sold to returning homeowners. 
 
 __Links:__  
 

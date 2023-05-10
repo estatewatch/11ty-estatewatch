@@ -41,6 +41,8 @@ In November 2020, Lambeth approved a 'kick-start' phase involving the redevelopm
 
 {% picture "src/images/fwickkick.png", "alt text" %}
 
+In early 2023, Lambeth Council announced that is was pausing the redevelopment of the Fenwick estate and two other estates (Central Hill and Cressingham Gardens) after a critical report recommended a ‘fundamental reset’ to the way it handles the long-running projects.
+
 __Links:__
 
 [Fenwick Against Demolition campaign - (Twitter link)](https://twitter.com/fenwick_place)

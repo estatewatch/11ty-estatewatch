@@ -14,7 +14,7 @@ images:
   - src/images/thamesmeadeast.jpg
   - src/images/thamesmeadeast.png
   - src/images/lesnesaerial.png
-planning: Pending
+planning: Approved
 category: underthreat
 stage: Proposal
 ---
@@ -53,6 +53,8 @@ There is nothing in the application to explain why it fails to comply with the [
 Neither is there any explanation as to how the scheme complies with the Mayor's requirement that alternatives to demolition have been explored and demolition is being pursued as a last resort.
 
 Peabody has submitted a [financial viability assessment](https://pa.bexley.gov.uk/online-applications/files/2FE1C374ADB0323DE13C63386406CECD/pdf/21_01948_OUTEA-FVA_APPENDED-2670425.pdf) explaining that it can't provide more social or affordable housing because the scheme is not viable. In its calculations Peabody has included a 16% profit margin (amounting to £110m) as a cost to the scheme, which it says is the minimum profit it requires - despite it being a non-profit charitable trust rather than a developer.
+
+The planning application was waved through by Bexley Council in Oct 2022 and then approved by the Mayor.
 
 We [reported last year](https://www.estatewatch.london/november-news-roundup/) that the Mayor's next round of grant funding excludes funding for replacement affordable homes, only additional affordable homes will qualify.
 

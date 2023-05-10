@@ -53,7 +53,7 @@ The Mayor has designated the Isle of Dogs as an 'opportunity area' and his [plan
 
 <img src="/images/isleofdogsoapf.png" class="img-fluid rounded img-thumbnail">
 
-The current proposals are to looking at a number of options for 84 homes in Oak House and Alice Shepherd House on the St John's estate, including demolition.
+80% of eligible residents voted in favour of demolition in a 2021 ballot and planning permission was granted in 2022 for 347 new homes on the site, of which 96 affordable.
 
 <img src="/images/oakalice.png" class="img-fluid rounded img-thumbnail">
 

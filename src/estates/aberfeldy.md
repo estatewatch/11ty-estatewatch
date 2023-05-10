@@ -43,7 +43,7 @@ The [compulsory purchase order documents](https://www.towerhamlets.gov.uk/Docume
 
 In August 2021, [pre-application advice](https://democracy.towerhamlets.gov.uk/documents/s189892/Aberfeldy%20Village%20SDC%20Pre-app%20Report%20Final.pdf) was sought on a revised masterplan for the remainder of the estate. This proposes to  provide 1608 new homes of which 1181 units would be for private sale, 81 units of intermediate tenure and 346 units as affordable rent (i.e. up to 80% market rent).
 
-As of March 2023, the final stages of the estate are awaiting demolition.
+This resulted in a planning application which was refused by Tower Hamlets in 2022 on the basis that the affordable housing offer of 38% was too low. In May 2023, the Mayor called in the application for him to determine himself.
 
 __Links:__
 [Mayor's stage 1 and stage 2 reports](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/aberfeldy-estate-0)

@@ -22,9 +22,9 @@ The estate is being demolished and redeveloped as part of the large Brent Cross 
 
 The development will see the construction of 7,400 new homes across the entire Brent Cross scheme of which only 15% are secured as 'affordable'. Of the affordable element 60% will be social rent and 40% intermediate housing.
 
-In 2017 Barnet Council was granted a [compulsory purchase order](/images/whitefieldcpo.pdf) to remove the remaining leaseholders from the blocks. It is understood that the compulsory purchase order expires in 2022, by which time all remaining residents must have been 'decanted'.
+In 2017 Barnet Council was granted the first [compulsory purchase order](/images/whitefieldcpo.pdf) to remove the remaining leaseholders from the first phase.
 
-Barnet's latest [Housing Strategy](https://www.barnet.gov.uk/sites/default/files/housing_strategy_final1.pdf) says that all new 
+As of May 2023, the decant of the first phase has commenced.
 
 **Links:**
 

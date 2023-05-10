@@ -2,7 +2,6 @@
 name: Colville estate
 borough: hackney
 location: '{"type":"Point","coordinates":[-0.083684,51.536318]}'
-ballot: Exempt
 landlord: Hackney Council
 developer: null
 itla: PPCR
@@ -15,13 +14,14 @@ images:
   - src/images/coleville1.png
   - src/images/colville8.png
   - src/images/colvilleplans.jpg
+ballot: Exempt
 planning: Approved
 ---
 Circa 200 homes remain earmarked for demolition on Hackney's Colville estate.
 
 The estate is situated between the Regents canal to the North and Shoreditch Park to the South. It originally comprised 432 homes around half of which have now been demolished.
 
-Phases 1, 2 and 3 of the scheme are complete and the decant has now started on phase 4 of the 7-phase scheme.
+Phases 1, 2, 3 and 4 of the scheme are complete and the decant has now started on phase 6 of the 7-phase scheme.
 
 The scheme 925 dwellings. Of these, 476 will be for market sale, 111 for shared ownership or shared equity, and 338 for social rent.
 

@@ -12,7 +12,7 @@ images:
   - src/images/ledbury1.jpg
   - src/images/ledbury2.jpeg
   - src/images/ledbury3.jpg
-planning: Pending
+planning: Approved
 ---
 224 homes have been earmarked for demolition on Southwark's Ledbury estate off the Old Kent Road.
 
@@ -25,6 +25,8 @@ In April 2021, Southwark Council balloted residents on whether their homes shoul
 [Council briefing papers](https://moderngov.southwark.gov.uk/documents/s100047/Report%20Ledbury%20Estate%20Towers.pdf) confirm that as of May 2021, of the 224 homes on the estate, 23 secure tenants remain, 18 are being occupied by those with leasehold interests and 103 are being used as temporary accommodation.
 
 The same report confirms that the Mayor has allocated £27m funding towards the redevelopment of the estate. 
+
+Planning was approved in 2022 for the construction of 340 new homes, of which 260 social rent.
 
 
 __Links:__

@@ -23,7 +23,7 @@ The estate also contains a community hall of 211sqm and a basketball court. It s
 
 Planning permission for the redevelopment of the estate was granted in November 2019 to a [joint venture between Catalyst Housing Association and developer Mount Anvil](https://www.chg.org.uk/development-regeneration/regeneration/friary-park-ealing/friary-park-rumour-busters/). Despite being [funded](/approved/funding) by the Mayor and [exempted](/approved/ballotexemptions) from his requirement to ballot residents, there is no stage 2 report available on the [GLA planning portal](https://www.london.gov.uk/what-we-do/planning/planning-applications-and-decisions/planning-application-search/friary-park-estate) confirming the Mayor's approval of the scheme. 
 
-The Mayor's [stage 1 planning report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//public%3A//public%3A//PAWS/media_id_477438/////friary_park_estate_report.pdf) says that the redeveloped site will increase three-fold in density providing 990 new homes including _"up to"_ 237 social rented replacement homes.
+The Mayor's [stage 1 planning report](https://www.london.gov.uk/sites/default/files/public%3A//public%3A//public%3A//public%3A//PAWS/media_id_477438/////friary_park_estate_report.pdf) says that the redeveloped site will increase three-fold in density providing 1,228 new homes of which 50% affordable, including _"up to"_ 237 social rented replacement homes.
 
 {% picture "src/images/fparkupto.png", "alt text" %}
 

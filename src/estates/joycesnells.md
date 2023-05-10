@@ -31,5 +31,9 @@ In September 2021, the Council [applied for a scoping opinion](https://planninga
 
 A ballot of estate residents was held in November 2021. 78% of eligible residents voted in favour of redevelopment on an 85% turnout.
 
+A planning application was approved in September 2022 for 1900 new homes.
+
 __Links:__  
 [Application for scoping opinion (ref:21/03691/SCOP)](https://planningandbuildingcontrol.enfield.gov.uk/online-applications/simpleSearchResults.do?action=firstPage)
+
+[Better Homes Enfield - report](https://betterhomes-enfield.org/2022/11/28/the-demolition-of-joyce-avenue-snells-park/)
