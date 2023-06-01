@@ -17,9 +17,9 @@ total: 538
 ballot: Exempt
 planning: Approved
 ---
-538 homes on RBKC's Wornington Green estate have been demolished by Catalyst Housing Association.
+Circa 150 homes on RBKC's Wornington Green estate remain earmarked for demolition by Catalyst Housing Association
 
-The estate has been replaced by 1,000 new homes.
+The estate is being replaced by 1,000 new homes.
 
 Catalyst's [website](https://www.chg.org.uk/development-regeneration/regeneration/wornington-green-kensington/) describes the replacement social housing as 'affordable rent':
 
@@ -35,3 +35,5 @@ Natasha Langridge, a temporary resident on the estate, has directed a [project r
 </audio>
 
 The full documentary is available for viewing online here: [https://vimeo.com/461591871](https://vimeo.com/461591871)
+
+In September 2022, residents on the final remaining phase of the estate [complained](https://www.mylondon.news/news/west-london-news/life-half-demolished-west-london-25083396) that they had been living on a building site for more than 10 years.
