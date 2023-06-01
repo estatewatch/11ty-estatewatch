@@ -1089,6 +1089,17 @@ var freeBus = {
           "url": "/estates/woodberrydown/"
         },
         "geometry": {"type":"Point","coordinates":[-0.090658,51.572949]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
+          "title": "Wornington Green estate",
+          "borough": "kensingtonandchelsea",
+          "image": "/images/worning1.jpg",
+          "planning": "Approved",
+          "url": "/estates/wornington/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.212212,51.523537]}
         }
     ]
   };
