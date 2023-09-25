@@ -4,15 +4,15 @@ borough: walthamforest
 location: '{"type":"Point","coordinates":[-0.0141,51.5610]}'
 thumb: /images/wiggandwalshthumb.jpg
 images:
-  - /images/wiggandwalsh.jpg
-  - /images/FW_JW1.jpg
-  - /images/FW_JW2.jpg
-  - /images/FW_JW3.jpg
-  - /images/FW_JW4.jpg
-  - /images/FW_JW5.jpg
-  - /images/FW_JW6.jpg
-  - /images/FW_JW7.jpg
-  - /images/FW_JW8.jpg
+  - src/images/wiggandwalsh.jpg
+  - src/images/FW_JW1.jpg
+  - src/images/FW_JW2.jpg
+  - src/images/FW_JW3.jpg
+  - src/images/FW_JW4.jpg
+  - src/images/FW_JW5.jpg
+  - src/images/FW_JW6.jpg
+  - src/images/FW_JW7.jpg
+  - src/images/FW_JW8.jpg
 landlord: Waltham Forest Council
 developer:
 itla:
