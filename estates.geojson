@@ -769,7 +769,7 @@ var freeBus = {
           "planning": "",
           "url": "/estates/montagueroad/"
         },
-        "geometry": {"type":"Point","coordinates":[-0.0141,51.5610]}
+        "geometry": {"type":"Point","coordinates":[-0.013773,51.560912]}
         },
       {
         "type": "Feature",
