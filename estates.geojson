@@ -763,6 +763,17 @@ var freeBus = {
       {
         "type": "Feature",
         "properties": {
+          "title": "Fred Wigg and John Walsh Towers",
+          "borough": "walthamforest",
+          "image": "/images/wiggandwalsh.jpg",
+          "planning": "",
+          "url": "/estates/montagueroad/"
+        },
+        "geometry": {"type":"Point","coordinates":[-0.0141,51.5610]}
+        },
+      {
+        "type": "Feature",
+        "properties": {
           "title": "New era estate",
           "borough": "hackney",
           "image": "/images/newera.jpg",
