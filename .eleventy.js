@@ -117,7 +117,6 @@ module.exports = function (eleventyConfig) {
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk",
     // important for github pages build (subdirectory):
-    
-    pathPrefix: "/estatewatch/",
+    pathPrefix: pathPrefix
   };
 };
